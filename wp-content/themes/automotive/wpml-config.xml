@@ -1,0 +1,114 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="translate">secondary_title</custom-field>
+        <custom-field action="translate">action_text</custom-field>
+        <custom-field action="translate">action_button_text</custom-field>
+        <custom-field action="ignore">sidebar</custom-field>
+        <custom-field action="ignore">header_image</custom-field>
+        <custom-field action="ignore">footer_area</custom-field>
+        <custom-field action="ignore">action_link</custom-field>
+    </custom-fields>
+    <custom-types>
+        <custom-type translate="1">listings</custom-type>
+        <custom-type translate="1">listings_portfolio</custom-type>
+    </custom-types> 
+    <taxonomies>
+        <taxonomy translate="1">listing_categories</taxonomy>
+        <taxonomy translate="1">listing_options</taxonomy>
+    </taxonomies>
+    <language-switcher-settings>
+        <key name="icl_lang_sel_config">
+            <key name="font-current-normal">#444444</key>
+            <key name="font-current-hover">#000000</key>
+            <key name="background-current-normal">#ffffff</key>
+            <key name="background-current-hover">#eeeeee</key>
+            <key name="font-other-normal">#444444</key>
+            <key name="font-other-hover">#000000</key>
+            <key name="background-other-normal">#ffffff</key>
+            <key name="background-other-hover">#eeeeee</key>
+            <key name="border">#cdcdcd</key>
+        </key>
+        <key name="icl_lang_sel_footer_config">
+            <key name="font-current-normal">#444444</key>
+            <key name="font-current-hover">#000000</key>
+            <key name="background-current-normal">#ffffff</key>
+            <key name="background-current-hover">#eeeeee</key>
+            <key name="font-other-normal">#444444</key>
+            <key name="font-other-hover">#000000</key>
+            <key name="background-other-normal">#ffffff</key>
+            <key name="background-other-hover">#eeeeee</key>
+            <key name="border">#cdcdcd</key>
+        </key> 
+        <key name="icl_language_switcher_sidebar">0</key> 
+        <key name="icl_widget_title_show">0</key>
+        <key name="icl_lang_sel_type">dropdown</key>
+        <key name="icl_lso_link_empty">0</key>
+        <key name="icl_lso_flags">0</key>
+        <key name="icl_lso_native_lang">1</key>
+        <key name="icl_lso_display_lang">1</key>
+        <key name="icl_lang_sel_footer">0</key>
+        <key name="icl_post_availability">0</key>
+        <key name="icl_post_availability_position">below</key>
+        <key name="icl_post_availability_text">This post is also available in: %s</key> 
+    </language-switcher-settings> 
+    <admin-texts>
+        <key name="automotive_wp">
+            <key name="toolbar_login" />
+            <key name="toolbar_languages" />
+            <key name="toolbar_search" />
+            <key name="toolbar_phone" />
+            <key name="toolbar_address" />
+            <key name="footer_text" />
+            <key name="blog_primary_title" />
+            <key name="blog_secondary_title" />
+            <key name="fourohfour_page_title" />
+            <key name="fourohfour_page_secondary_title" />
+            <key name="fourohfour_page_breadcrumb" />
+            <key name="search_page_title" />
+            <key name="search_page_secondary_title" />
+            <key name="search_page_breadcrumb" />
+            <key name="category_page_title" />
+            <key name="category_page_secondary_title" />
+            <key name="category_page_breadcrumb" />
+            <key name="tag_page_title" />
+            <key name="tag_page_secondary_title" />
+            <key name="tag_page_breadcrumb" />
+        </key>
+        <key name="listing_wp">
+            <key name="vehicle_singular_form" />
+            <key name="vehicle_plural_form" />
+            <key name="inventory_primary_title" />
+            <key name="inventory_secondary_title" />
+            <key name="sale_value" />
+            <key name="tax_label_box" />
+            <key name="tax_label_page" />
+            <key name="price_text_replacement" />
+            <key name="fuel_efficiency_text" />
+            <key name="recent_vehicles_title" />
+            <key name="recent_vehicles_desc" />
+            <key name="previous_vehicle_label" />
+            <key name="request_more_label" />
+            <key name="schedule_test_label" />
+            <key name="make_offer_label" />
+            <key name="tradein_label" />
+            <key name="pdf_brochure_label" />
+            <key name="print_vehicle_label" />
+            <key name="email_friend_label" />
+            <key name="next_vehicle_label" />
+            <key name="first_tab" />
+            <key name="second_tab" />
+            <key name="third_tab" />
+            <key name="fourth_tab" />
+            <key name="fifth_tab" />
+            <key name="listing_comment_footer" />
+            <key name="job_description_title" />
+            <key name="project_details_title" />
+            <key name="related_projects_title" />
+            <key name="default_value_price" />
+            <key name="default_value_city" />
+            <key name="default_value_hwy" />
+            <key name="recent_vehicles_title" />
+            <key name="recent_vehicles_desc" />
+        </key>
+    </admin-texts>
+</wpml-config>

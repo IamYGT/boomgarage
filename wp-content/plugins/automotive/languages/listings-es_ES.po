@@ -1,0 +1,4453 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Automotive Listings\n"
+"POT-Creation-Date: 2014-12-29 15:58-0500\n"
+"PO-Revision-Date: 2015-01-23 16:41+0100\n"
+"Last-Translator: Mix Creativos <mix@mixcreativos.es>\n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ReduxFramework/ReduxCore/extensions/customizer/extension_customizer.php:530
+#: ReduxFramework/ReduxCore/framework.php:1950
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr "﻿Tienes cambios que no se han guardado. ¿Quieres salvarlos ahora?"
+
+#: ReduxFramework/ReduxCore/extensions/customizer/extension_customizer.php:531
+#: ReduxFramework/ReduxCore/framework.php:1958
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+"Estás seguro? Restablecimiento perderá todos los valores personalizados."
+
+#: ReduxFramework/ReduxCore/extensions/customizer/extension_customizer.php:532
+#: ReduxFramework/ReduxCore/framework.php:1974
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+"﻿Las opciones actuales serán reemplazados por los valores predeterminados. "
+"¿Quieres continuar?"
+
+#: ReduxFramework/ReduxCore/extensions/customizer/extension_customizer.php:565
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr "﻿Tienes cambios que no se han guardado. ¿Quieres salvarlos ahora?"
+
+#: ReduxFramework/ReduxCore/extensions/customizer/extension_customizer.php:566
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+"Estás seguro? Restablecimiento perderá todos los valores personalizados."
+
+#: ReduxFramework/ReduxCore/extensions/customizer/extension_customizer.php:567
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+"﻿Las opciones actuales serán reemplazados por los valores predeterminados. "
+"¿Quieres continuar?"
+
+#: ReduxFramework/ReduxCore/framework.php:213
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr "Panel de opciones creado usando %1$s"
+
+#: ReduxFramework/ReduxCore/framework.php:213
+msgid "Redux Framework"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/framework.php:217
+#: ReduxFramework/ReduxCore/framework.php:221 functions.php:967
+#: meta_boxes.php:332 meta_boxes.php:413
+msgid "Options"
+msgstr "Opciones"
+
+#: ReduxFramework/ReduxCore/framework.php:1369
+#: ReduxFramework/ReduxCore/framework.php:1370
+#: ReduxFramework/ReduxCore/framework.php:3604
+#: ReduxFramework/ReduxCore/framework.php:3683
+msgid "System Info"
+msgstr "Información del Sistema"
+
+#: ReduxFramework/ReduxCore/framework.php:1966
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+"Estás seguro? Restablecimiento perderá todos los valores personalizados en "
+"esta sección."
+
+#: ReduxFramework/ReduxCore/framework.php:1981
+msgid "Please Wait"
+msgstr "Por favor espere"
+
+#: ReduxFramework/ReduxCore/framework.php:2106
+msgid "Enable"
+msgstr "Activar"
+
+#: ReduxFramework/ReduxCore/framework.php:2111
+msgid "Disable"
+msgstr "Desactivar"
+
+#: ReduxFramework/ReduxCore/framework.php:2117
+msgid "moving the mouse over"
+msgstr "mover el ratón sobre"
+
+#: ReduxFramework/ReduxCore/framework.php:2119
+msgid "clicking"
+msgstr "clic"
+
+#: ReduxFramework/ReduxCore/framework.php:2123
+#, php-format
+msgid ""
+"Hints are tooltips that popup when %d the hint icon, offering addition "
+"information about the field in which they appear.  They can be %d d by using "
+"the link below."
+msgstr ""
+"Las sugerencias son las sugerencias que emergente cuando% d el icono de "
+"pista, ofreciendo además información sobre el campo en el que aparecen. "
+"Pueden ser dd% utilizando el enlace de abajo."
+
+#: ReduxFramework/ReduxCore/framework.php:2128
+msgid "Hints"
+msgstr "Sugerencias"
+
+#: ReduxFramework/ReduxCore/framework.php:2253 listing_categories.php:299
+msgid "Default"
+msgstr "Por defecto"
+
+#: ReduxFramework/ReduxCore/framework.php:3349
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+"Advertencia: este panel de opciones no funcionará correctamente sin "
+"JavaScript!"
+
+#: ReduxFramework/ReduxCore/framework.php:3400
+msgid "Developer Mode Enabled"
+msgstr "Modo desarrollador Activado"
+
+#: ReduxFramework/ReduxCore/framework.php:3428
+msgid "Expand"
+msgstr "Expandir"
+
+#: ReduxFramework/ReduxCore/framework.php:3430
+#: ReduxFramework/ReduxCore/framework.php:3740
+msgid "Save Changes"
+msgstr "Guardar Cambios"
+
+#: ReduxFramework/ReduxCore/framework.php:3434
+#: ReduxFramework/ReduxCore/framework.php:3744
+msgid "Reset Section"
+msgstr "Restablecer Sección"
+
+#: ReduxFramework/ReduxCore/framework.php:3436
+#: ReduxFramework/ReduxCore/framework.php:3746
+msgid "Reset All"
+msgstr "Restablecer Todo"
+
+#: ReduxFramework/ReduxCore/framework.php:3441
+#: ReduxFramework/ReduxCore/framework.php:3751
+msgid "Working..."
+msgstr "Trabajando..."
+
+#: ReduxFramework/ReduxCore/framework.php:3461
+msgid "Settings Imported!"
+msgstr "Ajustes importados!"
+
+#: ReduxFramework/ReduxCore/framework.php:3476
+msgid "All Defaults Restored!"
+msgstr "Todos los valores predeterminados restaurados!"
+
+#: ReduxFramework/ReduxCore/framework.php:3490
+msgid "Section Defaults Restored!"
+msgstr "Sección predeterminados restaurados!"
+
+#: ReduxFramework/ReduxCore/framework.php:3504
+msgid "Settings Saved!"
+msgstr "Opciones guardadas"
+
+#: ReduxFramework/ReduxCore/framework.php:3524
+msgid "Settings have changed, you should save them!"
+msgstr "La configuración ha cambiado, debe guardar los cambios!"
+
+#: ReduxFramework/ReduxCore/framework.php:3532
+msgid "error(s) were found!"
+msgstr "errores (s) fueron encontrados."
+
+#: ReduxFramework/ReduxCore/framework.php:3540
+msgid "warning(s) were found!"
+msgstr "advertencia (s) fueron encontrados."
+
+#: ReduxFramework/ReduxCore/inc/class.redux_filesystem.php:22
+msgid "Unable to create a required directory. Please ensure that"
+msgstr "No se puede crear un directorio deseado. Por favor, asegúrese de que"
+
+#: ReduxFramework/ReduxCore/inc/class.redux_filesystem.php:24
+msgid ""
+"has the proper read/write permissions or enter your FTP information below."
+msgstr ""
+"tiene los permisos adecuados de lectura / escritura o ingrese su información "
+"de FTP a continuación."
+
+#: ReduxFramework/ReduxCore/inc/class.redux_functions.php:253
+msgid "Dismiss"
+msgstr "Descartar"
+
+#: ReduxFramework/ReduxCore/inc/class.redux_themecheck.php:61
+#, php-format
+msgid ""
+"The theme you are testing has %s embedded. We invite you to read the %sTheme-"
+"Check Documentation%s to understand some warnings you will see because of "
+"Redux."
+msgstr ""
+"El tema que se está probando tiene% s incrustado. Te invitamos a leer la"
+"% sTheme-Check Documentación% s para comprender algunas advertencias que "
+"verá debido Redux."
+
+#: ReduxFramework/ReduxCore/inc/class.redux_themecheck.php:109
+msgid ""
+"The following directories & files are still located in your <strong>Redux</"
+"strong>  directory. They may cause errors in Theme-Check."
+msgstr ""
+"Los siguientes directorios y archivos aún se encuentran en el directorio de "
+"<strong>Redux.</strong> Pueden producir errores en el tema de Check."
+
+#: ReduxFramework/ReduxCore/inc/debug.php:41
+#: ReduxFramework/ReduxCore/inc/debug.php:69
+#: ReduxFramework/ReduxCore/inc/debug.php:76
+#: ReduxFramework/ReduxCore/inc/debug.php:77
+msgid "Options Object"
+msgstr "Options Object"
+
+#: ReduxFramework/ReduxCore/inc/debug.php:54
+msgid "Show Object in Javascript Console Object"
+msgstr "Mostrar objeto en la consola de objetos de Javascript"
+
+#: ReduxFramework/ReduxCore/inc/fields/background/field_background.php:124
+#: ReduxFramework/ReduxCore/inc/fields/color/field_color.php:72
+#: ReduxFramework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:79
+#: ReduxFramework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:91
+#: ReduxFramework/ReduxCore/inc/fields/color_rgba/field_color_rgba.php:77
+msgid "Transparent"
+msgstr "Transparente"
+
+#: ReduxFramework/ReduxCore/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr "Repetir Fondo"
+
+#: ReduxFramework/ReduxCore/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr "Clip de fondo"
+
+#: ReduxFramework/ReduxCore/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr "Origen de fondo"
+
+#: ReduxFramework/ReduxCore/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr "Tamaño de fondo"
+
+#: ReduxFramework/ReduxCore/inc/fields/background/field_background.php:203
+#, fuzzy
+msgid "Background Attachment"
+msgstr "Adjuntar fondo"
+
+#: ReduxFramework/ReduxCore/inc/fields/background/field_background.php:223
+#, fuzzy
+msgid "Background Position"
+msgstr "Posición del fondo"
+
+#: ReduxFramework/ReduxCore/inc/fields/background/field_background.php:277
+#: ReduxFramework/ReduxCore/inc/fields/media/field_media.php:149
+msgid "No media selected"
+msgstr "No hay medios seleccionados"
+
+#: ReduxFramework/ReduxCore/inc/fields/background/field_background.php:314
+#: ReduxFramework/ReduxCore/inc/fields/media/field_media.php:193
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:126
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr "Subir"
+
+#: ReduxFramework/ReduxCore/inc/fields/background/field_background.php:321
+#: ReduxFramework/ReduxCore/inc/fields/media/field_media.php:200
+#: ReduxFramework/ReduxCore/inc/fields/multi_text/field_multi_text.php:69
+#: ReduxFramework/ReduxCore/inc/fields/multi_text/field_multi_text.php:73
+#: ReduxFramework/ReduxCore/inc/fields/multi_text/field_multi_text.php:76
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:133
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:190
+msgid "Remove"
+msgstr "Eliminar"
+
+#: ReduxFramework/ReduxCore/inc/fields/border/field_border.php:114
+#: ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:191
+#: functions.php:567 shortcodes.php:601
+msgid "All"
+msgstr "Todos"
+
+#: ReduxFramework/ReduxCore/inc/fields/border/field_border.php:127
+#: ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr "Arriba"
+
+#: ReduxFramework/ReduxCore/inc/fields/border/field_border.php:134
+#: ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:222
+#: vc.php:214
+msgid "Right"
+msgstr "Derecha"
+
+#: ReduxFramework/ReduxCore/inc/fields/border/field_border.php:141
+#: ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr "Abajo"
+
+#: ReduxFramework/ReduxCore/inc/fields/border/field_border.php:148
+#: ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:236
+#: vc.php:212
+msgid "Left"
+msgstr "Izquierda"
+
+#: ReduxFramework/ReduxCore/inc/fields/border/field_border.php:162
+msgid "Border style"
+msgstr "Estilo de borde"
+
+#: ReduxFramework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr "Desde"
+
+#: ReduxFramework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr "Hasta"
+
+#: ReduxFramework/ReduxCore/inc/fields/dimensions/field_dimensions.php:161
+#: vc.php:1200
+msgid "Width"
+msgstr "Ancho"
+
+#: ReduxFramework/ReduxCore/inc/fields/dimensions/field_dimensions.php:177
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:436
+#: vc.php:1208 vc.php:1484
+msgid "Height"
+msgstr "Alto"
+
+#: ReduxFramework/ReduxCore/inc/fields/dimensions/field_dimensions.php:188
+#: ReduxFramework/ReduxCore/inc/fields/dimensions/field_dimensions.php:189
+#: ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:245
+#: ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr "Unidades"
+
+#: ReduxFramework/ReduxCore/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr "Añadir/Editar"
+
+#: ReduxFramework/ReduxCore/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr "Limpiar galeria"
+
+#: ReduxFramework/ReduxCore/inc/fields/link_color/field_link_color.php:87
+msgid "Regular"
+msgstr "Normal"
+
+#: ReduxFramework/ReduxCore/inc/fields/link_color/field_link_color.php:91
+msgid "Hover"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/link_color/field_link_color.php:95
+msgid "Visited"
+msgstr "Visto"
+
+#: ReduxFramework/ReduxCore/inc/fields/link_color/field_link_color.php:99
+msgid "Active"
+msgstr "Activo"
+
+#: ReduxFramework/ReduxCore/inc/fields/multi_text/field_multi_text.php:61
+msgid "Add More"
+msgstr "Añadir"
+
+#: ReduxFramework/ReduxCore/inc/fields/password/field_password.php:62
+msgid "Password"
+msgstr "Contraseña"
+
+#: ReduxFramework/ReduxCore/inc/fields/password/field_password.php:63
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: ReduxFramework/ReduxCore/inc/fields/select/field_select.php:83
+#: ReduxFramework/ReduxCore/inc/fields/select_image/field_select_image.php:62
+msgid "Select an item"
+msgstr "Seleccione un item"
+
+#: ReduxFramework/ReduxCore/inc/fields/select/field_select.php:134
+#: ReduxFramework/ReduxCore/inc/fields/select_image/field_select_image.php:143
+msgid "No items of this type were found."
+msgstr "No se encontraron artículos de este tipo."
+
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:73
+#, php-format
+msgid "New %s"
+msgstr "Nuevo %s"
+
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:145
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:200
+#: file_import.php:296 file_import.php:310 the_widgets.php:421
+#: the_widgets.php:514 vc.php:111 vc.php:244 vc.php:447 vc.php:648 vc.php:700
+#: vc.php:908 vc.php:1046 vc.php:1165 vc.php:1330 vc.php:1544 vc.php:1575
+#: vin_import.php:205
+msgid "Title"
+msgstr "Título"
+
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:149
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:204 vc.php:544
+#: vc.php:1055
+msgid "Description"
+msgstr "Descripción"
+
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:153
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr "URL"
+
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:167
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:220
+#: listing_categories.php:305 meta_boxes.php:446 meta_boxes.php:459
+msgid "Delete"
+msgstr "Eliminar"
+
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr "Añadir nuevo %s"
+
+#: ReduxFramework/ReduxCore/inc/fields/switch/field_switch.php:41
+msgid "On"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:227
+msgid "Font Family"
+msgstr "Familia de Fuente"
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:228
+msgid "Font family"
+msgstr "Familia de Fuente"
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:254
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:255
+msgid "Backup Font Family"
+msgstr "Familia de fuentes de copia de seguridad"
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:269
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:276
+msgid "Font style"
+msgstr "Estilo de fuente"
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:270
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:276
+#: vc.php:46 vc.php:1498
+msgid "Style"
+msgstr "Estilo"
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:316
+msgid "Font subsets"
+msgstr "Subconjuntos de fuentes"
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:318
+msgid "Font Subsets"
+msgstr "Subconjuntos de fuentes"
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:319
+msgid "Subsets"
+msgstr "Subconjunto"
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:319
+msgid "Font script"
+msgstr "Script Fuentes"
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:336
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:337
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:338
+msgid "Text Align"
+msgstr "Alineación del texto"
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:359
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:360
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:361
+msgid "Text Transform"
+msgstr "Transformación del texto"
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:382
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:383
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:384
+msgid "Font Variant"
+msgstr "Variante de la fuente"
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:402
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:403
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:404
+msgid "Text Decoration"
+msgstr "Decoración del texto"
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:426
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:427
+msgid "Font Size"
+msgstr "Tamaño de fuente"
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:427
+#: shortcodes.php:2307
+msgid "Size"
+msgstr "Tamaño"
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:435
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:436
+msgid "Line Height"
+msgstr "Altura de Línea"
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:444
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:445
+msgid "Word Spacing"
+msgstr "espaciado entre palabras"
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:453
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:454
+msgid "Letter Spacing"
+msgstr "Espaciado entre letras"
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:472
+msgid "Font Color"
+msgstr "Color de fuente"
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:474
+msgid "Font color"
+msgstr "Color de fuente"
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:864
+msgid "Standard Fonts"
+msgstr "Standard Fuentes"
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:965
+msgid "Google Webfonts"
+msgstr "Fuentes Google"
+
+#: ReduxFramework/ReduxCore/inc/import_export.php:78
+msgid "Import / Export Options"
+msgstr "Importar / Exportar Opciones"
+
+#: ReduxFramework/ReduxCore/inc/import_export.php:81
+msgid "Import Options"
+msgstr "Importar opciones"
+
+#: ReduxFramework/ReduxCore/inc/import_export.php:82
+msgid "Import from file"
+msgstr "Importar desde archivo"
+
+#: ReduxFramework/ReduxCore/inc/import_export.php:82
+msgid "Import from URL"
+msgstr "Importar desde URL"
+
+#: ReduxFramework/ReduxCore/inc/import_export.php:85
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+"Ingrese su copia de seguridad debajo y haga clic en Importar para restaurar "
+"las opciones de su sitio desde una copia de seguridad."
+
+#: ReduxFramework/ReduxCore/inc/import_export.php:90
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+"Introduzca la URL para establecer las opciones de otros sitios y haga clic "
+"en Importar para cargar las opciones de ese sitio."
+
+#: ReduxFramework/ReduxCore/inc/import_export.php:94
+#: ReduxFramework/extensions/custom_import/custom_import/field_custom_import.php:79
+#: ReduxFramework/options/options.php:906
+msgid "Import"
+msgstr "Importar"
+
+#: ReduxFramework/ReduxCore/inc/import_export.php:94
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+"ADVERTENCIA! Esto sobrescribirá todos los valores de las opciones "
+"existentes, proceda con precaución!"
+
+#: ReduxFramework/ReduxCore/inc/import_export.php:97
+msgid "Export Options"
+msgstr "Exportar Opciones"
+
+#: ReduxFramework/ReduxCore/inc/import_export.php:100
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+"Aquí puedes copiar / descargar la configuración de opciones actuales. "
+"Mantenga este archivo seguro, ya que se puede utilizar como una copia de "
+"seguridad si algo va mal, o usted puede utilizarlo para restaurar la "
+"configuración en este sitio (o en cualquier otro sitio)."
+
+#: ReduxFramework/ReduxCore/inc/import_export.php:104
+msgid "Copy"
+msgstr "Copiar"
+
+#: ReduxFramework/ReduxCore/inc/import_export.php:104
+msgid "Download"
+msgstr "Descargar"
+
+#: ReduxFramework/ReduxCore/inc/import_export.php:104
+msgid "Copy Link"
+msgstr "Copiar Enlace"
+
+#: ReduxFramework/ReduxCore/inc/import_export.php:140
+#: ReduxFramework/ReduxCore/inc/import_export.php:149
+#: ReduxFramework/ReduxCore/inc/import_export.php:150
+#: ReduxFramework/options/options.php:881
+msgid "Import / Export"
+msgstr "Importación/Exportación"
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:129
+msgid "Help improve Our Panel"
+msgstr "Ayúdenos a mejorar Nuestro Panel"
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:130
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatibility."
+msgstr ""
+"Por favor, ayúdenos a mejorar nuestro panel permitiéndonos recopilar "
+"estadísticas anónimas de uso. De este modo conoceremos las configuraciones, "
+"plugins y temas para ponerlos a prueba y asegurar así la compatibilidad de "
+"los mismos."
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:135
+msgid "Allow tracking"
+msgstr "Permitir el seguimiento"
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:140
+msgid "Do not allow tracking"
+msgstr "No permitir el seguimiento"
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:151
+msgid "Welcome to the Redux Demo Panel"
+msgstr "Bienvenido al Panel Redux demo"
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:152
+#: ReduxFramework/ReduxCore/inc/welcome.php:139
+msgid "Getting Started"
+msgstr "Empezando"
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:152
+#, php-format
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+"Este panel muestra las muchas características de Redux. Antes de excavar en, "
+"le sugerimos que se levanta a la velocidad mediante la revisión de%1$s."
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:152
+msgid "our documentation"
+msgstr "nuestra documentación"
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:153
+msgid "Redux Generator"
+msgstr "Redux Generador"
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:153
+#, php-format
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:154
+msgid "Redux Extensions"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:154
+#, php-format
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of "
+"Redux?  Visit our %1$s to learn more!"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:154
+msgid "extensions directory"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:155
+msgid "Like Redux?"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:155
+#, php-format
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:155
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:155
+msgid "donation"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:156 the_widgets.php:582
+#: the_widgets.php:603 the_widgets.php:662
+msgid "Newsletter"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:156
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:157
+msgid "Email address"
+msgstr "Dirección de e-mail"
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:157 the_widgets.php:595
+msgid "Subscribe"
+msgstr "Suscribirse"
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:166 shortcodes.php:712
+#: shortcodes.php:1297
+msgid "Close"
+msgstr "Cerrar"
+
+#: ReduxFramework/ReduxCore/inc/validation/color/validation_color.php:15
+#: ReduxFramework/ReduxCore/inc/validation/color_rgba/validation_color_rgba.php:14
+#: ReduxFramework/ReduxCore/inc/validation/colorrgba/validation_colorrgba.php:16
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+"Debe proporcionar una lista separada por comas de los valores numéricos de "
+"esta opción."
+
+#: ReduxFramework/ReduxCore/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr "Este campo debe ser una fecha válida."
+
+#: ReduxFramework/ReduxCore/inc/validation/email/validation_email.php:16
+#: ReduxFramework/ReduxCore/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr ""
+"Debe proporcionar una dirección de correo electrónico válida para esta "
+"opción."
+
+#: ReduxFramework/ReduxCore/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+"No puede incluir ningún código HTML en este campo, se han eliminado todas "
+"las etiquetas HTML."
+
+#: ReduxFramework/ReduxCore/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+"No puede introducir ningún carácter especial en este campo, se han eliminado "
+"todos los caracteres especiales."
+
+#: ReduxFramework/ReduxCore/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr "Este campo no puede estar vacío. Por favor, introduzca un valor."
+
+#: ReduxFramework/ReduxCore/inc/validation/numeric/validation_numeric.php:16
+#: ReduxFramework/ReduxCore/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr "Debe proporcionar un valor numérico para esta opción."
+
+#: ReduxFramework/ReduxCore/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr "Usted debe proporcionar una dirección URL válida para esta opción."
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:40
+msgid "Welcome to Redux Framework"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:48
+#: ReduxFramework/ReduxCore/inc/welcome.php:295
+msgid "Redux Framework Changelog"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:56
+msgid "Getting started with Redux Framework"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:64
+msgid "The people that develop Redux Framework"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:135
+msgid "What's New"
+msgstr "Novedades"
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:143
+msgid "Changelog"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:147
+msgid "Credits"
+msgstr "Créditos"
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:164
+#: ReduxFramework/ReduxCore/inc/welcome.php:333
+#: ReduxFramework/ReduxCore/inc/welcome.php:471
+#, php-format
+msgid "Welcome to Redux Framework %s"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:167
+#, php-format
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is ready to "
+"<add description>"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:169
+#: ReduxFramework/ReduxCore/inc/welcome.php:300
+#: ReduxFramework/ReduxCore/inc/welcome.php:338
+#: ReduxFramework/ReduxCore/inc/welcome.php:476
+#, php-format
+msgid "Version %s"
+msgstr "Versión %s"
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:174
+msgid "Some Feature"
+msgstr "Algunas Características"
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:178
+#: ReduxFramework/ReduxCore/inc/welcome.php:182
+#: ReduxFramework/ReduxCore/inc/welcome.php:195
+#: ReduxFramework/ReduxCore/inc/welcome.php:199
+#: ReduxFramework/ReduxCore/inc/welcome.php:203
+#: ReduxFramework/ReduxCore/inc/welcome.php:208
+#: ReduxFramework/ReduxCore/inc/welcome.php:221
+#: ReduxFramework/ReduxCore/inc/welcome.php:225
+#: ReduxFramework/ReduxCore/inc/welcome.php:230
+msgid "Feature"
+msgstr "Características"
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:190
+msgid "Some feature"
+msgstr "Alguna Característica"
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:217
+msgid "More Features"
+msgstr "Más características"
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:223
+#: ReduxFramework/ReduxCore/inc/welcome.php:227
+#: ReduxFramework/ReduxCore/inc/welcome.php:232
+msgid "description"
+msgstr "descripción"
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:238
+msgid "Additional Updates"
+msgstr "Actualizaciones Adicionales"
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:242
+#: ReduxFramework/ReduxCore/inc/welcome.php:246
+#: ReduxFramework/ReduxCore/inc/welcome.php:252
+#: ReduxFramework/ReduxCore/inc/welcome.php:256
+#: ReduxFramework/ReduxCore/inc/welcome.php:262
+#: ReduxFramework/ReduxCore/inc/welcome.php:266
+msgid "Cool thing"
+msgstr "Lo interesante"
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:244
+#: ReduxFramework/ReduxCore/inc/welcome.php:248
+#: ReduxFramework/ReduxCore/inc/welcome.php:254
+#: ReduxFramework/ReduxCore/inc/welcome.php:258
+#: ReduxFramework/ReduxCore/inc/welcome.php:264
+#: ReduxFramework/ReduxCore/inc/welcome.php:268
+msgid "cool thing description."
+msgstr "Descripción cosas interesantes."
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:277
+#: ReduxFramework/ReduxCore/inc/welcome.php:316
+msgid "Go to Redux Framework"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:278
+msgid "View the Full Changelog"
+msgstr "Ver la lista completa de cambios"
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:298
+#: ReduxFramework/ReduxCore/inc/welcome.php:336
+#: ReduxFramework/ReduxCore/inc/welcome.php:474
+#, php-format
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is ready to "
+"make your <description>"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:305
+msgid "Full Changelog"
+msgstr "Historial de cambios completo"
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:342
+msgid ""
+"Use the tips below to get started using Redux Framework. You'll be up and "
+"running in no time!"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:345
+msgid "Creating Your First Panel"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:350
+#, php-format
+msgid "<a href=\"%s\">%s &rarr; Add New</a>"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:352
+#, php-format
+msgid ""
+"The %s menu is your access point for all aspects of your Easy Digital "
+"Downloads product creation and setup. To create your first product, simply "
+"click Add New and then fill out the product details."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:354
+msgid "Product Price"
+msgstr "Precio del Producto"
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:356
+msgid ""
+"Products can have simple prices or variable prices if you wish to have more "
+"than one price point for a product. For a single price, simply enter the "
+"price. For multiple price points, click <em>Enable variable pricing</em> and "
+"enter the options."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:358
+msgid "Download Files"
+msgstr "Descargar Archivos"
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:360
+msgid ""
+"Uploading the downloadable files is simple. Click <em>Upload File</em> in "
+"the Download Files section and choose your download file. To add more than "
+"one file, simply click the <em>Add New</em> button."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:366
+msgid "Display a Product Grid"
+msgstr "Mostrar una cuadrícula Producto"
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:373
+#, fuzzy
+msgid "Flexible Product Grids"
+msgstr "Añadir producto personalizado al Tab"
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:375
+msgid ""
+"The [downloads] shortcode will display a product grid that works with any "
+"theme, no matter the size. It is even responsive!"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:377
+msgid "Change the Number of Columns"
+msgstr "Cambiar el número de columnas"
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:379
+msgid ""
+"You can easily change the number of columns by adding the columns=\"x\" "
+"parameter:"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:385
+msgid "Additional Display Options"
+msgstr "Opciones adicionales de visualización"
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:387
+#, php-format
+msgid ""
+"The product grids can be customized in any way you wish and there is <a href="
+"\"%s\">extensive documentation</a> to assist you."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:392
+msgid "Purchase Buttons Anywhere"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:397
+msgid "The <em>[purchase_link]</em> Shortcode"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:399
+msgid ""
+"With easily accessible shortcodes to display purchase buttons, you can add a "
+"Buy Now or Add to Cart button for any product anywhere on your site in "
+"seconds."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:401
+msgid "Buy Now Buttons"
+msgstr "Botones Comprar ahora"
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:403
+msgid ""
+"Purchase buttons can behave as either Add to Cart or Buy Now buttons. With "
+"Buy Now buttons customers are taken straight to PayPal, giving them the most "
+"frictionless purchasing experience possible."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:409
+msgid "Need Help?"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:413
+msgid "Phenomenal Support"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:415
+msgid ""
+"We do our best to provide the best support we can. If you encounter a "
+"problem or have a question, post a question in the <a href=\"https://"
+"easydigitaldownloads.com/support\">support forums</a>."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:417
+msgid "Need Even Faster Support?"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:419
+msgid ""
+"Our <a href=\"https://easydigitaldownloads.com/support/pricing/\">Priority "
+"Support forums</a> are there for customers that need faster and/or more in-"
+"depth assistance."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:425
+msgid "Stay Up to Date"
+msgstr "Manténgase al día"
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:429
+msgid "Get Notified of Extension Releases"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:431
+msgid ""
+"New extensions that make Easy Digital Downloads even more powerful are "
+"released nearly every single week. Subscribe to the newsletter to stay up to "
+"date with our latest releases. <a href=\"http://eepurl.com/kaerz\" target="
+"\"_blank\">Signup now</a> to ensure you do not miss a release!"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:433
+msgid "Get Alerted About New Tutorials"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:435
+msgid ""
+"<a href=\"http://eepurl.com/kaerz\" target=\"_blank\">Signup now</a> to hear "
+"about the latest tutorial releases that explain how to take Easy Digital "
+"Downloads further."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:441
+msgid "Extensions for Everything"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:445
+msgid "Over 250 Extensions"
+msgstr "Más de 250 extensiones"
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:447
+msgid ""
+"Add-on plugins are available that greatly extend the default functionality "
+"of Easy Digital Downloads. There are extensions for payment processors, such "
+"as Stripe and PayPal, extensions for newsletter integrations, and many, many "
+"more."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:449
+msgid "Visit the Extension Store"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:451
+msgid ""
+"<a href=\"https://asydigitaldownloads.com/extensions\" target=\"_blank\">The "
+"Extensions store</a> has a list of all available extensions, including "
+"convenient category filters so you can find exactly what you are looking for."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:480
+msgid ""
+"Redux Framework is created by a worldwide team of developers who <something "
+"witty here>"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:500
+msgid "No valid changlog was found."
+msgstr "No se encontró changlog válida."
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:539
+#, php-format
+msgid "View %s"
+msgstr "Ver %s"
+
+#: ReduxFramework/options/options.php:22
+msgid "Automotive Settings"
+msgstr "Configuración Automotive"
+
+#: ReduxFramework/options/options.php:25
+msgid "Name of service used for vehicle history reports"
+msgstr "Nombre del servicio utilizado para informes del historial de vehículo"
+
+#: ReduxFramework/options/options.php:28
+msgid "Vehicle History Report"
+msgstr "Informe de historial de vehículo"
+
+#: ReduxFramework/options/options.php:32
+msgid "Logo used for vehicle history reports"
+msgstr ""
+
+#: ReduxFramework/options/options.php:38
+msgid "The image used to display a vehicles fuel efficiency rating"
+msgstr ""
+"La imagen que se utiliza para mostrar una calificación de eficiencia de "
+"combustible de los vehículos"
+
+#: ReduxFramework/options/options.php:41
+msgid "Fuel Efficiency Rating Image"
+msgstr ""
+
+#: ReduxFramework/options/options.php:46
+msgid "This title shows up in the header section of all listings posted."
+msgstr ""
+"Este título aparece en la sección de encabezado de todos los anuncios "
+"escritos."
+
+#: ReduxFramework/options/options.php:47
+msgid "Inventory Listing Titles"
+msgstr "Listado de títulos de inventario"
+
+#: ReduxFramework/options/options.php:48
+msgid "Inventory Listing"
+msgstr "Listado de inventario"
+
+#: ReduxFramework/options/options.php:53
+msgid "This secondary title displays under previous title in the header"
+msgstr ""
+"Este título secundario muestra bajo el título anterior en el encabezado"
+
+#: ReduxFramework/options/options.php:54
+msgid "Powerful Inventory Marketing, Fully Integrated"
+msgstr "Inventario Marketing, completamente integrado"
+
+#: ReduxFramework/options/options.php:59
+#: ReduxFramework/options/options.php:362
+msgid "Inventory Page"
+msgstr "Página Inventory"
+
+#: ReduxFramework/options/options.php:60
+msgid "Select the inventory page that will be highlighted in the menu"
+msgstr "Seleccione la página de inventario que se destacará en el menú"
+
+#: ReduxFramework/options/options.php:66
+msgid "Sold vehicles"
+msgstr "Vehículos vendidos"
+
+#: ReduxFramework/options/options.php:67
+msgid ""
+"This will hide the vehicles that are sold, sold vehicles can still be shown "
+"by adding &show_sold to the end of the URL"
+msgstr ""
+"Esto ocultará los vehículos que se venden, vehículos vendidos aún pueden ser "
+"demostrados por la adición de & show_sold hasta el final de la URL"
+
+#: ReduxFramework/options/options.php:68
+msgid "Show"
+msgstr "Mostrar"
+
+#: ReduxFramework/options/options.php:69
+msgid "Hide"
+msgstr "Ocultar"
+
+#: ReduxFramework/options/options.php:74
+msgid "Comparison Page"
+msgstr "Página de comparación"
+
+#: ReduxFramework/options/options.php:75
+msgid "Select the comparison page that will be used"
+msgstr "Seleccione la página de comparación que se utilizará"
+
+#: ReduxFramework/options/options.php:86
+msgid "The amount of listings being displayed on the inventory page"
+msgstr "La cantidad de anuncios que se muestran en la página de inventario"
+
+#: ReduxFramework/options/options.php:91
+msgid "Number of listings"
+msgstr "Numero de listings"
+
+#: ReduxFramework/options/options.php:95
+msgid "Sale Prefix"
+msgstr "Prefijo de venta"
+
+#: ReduxFramework/options/options.php:97
+msgid ""
+"This text gets prefixed to the \"Price:\" if listing is on sale (i.e. "
+"reduced, sale)"
+msgstr ""
+
+#: ReduxFramework/options/options.php:101
+msgid "Tax Label Inside Listing"
+msgstr "Etiqueta de impuestos dentro de listado"
+
+#: ReduxFramework/options/options.php:103
+msgid "The text inside the inventory listing box."
+msgstr "El texto dentro del cuadro de lista de inventario."
+
+#: ReduxFramework/options/options.php:104
+msgid "Plus Sales Tax"
+msgstr "IMPUESTO SOBRE LAS VENTAS"
+
+#: ReduxFramework/options/options.php:108
+msgid "Tax Label on Inventory Page"
+msgstr "Etiqueta de impuesto en la página de inventario"
+
+#: ReduxFramework/options/options.php:110
+msgid "The text on the listing page under the price."
+msgstr "El texto en la página de listado bajo el precio."
+
+#: ReduxFramework/options/options.php:111
+msgid "Plus Taxes & Licensing"
+msgstr "Mas todos los gastos, impuestos y tasas."
+
+#: ReduxFramework/options/options.php:115
+msgid "Comparison functionality"
+msgstr "Funcionalidad de comparación"
+
+#: ReduxFramework/options/options.php:117
+msgid "Enable or disabled the comparison functionality"
+msgstr "Activa o desactiva la funcionalidad de comparación"
+
+#: ReduxFramework/options/options.php:119
+msgid "Enabled"
+msgstr "Habilitado"
+
+#: ReduxFramework/options/options.php:120
+msgid "Disabled"
+msgstr "Deshabilitado"
+
+#: ReduxFramework/options/options.php:123
+msgid "Listing Views"
+msgstr "Listado Views"
+
+#: ReduxFramework/options/options.php:124
+msgid "Toggle the functionality of the listing views"
+msgstr ""
+
+#: ReduxFramework/options/options.php:130
+msgid "Thumbnail Slideshow"
+msgstr "Presentación de diapositivas en miniatura"
+
+#: ReduxFramework/options/options.php:131
+msgid "Display a slideshow if the user clicks the listing thumbnail"
+msgstr ""
+"Mostrar una presentación de diapositivas, si el usuario hace clic en la "
+"miniatura de la lista"
+
+#: ReduxFramework/options/options.php:139
+msgid "Additional Categories"
+msgstr "Categorías adicionales"
+
+#: ReduxFramework/options/options.php:140
+msgid ""
+"These categories will show up under the search box widget and are on each "
+"listing edit page."
+msgstr ""
+"Estas categorías se mostrarán bajo el search widget de caja y están en cada "
+"página de editar la lista."
+
+#: ReduxFramework/options/options.php:142
+msgid "Certified"
+msgstr "Certificado"
+
+#: ReduxFramework/options/options.php:143
+msgid "CARFAX Verified"
+msgstr ""
+
+#: ReduxFramework/options/options.php:144
+msgid "Brand New"
+msgstr "Nueva Marca"
+
+#: ReduxFramework/options/options.php:151
+msgid "Currency Settings"
+msgstr "Configuración de moneda"
+
+#: ReduxFramework/options/options.php:154
+msgid "Enter in your symbol used for currency"
+msgstr "Ingrese en su símbolo de moneda"
+
+#: ReduxFramework/options/options.php:157
+msgid "Currency Symbol"
+msgstr "Símbolo de moneda"
+
+#: ReduxFramework/options/options.php:160
+msgid "Change the position of the currency symbol"
+msgstr "Cambiar la posición del símbolo de moneda"
+
+#: ReduxFramework/options/options.php:163
+msgid "Currency Symbol Placement"
+msgstr "Colocación del símbolo de moneda"
+
+#: ReduxFramework/options/options.php:164
+msgid "After Value"
+msgstr "Después de valor"
+
+#: ReduxFramework/options/options.php:165
+msgid "Before Value"
+msgstr "Antes de valor"
+
+#: ReduxFramework/options/options.php:169
+msgid "Enter in a separator for large currency amounts"
+msgstr "Introducir en un separador para cantidades de moneda grande"
+
+#: ReduxFramework/options/options.php:172
+msgid "Currency Separator"
+msgstr "Separador de moneda"
+
+#: ReduxFramework/options/options.php:178
+msgid "Email Templates"
+msgstr "Plantillas de correo electrónico"
+
+#: ReduxFramework/options/options.php:181
+msgid "Display this message when an email is successfully sent."
+msgstr ""
+"Mostrar este mensaje cuando un correo electrónico es enviado con éxito."
+
+#: ReduxFramework/options/options.php:184
+msgid "Email was sent"
+msgstr "Correo electrónico fue enviado"
+
+#: ReduxFramework/options/options.php:185
+msgid "The email was sent."
+msgstr "El correo electrónico ha sido enviado."
+
+#: ReduxFramework/options/options.php:188
+msgid "Display this message when an email isn't successfully sent."
+msgstr ""
+"Mostrar este mensaje cuando un correo electrónico no se envía con éxito"
+
+#: ReduxFramework/options/options.php:191
+msgid "Email failed to send"
+msgstr "Error al enviar correo electrónico"
+
+#: ReduxFramework/options/options.php:192
+msgid "The email was not sent."
+msgstr "Correo electrónico no enviado."
+
+#: ReduxFramework/options/options.php:195
+msgid "Display this message if the email is being marked by"
+msgstr "Mostrar este mensaje si el correo electrónico está siendo marcado por"
+
+#: ReduxFramework/options/options.php:198
+msgid "Email is spam"
+msgstr "Correo electrónico es spam"
+
+#: ReduxFramework/options/options.php:199
+msgid "The email you are trying to send is considered spam."
+msgstr "El correo electrónico que está intentando enviar es considerado spam."
+
+#: ReduxFramework/options/options.php:202
+msgid ""
+"Edit the subject of the email that is used to tell friends about vehicles. "
+"You can use the variable"
+msgstr ""
+"Editar al asunto del correo electrónico que se utiliza para indicar a amigos "
+"acerca de los vehículos. Puede utilizar la variable"
+
+#: ReduxFramework/options/options.php:205
+#: ReduxFramework/options/options.php:582 functions.php:918
+msgid "Email to a Friend"
+msgstr "Enviar a un amigo"
+
+#: ReduxFramework/options/options.php:206
+msgid "wants you to check this vehicle out"
+msgstr "quiere que vea este vehículo"
+
+#: ReduxFramework/options/options.php:209
+#: ReduxFramework/options/options.php:227
+#: ReduxFramework/options/options.php:249
+#: ReduxFramework/options/options.php:271
+#: ReduxFramework/options/options.php:291
+msgid ""
+"Edit the layout of the email. HTML is allowed and some variables you can use "
+"are"
+msgstr ""
+"Editar la distribución del correo electrónico. Se permite HTML y son algunas "
+"de las variables que se puede utilizar"
+
+#: ReduxFramework/options/options.php:209
+#: ReduxFramework/options/options.php:227
+#: ReduxFramework/options/options.php:249
+#: ReduxFramework/options/options.php:271
+#: ReduxFramework/options/options.php:291
+msgid "and"
+msgstr "y"
+
+#: ReduxFramework/options/options.php:212
+msgid "I want you check this vehicle out"
+msgstr "Quiero que veas este vehículo"
+
+#: ReduxFramework/options/options.php:215
+#: ReduxFramework/options/options.php:237
+#: ReduxFramework/options/options.php:259
+#: ReduxFramework/options/options.php:279
+msgid "Change the email that recieves the emails"
+msgstr ""
+"Cambiar el correo electrónico recibe los mensajes de correo electrónico"
+
+#: ReduxFramework/options/options.php:218
+msgid "Schedule a Test Drive"
+msgstr "Programar una prueba del vehículo"
+
+#: ReduxFramework/options/options.php:221
+msgid "Edit the subject of the email that is used to schedule test drives."
+msgstr ""
+"Editar al asunto del correo electrónico que se utiliza para programar la "
+"prueba del vehículo"
+
+#: ReduxFramework/options/options.php:224
+msgid "Scheduled Test Drive Request"
+msgstr "Programar una prueba de vehículo"
+
+#: ReduxFramework/options/options.php:230
+msgid "Information"
+msgstr "Información"
+
+#: ReduxFramework/options/options.php:240
+#: ReduxFramework/options/options.php:498 functions.php:1162
+msgid "Request More Info"
+msgstr "Solicitar más información"
+
+#: ReduxFramework/options/options.php:243
+msgid "Edit the subject of the email that is used to request more info."
+msgstr ""
+"Editar al asunto del correo electrónico que se utiliza para solicitar más "
+"información."
+
+#: ReduxFramework/options/options.php:246
+msgid "Information Request"
+msgstr "Formulario de solicitud de información"
+
+#: ReduxFramework/options/options.php:252
+msgid "Request Information"
+msgstr "Solicitar información"
+
+#: ReduxFramework/options/options.php:262
+#: ReduxFramework/options/options.php:268
+#: ReduxFramework/options/options.php:540
+msgid "Trade-In Appraisal"
+msgstr ""
+
+#: ReduxFramework/options/options.php:265
+#: ReduxFramework/options/options.php:285
+msgid "Edit the subject of the email that is used."
+msgstr "Editar al asunto del correo electrónico que se utiliza."
+
+#: ReduxFramework/options/options.php:288
+msgid "Offer"
+msgstr "Oferta"
+
+#: ReduxFramework/options/options.php:302
+msgid "Custom Forms"
+msgstr "Formularios personalizados"
+
+#: ReduxFramework/options/options.php:308
+msgid "Request More Info Form"
+msgstr "Solicite información"
+
+#: ReduxFramework/options/options.php:313
+msgid "Schedule Test Drive Form"
+msgstr ""
+
+#: ReduxFramework/options/options.php:318
+msgid "Make an Offer Form"
+msgstr "Hacer una oferta"
+
+#: ReduxFramework/options/options.php:323
+#, fuzzy
+msgid "Trade-In Appraisal Form"
+msgstr "Formulario de contacto"
+
+#: ReduxFramework/options/options.php:328
+#, fuzzy
+msgid "Email to a Friend Form"
+msgstr "Formulario de contacto"
+
+#: ReduxFramework/options/options.php:333
+#, fuzzy
+msgid "Google reCAPTCHA API"
+msgstr "Compartir en Google+"
+
+#: ReduxFramework/options/options.php:340
+#, fuzzy
+msgid "ReCAPTCHA enabled"
+msgstr "Habilitado"
+
+#: ReduxFramework/options/options.php:346
+msgid "Public Key"
+msgstr "Clave pública"
+
+#: ReduxFramework/options/options.php:351
+msgid "Private Key"
+msgstr "clave privada"
+
+#: ReduxFramework/options/options.php:365
+msgid "Show or hide the fuel efficiency box on the inventory page"
+msgstr ""
+"Mostrar u ocultar el cuadro de eficiencia de combustible en la página de "
+"inventario"
+
+#: ReduxFramework/options/options.php:368
+msgid "Fuel Efficiency"
+msgstr "Eficiencia de combustible"
+
+#: ReduxFramework/options/options.php:374
+msgid "The text displayed in the fuel efficiency box"
+msgstr "El texto que se muestra en el cuadro de eficiencia de combustible"
+
+#: ReduxFramework/options/options.php:381
+msgid "Show or hide the social icons"
+msgstr "Mostrar u ocultar los iconos sociales"
+
+#: ReduxFramework/options/options.php:384
+msgid "Social Icons"
+msgstr "Iconos Sociales"
+
+#: ReduxFramework/options/options.php:390
+msgid "Show or hide the listing video in the right sidebar"
+msgstr "Mostrar u ocultar el video listado en la barra lateral derecha"
+
+#: ReduxFramework/options/options.php:393
+msgid "Listing Video"
+msgstr "Listing Video"
+
+#: ReduxFramework/options/options.php:401
+#: ReduxFramework/options/options.php:409 the_widgets.php:15
+#: the_widgets.php:85
+msgid "Financing Calculator"
+msgstr "Calculadora de financiación"
+
+#: ReduxFramework/options/options.php:402
+msgid "Control the financing calculator found on the inventory listing page."
+msgstr ""
+"Control de la calculadora de financiación en la página de lista de "
+"inventario."
+
+#: ReduxFramework/options/options.php:406
+msgid "Show or hide the financing calculator"
+msgstr "Mostrar u ocultar la calculadora financiera"
+
+#: ReduxFramework/options/options.php:415
+msgid "Control the down payment for the finance calculator"
+msgstr "Control de la señal para que la calculadora de finanzas"
+
+#: ReduxFramework/options/options.php:419
+msgid "Financing Calculator Down Payment"
+msgstr ""
+
+#: ReduxFramework/options/options.php:424
+msgid "Control the annual interest rate for the finance calculator"
+msgstr ""
+
+#: ReduxFramework/options/options.php:428
+msgid "Financing Calculator Rate"
+msgstr ""
+
+#: ReduxFramework/options/options.php:433
+msgid "Control the term of loan for the finance calculator"
+msgstr ""
+
+#: ReduxFramework/options/options.php:437
+msgid "Financing Calculator Loan"
+msgstr ""
+
+#: ReduxFramework/options/options.php:447
+msgid "Show or hide the recent vehicles"
+msgstr "Mostrar u ocultar los vehículos recientes"
+
+#: ReduxFramework/options/options.php:450
+#: ReduxFramework/options/options.php:460
+msgid "Recent Vehicles"
+msgstr "Vehículos recientes"
+
+#: ReduxFramework/options/options.php:456
+msgid "Edit the recent vehicles slider title"
+msgstr "Editar el título de slider de vehículos recientes"
+
+#: ReduxFramework/options/options.php:459
+msgid "Recent Vehicles Title"
+msgstr "Título de Vehículos recientes"
+
+#: ReduxFramework/options/options.php:463
+msgid "Edit the recent vehicles slider description"
+msgstr "Edite la Descripción del slider de vehículos"
+
+#: ReduxFramework/options/options.php:466
+msgid "Recent Vehicles Description"
+msgstr "Descripción de los vehículos recientes"
+
+#: ReduxFramework/options/options.php:467
+msgid ""
+"Browse through the vast selection of vehicles that have recently been added "
+"to our inventory."
+msgstr ""
+"Navegar a través de la amplia selección de vehículos que recientemente se "
+"han agregado a nuestro inventario."
+
+#: ReduxFramework/options/options.php:470
+msgid ""
+"Adjust the amount of vehicles shown in the recent vehicles (-1 to display "
+"all)."
+msgstr ""
+"Ajuste la cantidad de vehículos que se muestra en los vehículos recientes "
+"(-1 para mostrar todos)."
+
+#: ReduxFramework/options/options.php:473
+msgid "Number of Recent Vehicles"
+msgstr "Número de vehículos recientes"
+
+#: ReduxFramework/options/options.php:479
+msgid "Top buttons"
+msgstr "Botones superiores"
+
+#: ReduxFramework/options/options.php:480
+msgid "Show or hide the top buttons found on the inventory listing page."
+msgstr ""
+"Mostrar u ocultar los botones superiores se encuentran en el inventario "
+"listado página."
+
+#: ReduxFramework/options/options.php:484
+msgid "Previous Vehicle"
+msgstr "Vehículo anterior"
+
+#: ReduxFramework/options/options.php:492
+msgid "Previous Vehicle Label"
+msgstr "Etiqueta de Vehículo anterior"
+
+#: ReduxFramework/options/options.php:506
+msgid "Request More Info Label"
+msgstr "Etiqueta Solicitar más información"
+
+#: ReduxFramework/options/options.php:512 functions.php:1135
+msgid "Schedule Test Drive"
+msgstr "Programar Prueba de vehículo"
+
+#: ReduxFramework/options/options.php:520
+msgid "Schedule Test Drive Label"
+msgstr "Etiquta Programar Prueba de vehículo"
+
+#: ReduxFramework/options/options.php:526 functions.php:1106
+msgid "Make an Offer"
+msgstr "Hacer una oferta"
+
+#: ReduxFramework/options/options.php:534
+msgid "Make an Offer Label"
+msgstr "Etiqueta de Hacer una oferta"
+
+#: ReduxFramework/options/options.php:548
+#, fuzzy
+msgid "Trade-In Appraisal Label"
+msgstr "Etiqueta"
+
+#: ReduxFramework/options/options.php:554 meta_boxes.php:191
+msgid "PDF Brochure"
+msgstr "Folleto PDF"
+
+#: ReduxFramework/options/options.php:562
+msgid "PDF Brochure Label"
+msgstr "﻿Etiqueta de folleto PDF"
+
+#: ReduxFramework/options/options.php:568
+msgid "Print this Vehicle"
+msgstr "Imprimir este vehículo"
+
+#: ReduxFramework/options/options.php:576
+msgid "Print this Vehicle Label"
+msgstr "﻿Imprimir este vehículo Etiqueta"
+
+#: ReduxFramework/options/options.php:590
+msgid "Email to a Friend Label"
+msgstr "﻿Enviar a un amigo"
+
+#: ReduxFramework/options/options.php:596
+msgid "Next Vehicle"
+msgstr "Siguiente vehículo"
+
+#: ReduxFramework/options/options.php:604
+msgid "Next Vehicle Label"
+msgstr "Siguiente vehículo Etiqueta"
+
+#: ReduxFramework/options/options.php:617
+msgid "Content Tabs"
+msgstr "﻿Contenido de fichas"
+
+#: ReduxFramework/options/options.php:618
+msgid "Edit the names of the tabs displayed under the slideshow."
+msgstr ""
+"Editar los nombres de las pestañas que aparece en la presentación de "
+"diapositivas."
+
+#: ReduxFramework/options/options.php:622
+msgid "First Tab"
+msgstr "Primera ficha"
+
+#: ReduxFramework/options/options.php:623
+msgid "Default text: Vehicle Overview"
+msgstr "Texto por defecto: Resumen del Vehículo "
+
+#: ReduxFramework/options/options.php:629
+msgid "Second Tab"
+msgstr "Segunda ficha"
+
+#: ReduxFramework/options/options.php:630
+msgid "Default text: Features & Options"
+msgstr "Texto por defecto: Opciones"
+
+#: ReduxFramework/options/options.php:636
+msgid "Third Tab"
+msgstr "Tercera ficha"
+
+#: ReduxFramework/options/options.php:637
+msgid "Default text: Technical Specifications"
+msgstr "Texto por defecto: Especificaciones técnicas"
+
+#: ReduxFramework/options/options.php:643
+msgid "Fourth Tab"
+msgstr "Cuarta ficha"
+
+#: ReduxFramework/options/options.php:644
+msgid "Default text: Vehicle Location"
+msgstr "Texto por defecto: localización del vehículo"
+
+#: ReduxFramework/options/options.php:650
+msgid "Fifth Tab"
+msgstr "Quinta ficha"
+
+#: ReduxFramework/options/options.php:651
+msgid "Default text: Other Comments"
+msgstr "Texto por defecto: otros comentarios"
+
+#: ReduxFramework/options/options.php:662
+msgid "Enable or disable comments on the single listing page."
+msgstr "Activar o desactivar comentarios en la página de listado único."
+
+#: ReduxFramework/options/options.php:665
+msgid "Comments on listing pages"
+msgstr "Comentarios en páginas de Listing"
+
+#: ReduxFramework/options/options.php:674
+msgid "Portfolio Page"
+msgstr "﻿Página de portfolio"
+
+#: ReduxFramework/options/options.php:677
+msgid "Job Description Title"
+msgstr "﻿Título Descripción del trabajo"
+
+#: ReduxFramework/options/options.php:683
+msgid "Project Details Title"
+msgstr "Título ﻿Detalles del Proyecto"
+
+#: ReduxFramework/options/options.php:689
+msgid "Related Projects Title"
+msgstr "﻿Proyectos relacionados"
+
+#: ReduxFramework/options/options.php:698
+msgid "Default Values"
+msgstr "Valores predeterminados"
+
+#: ReduxFramework/options/options.php:703
+msgid "Default location"
+msgstr "Usar dirección predeterminada"
+
+#: ReduxFramework/options/options.php:704
+msgid "This location will be the default used while creating new listings"
+msgstr ""
+"Este lugar será el valor por defecto utilizado durante la creación de nuevos "
+"listados"
+
+#: ReduxFramework/options/options.php:708 meta_boxes.php:47
+#: the_widgets.php:517 vc.php:1460
+msgid "Latitude"
+msgstr "Latitud"
+
+#: ReduxFramework/options/options.php:709
+msgid "The default latitude."
+msgstr "﻿Latitud Por Defecto"
+
+#: ReduxFramework/options/options.php:715 meta_boxes.php:48
+#: the_widgets.php:520 vc.php:1468
+msgid "Longitude"
+msgstr "Longitud"
+
+#: ReduxFramework/options/options.php:716
+msgid "The default longitde."
+msgstr "﻿La longitud por defecto."
+
+#: ReduxFramework/options/options.php:722 meta_boxes.php:49
+#: the_widgets.php:523 vc.php:1476
+msgid "Zoom"
+msgstr "Zoom"
+
+#: ReduxFramework/options/options.php:723
+msgid "The default zoom level."
+msgstr "﻿Nivel de zoom predeterminado"
+
+#: ReduxFramework/options/options.php:740
+msgid "Default Details"
+msgstr "﻿Detalles predeterminados"
+
+#: ReduxFramework/options/options.php:741
+msgid "Control the default values for the details of new listings."
+msgstr ""
+"Control de los valores por defecto para los detalles de las nuevas listas"
+
+#: ReduxFramework/options/options.php:745
+msgid "Price Label"
+msgstr "Etiqueta de precio"
+
+#: ReduxFramework/options/options.php:746
+msgid "The default label for price."
+msgstr "﻿La etiqueta predeterminada para el precio."
+
+#: ReduxFramework/options/options.php:752
+#, fuzzy
+msgid "City MPG Label"
+msgstr "Etiqueta"
+
+#: ReduxFramework/options/options.php:753
+msgid "The default label for city MPG."
+msgstr ""
+
+#: ReduxFramework/options/options.php:759
+#, fuzzy
+msgid "Highway MPG Label"
+msgstr "Etiqueta"
+
+#: ReduxFramework/options/options.php:760
+msgid "The default label for highway MPG."
+msgstr ""
+
+#: ReduxFramework/options/options.php:774
+msgid "API Keys"
+msgstr ""
+
+#: ReduxFramework/options/options.php:780
+#, fuzzy
+msgid "Edmunds VIN Import"
+msgstr "Importar archivo Theme Data"
+
+#: ReduxFramework/options/options.php:781
+msgid ""
+"Enter your <a href=\"http://developer.edmunds.com/\" target=\"_blank"
+"\">Edmunds</a> API Keys to import vehicle information with a VIN."
+msgstr ""
+
+#: ReduxFramework/options/options.php:785
+#: ReduxFramework/options/options.php:835
+msgid "API Key"
+msgstr ""
+
+#: ReduxFramework/options/options.php:791
+msgid "API Secret"
+msgstr ""
+
+#: ReduxFramework/options/options.php:804
+#: ReduxFramework/options/options.php:812
+msgid "MailChimp API"
+msgstr ""
+
+#: ReduxFramework/options/options.php:805
+msgid ""
+"Enter your <a href=\"https://apidocs.mailchimp.com/\" target=\"_blank"
+"\">MailChimp</a> API Keys to use the MailChimp widget."
+msgstr ""
+
+#: ReduxFramework/options/options.php:809
+msgid "Paste your mailchimp API key here to let users subscribe from your site"
+msgstr ""
+
+#: ReduxFramework/options/options.php:822
+msgid "Twitter API"
+msgstr "﻿API de Twitter"
+
+#: ReduxFramework/options/options.php:823
+msgid ""
+"Enter your <a href=\"https://apps.twitter.com/\" target=\"_blank\">Twitter</"
+"a> application API Keys to use the Twitter widget."
+msgstr ""
+
+#: ReduxFramework/options/options.php:827
+msgid "Turn on to enable widget twitter feeds"
+msgstr "Activar para activar los feeds de twitter widget"
+
+#: ReduxFramework/options/options.php:827
+msgid "Create a Twitter application here"
+msgstr "Crear una aplicación de Twitter aquí"
+
+#: ReduxFramework/options/options.php:830
+msgid "Twitter Widget Feed"
+msgstr "﻿Twitter Feed Widget"
+
+#: ReduxFramework/options/options.php:845
+msgid "API Secret Key"
+msgstr ""
+
+#: ReduxFramework/options/options.php:855
+msgid "Access Token"
+msgstr ""
+
+#: ReduxFramework/options/options.php:865
+msgid "Access Token Secret"
+msgstr ""
+
+#: ReduxFramework/options/options.php:887
+msgid "Import Export"
+msgstr "Importar/Exportar"
+
+#: ReduxFramework/options/options.php:888
+msgid "Save and restore your Redux options"
+msgstr ""
+
+#: ReduxFramework/options/options.php:903
+msgid "Import Demo Listing Categories"
+msgstr ""
+
+#: ReduxFramework/options/options.php:904
+msgid "Click here to permanently remove this option from view."
+msgstr ""
+
+#: ReduxFramework/options/options.php:920
+msgid "Filterable Parameters"
+msgstr ""
+
+#: ReduxFramework/options/options.php:921
+msgid ""
+"You can use these parameters on the inventory listing page to sort the "
+"results"
+msgstr ""
+
+#: ReduxFramework/options/options.php:933
+msgid "Dropdown Width"
+msgstr "﻿Ancho del Menú desplegable "
+
+#: ReduxFramework/options/options.php:946 meta_boxes.php:7
+msgid "Listing Options"
+msgstr "Opciones del Listing"
+
+#: file_import.php:9
+msgid "Automotive Listings Import"
+msgstr "﻿Automotive Listados Importación"
+
+#: file_import.php:9 file_import.php:191
+msgid "File Import"
+msgstr "﻿Importación archivo"
+
+#: file_import.php:23
+msgid "The file uploaded wasn't a valid XML or CSV file, please try again."
+msgstr ""
+
+#: file_import.php:25
+msgid "The URL submitted wasn't a valid URL, please try again."
+msgstr ""
+
+#: file_import.php:27
+msgid "The file must not contain numbers as the column title."
+msgstr ""
+
+#: file_import.php:159
+msgid "Please submit a valid URL."
+msgstr ""
+
+#: file_import.php:193
+msgid "Import Listings"
+msgstr "Importar Listings"
+
+#: file_import.php:214
+msgid "Choose which XML node contains each listings information."
+msgstr ""
+
+#: file_import.php:227 file_import.php:243 file_import.php:258
+msgid "Import Now"
+msgstr "﻿Importación ahora"
+
+#: file_import.php:234
+msgid ""
+"If you have a listing data in a .csv or .xml file format, you may import it "
+"by uploading it here."
+msgstr ""
+
+#: file_import.php:241 file_import.php:256 vin_import.php:232
+msgid "Listing file"
+msgstr "﻿Archivo Listín"
+
+#: file_import.php:249
+msgid ""
+"If you have a link to a .csv or .xml listing file, you may import it by "
+"pasting the URL it here."
+msgstr ""
+
+#: file_import.php:257
+msgid "URL to xml or csv"
+msgstr "﻿URL a xml o csv"
+
+#: file_import.php:265
+msgid ""
+"Please consider breaking the import file into multiple files, large imports "
+"may not import fully depending on your server's settings."
+msgstr ""
+
+#: file_import.php:296 meta_boxes.php:15 vin_import.php:205
+msgid "Vehicle Overview"
+msgstr "Resumen de vehículo"
+
+#: file_import.php:296 meta_boxes.php:17 vin_import.php:205
+msgid "Technical Specifications"
+msgstr "Especificaciones técnicas"
+
+#: file_import.php:296 functions.php:2309 meta_boxes.php:19 vin_import.php:205
+msgid "Other Comments"
+msgstr "﻿Otros comentarios:"
+
+#: file_import.php:296 meta_boxes.php:83 vin_import.php:205
+msgid "Gallery Images"
+msgstr "﻿Galeria de Imagenes"
+
+#: file_import.php:296 file_import.php:658 functions.php:252 index.php:22
+#: vc.php:916 vin_import.php:147 vin_import.php:205
+msgid "Price"
+msgstr "Precio"
+
+#: file_import.php:296 meta_boxes.php:156 vin_import.php:205
+msgid "Original Price"
+msgstr "Precio original"
+
+#: file_import.php:296 file_import.php:662 index.php:22 vin_import.php:151
+#: vin_import.php:205
+msgid "City MPG"
+msgstr ""
+
+#: file_import.php:296 file_import.php:666 index.php:22 vin_import.php:155
+#: vin_import.php:205
+msgid "Highway MPG"
+msgstr ""
+
+#: file_import.php:296 meta_boxes.php:85 vin_import.php:205
+msgid "Video"
+msgstr "Video"
+
+#: file_import.php:307
+msgid "Check for duplicate listings using"
+msgstr ""
+
+#: file_import.php:309 functions.php:214 functions.php:233 functions.php:843
+#: meta_boxes.php:273 meta_boxes.php:363 save.php:61 shortcodes.php:2078
+msgid "None"
+msgstr "Ninguno"
+
+#: file_import.php:319 vin_import.php:216
+msgid "Categories with this symbol can contain multiple values"
+msgstr ""
+
+#: file_import.php:338 vin_import.php:269
+msgid "Only one per list!"
+msgstr "Sólo uno por lista."
+
+#: file_import.php:686
+msgid "Successfully imported these listings"
+msgstr "Los Listings se han importado con éxito"
+
+#: file_import.php:699
+msgid ""
+"These listings weren't imported because a duplicate listing was detected"
+msgstr ""
+"Estos anuncios no eran importados ya que se detectó un listado duplicado"
+
+#: file_import.php:708
+msgid "Import more listings"
+msgstr "﻿Importa más listings"
+
+#: functions.php:111
+msgid "Listings Sidebar"
+msgstr "Listings Sidebar"
+
+#: functions.php:190
+msgid "preview"
+msgstr "Vista previa"
+
+#: functions.php:203 meta_boxes.php:220
+msgid "Sold"
+msgstr "Vendido"
+
+#: functions.php:258
+msgid "View Details"
+msgstr "Ver detalles"
+
+#: functions.php:262
+msgid "View Video"
+msgstr "﻿Ver Video"
+
+#: functions.php:419 styling.php:129
+msgid "Vehicle"
+msgstr "Vehículo"
+
+#: functions.php:419 styling.php:130
+msgid "Vehicles"
+msgstr "Vehículos"
+
+#: functions.php:419
+msgid "Matching"
+msgstr "Encontrados"
+
+#: functions.php:459 functions.php:1048 functions.php:1051 functions.php:1054
+#: functions.php:1115 listing_categories.php:270
+msgid "Yes"
+msgstr "﻿Si"
+
+#: functions.php:466
+msgid "Keywords"
+msgstr "﻿Palabras clave"
+
+#: functions.php:470 post-type.php:15
+msgid "All Listings"
+msgstr "Todos los Listados"
+
+#: functions.php:475
+msgid "Select View"
+msgstr "Seleccionar vista"
+
+#: functions.php:535 functions.php:595 the_widgets.php:177
+msgid "No options"
+msgstr "Sin opciones"
+
+#: functions.php:565 shortcodes.php:999
+msgid "Choose a"
+msgstr "Elija una"
+
+#: functions.php:605
+msgid "Sort By"
+msgstr "Ordenar por"
+
+#: functions.php:613
+msgid "Ascending"
+msgstr "Ascendente"
+
+#: functions.php:614
+msgid "Descending"
+msgstr "Descendente"
+
+#: functions.php:626
+msgid "Reset Filters"
+msgstr "Restablecer filtros"
+
+#: functions.php:628
+msgid "Deselect All"
+msgstr "Deseleccionar todo"
+
+#: functions.php:629
+#, php-format
+msgid "Compare <span class='number_of_vehicles'>%s</span> Vehicles"
+msgstr "Comparar <span class='number_of_vehicles'>%s</span> Vehiculos"
+
+#: functions.php:669
+msgid "There are no features available"
+msgstr "No se dispone de ninguna característica"
+
+#: functions.php:818
+msgid "No location available"
+msgstr "(no hay ubicación disponible)"
+
+#: functions.php:860
+msgid "Fuel Efficiency Rating"
+msgstr "Calificación de eficiencia de combustible"
+
+#: functions.php:863 functions.php:865 functions.php:2211
+msgid "N/A"
+msgstr "﻿N / A"
+
+#: functions.php:884 functions.php:2030
+msgid "Share link on Facebook"
+msgstr "Compartir en Facebook"
+
+#: functions.php:885 functions.php:2031
+msgid "Share link on Google+"
+msgstr "Compartir en Google+"
+
+#: functions.php:886 functions.php:2032
+msgid "Share image on Pinterest"
+msgstr "Compartir en Pinterest"
+
+#: functions.php:887 functions.php:2033
+msgid "Share link on Twitter"
+msgstr "Compartir en Twitter"
+
+#: functions.php:922 functions.php:1110 functions.php:1139 functions.php:1166
+#: functions.php:2273 functions.php:2303 the_widgets.php:937
+#: the_widgets.php:961 vc.php:352 vc.php:487
+msgid "Name"
+msgstr "Nombre"
+
+#: functions.php:923 functions.php:957 functions.php:958 functions.php:1111
+#: functions.php:1112 functions.php:1140 functions.php:1141 functions.php:1167
+#: functions.php:1168 functions.php:2250 functions.php:2276 functions.php:2306
+#: shortcodes.php:1250 the_widgets.php:339 the_widgets.php:938
+#: the_widgets.php:962 vc.php:520 vc.php:1431
+msgid "Email"
+msgstr "Email"
+
+#: functions.php:924
+msgid "Friends Email"
+msgstr "Correo electrónico de amigo"
+
+#: functions.php:925 the_widgets.php:939 the_widgets.php:963
+msgid "Message"
+msgstr "Mensaje"
+
+#: functions.php:929 functions.php:1091 functions.php:1121 functions.php:1148
+#: functions.php:1173
+msgid "reCAPTCHA"
+msgstr ""
+
+#: functions.php:931 functions.php:1095 functions.php:1125 functions.php:1152
+#: functions.php:1177
+msgid "Submit"
+msgstr "Enviar"
+
+#: functions.php:941
+msgid "Trade-In"
+msgstr ""
+
+#: functions.php:946 vc.php:1401
+msgid "Contact Information"
+msgstr "Información de Contacto"
+
+#: functions.php:949 functions.php:2247
+msgid "First Name"
+msgstr "Nombre"
+
+#: functions.php:950
+msgid "Last Name"
+msgstr "Segundo Apellido"
+
+#: functions.php:953
+msgid "Work Phone"
+msgstr "Teléfono de trabajo"
+
+#: functions.php:954 functions.php:958 functions.php:1111 functions.php:1113
+#: functions.php:1140 functions.php:1142 functions.php:1167 functions.php:1169
+#: functions.php:2249 functions.php:2275 functions.php:2305
+#: shortcodes.php:1249 the_widgets.php:338 vc.php:504 vc.php:1424
+msgid "Phone"
+msgstr "Teléfono"
+
+#: functions.php:958 functions.php:1111 functions.php:1140 functions.php:1167
+msgid "Preferred Contact"
+msgstr "Contacto preferido"
+
+#: functions.php:961 shortcodes.php:267
+msgid "Comments"
+msgstr "Comentarios"
+
+#: functions.php:981
+msgid "Not availiable"
+msgstr "No disponibles"
+
+#: functions.php:997
+msgid "Vehicle Information"
+msgstr "Información del Vehículo"
+
+#: functions.php:1000
+msgid "Year"
+msgstr "Año"
+
+#: functions.php:1001
+msgid "Make"
+msgstr "Hacer"
+
+#: functions.php:1004
+msgid "Model"
+msgstr "Modelo"
+
+#: functions.php:1005
+msgid "Exterior Colour"
+msgstr "Color exterior"
+
+#: functions.php:1008
+msgid "VIN"
+msgstr ""
+
+#: functions.php:1009
+msgid "Kilometres"
+msgstr "Kilómetros"
+
+#: functions.php:1012
+msgid "Engine"
+msgstr "Motor"
+
+#: functions.php:1013
+msgid "Doors"
+msgstr "Puertas"
+
+#: functions.php:1016
+msgid "Transmission"
+msgstr "Transmisión"
+
+#: functions.php:1016
+msgid "Automatic"
+msgstr "Automático"
+
+#: functions.php:1016
+msgid "Manual"
+msgstr "Manual"
+
+#: functions.php:1017
+msgid "Drivetrain"
+msgstr ""
+
+#: functions.php:1017
+msgid "2WD"
+msgstr ""
+
+#: functions.php:1017
+msgid "4WD"
+msgstr ""
+
+#: functions.php:1017
+msgid "AWD"
+msgstr ""
+
+#: functions.php:1023
+msgid "Vehicle Rating"
+msgstr "Clasificación de vehículo"
+
+#: functions.php:1026
+msgid "Body (dents, dings, rust, rot, damage)"
+msgstr "Cuerpo (abolladuras, golpes, moho, putrefacción, daño)"
+
+#: functions.php:1026 functions.php:1027 functions.php:1030 functions.php:1031
+#: functions.php:1034 functions.php:1035 functions.php:1038
+msgid "best"
+msgstr "mejor"
+
+#: functions.php:1026 functions.php:1027 functions.php:1030 functions.php:1031
+#: functions.php:1035 functions.php:1038
+msgid "worst"
+msgstr "peor"
+
+#: functions.php:1027
+msgid "Tires (tread wear, mismatched)"
+msgstr "Neumáticos (pisada de desgaste, mismatched)"
+
+#: functions.php:1030
+msgid "Engine (running condition, burns oil, knocking)"
+msgstr "Motor (condición, quemaduras de aceite, corriente golpeando)"
+
+#: functions.php:1031
+msgid "Transmission / Clutch (slipping, hard shift, grinds)"
+msgstr "Transmisión / embrague (deslizarse, cambio duro, granos)"
+
+#: functions.php:1034
+msgid "Glass (chips, scratches, cracks, pitted)"
+msgstr "Cristales (chips, arañazos, grietas, deshuesadas)"
+
+#: functions.php:1035
+msgid "Interior (rips, tears, burns, faded/worn, stains)"
+msgstr ""
+"Interior (rips, lágrimas, quemaduras, que se desvaneció o desgastado, "
+"manchas)"
+
+#: functions.php:1038
+msgid "Exhaust (rusted, leaking, noisy)"
+msgstr "Escape (oxidado, fuga y ruidoso)"
+
+#: functions.php:1045
+msgid "Vehicle History"
+msgstr "Historia de vehículo"
+
+#: functions.php:1048
+msgid "Was it ever a lease or rental return?"
+msgstr ""
+
+#: functions.php:1048 functions.php:1051 functions.php:1054 functions.php:1115
+#: listing_categories.php:271
+msgid "No"
+msgstr ""
+
+#: functions.php:1051
+msgid "Is the odometer operational and accurate?"
+msgstr ""
+
+#: functions.php:1054
+msgid "Detailed service records available?"
+msgstr ""
+
+#: functions.php:1060
+msgid "Title History"
+msgstr "Título"
+
+#: functions.php:1064
+msgid "Is there a lienholder?"
+msgstr ""
+
+#: functions.php:1067
+msgid "Who holds this title?"
+msgstr "¿Quién tiene este título?"
+
+#: functions.php:1074
+msgid "Vehicle Assessment"
+msgstr ""
+
+#: functions.php:1077
+msgid "Does all equipment and accessories work correctly?"
+msgstr ""
+
+#: functions.php:1078
+msgid "Did you buy the vehicle new?"
+msgstr ""
+
+#: functions.php:1081
+msgid "Has the vehicle ever been in any accidents? Cost of repairs?"
+msgstr ""
+
+#: functions.php:1082
+msgid "Is there existing damage on the vehicle? Where?"
+msgstr ""
+
+#: functions.php:1085
+msgid "Has the vehicle ever had paint work performed?"
+msgstr ""
+
+#: functions.php:1086
+msgid "Is the title designated 'Salvage' or 'Reconstructed'? Any other?"
+msgstr ""
+
+#: functions.php:1114 functions.php:2307
+msgid "Offered Price"
+msgstr "precio de oferta"
+
+#: functions.php:1115 functions.php:2308
+msgid "Financing Required"
+msgstr "﻿Financiación necesaria"
+
+#: functions.php:1116
+msgid "Other Comments/Conditions"
+msgstr "﻿Otros comentarios/condiciones"
+
+#: functions.php:1143
+msgid "Best Day"
+msgstr ""
+
+#: functions.php:1144
+msgid "Best Time"
+msgstr "Mejor Hora"
+
+#: functions.php:1201
+msgid "Configure in listing categories"
+msgstr "﻿Configurar en el listado de categorías"
+
+#: functions.php:1470
+msgid "Page"
+msgstr "Página"
+
+#: functions.php:1470
+msgid "of"
+msgstr ""
+
+#: functions.php:1842 post-type.php:18
+msgid "No listings found"
+msgstr "listings no encontrados"
+
+#: functions.php:1935
+msgid "OPTIONS"
+msgstr "OPCIONES"
+
+#: functions.php:1979
+msgid "No options yet"
+msgstr "Aún no hay opciones"
+
+#: functions.php:1986 post-type.php:16
+msgid "View Listing"
+msgstr "Ver Listing"
+
+#: functions.php:2068
+msgid "Generate Columns"
+msgstr "Generar columnas"
+
+#: functions.php:2216
+msgid "Click for more details"
+msgstr "﻿Haz clic aquí para más detalles ."
+
+#: functions.php:2233
+msgid "Not a valid email"
+msgstr "﻿No es una dirección de correo electrónico válida"
+
+#: functions.php:2248 functions.php:2274 functions.php:2304
+msgid "Contact Method"
+msgstr "﻿Método de contacto"
+
+#: functions.php:2277
+msgid "Best Date"
+msgstr "﻿Mejor fecha"
+
+#: functions.php:2346
+msgid "Sent Successfully"
+msgstr "﻿Enviado con éxito"
+
+#: functions.php:2399
+msgid "The reCAPTCHA wasn't entered correctly. Go back and try it again."
+msgstr ""
+
+#: functions.php:2401
+msgid "success"
+msgstr "﻿éxito"
+
+#: functions.php:2487
+msgid "The listing categories have been imported."
+msgstr ""
+
+#: functions.php:2489
+msgid ""
+"There was an error importing the listing categories, please try again later."
+msgstr ""
+
+#: listing_categories.php:6 listing_categories.php:200 meta_boxes.php:86
+msgid "Listing Categories"
+msgstr "﻿Categorías del Listings"
+
+#: listing_categories.php:206
+msgid ""
+"You cannot create listing categories that use these strings, it can conflict "
+"with WordPress: "
+msgstr ""
+"No se pueden crear categorías listado que usan estas cadenas, pueda entrar "
+"en conflicto con WordPress:"
+
+#: listing_categories.php:239 listing_categories.php:252
+msgid "Singular"
+msgstr "Singular"
+
+#: listing_categories.php:240 listing_categories.php:253
+msgid "Plural"
+msgstr "Plural"
+
+#: listing_categories.php:241 listing_categories.php:254
+#: listing_categories.php:404 meta_boxes.php:343
+msgid "Filterable"
+msgstr "Filtrable"
+
+#: listing_categories.php:242 listing_categories.php:255
+#: listing_categories.php:416
+msgid "Use on listing"
+msgstr "﻿Utilizae en listing"
+
+#: listing_categories.php:243 listing_categories.php:256
+msgid "Inventory orderby"
+msgstr "Inventario ordenado por"
+
+#: listing_categories.php:301
+msgid "Make orderby"
+msgstr "﻿Hacer orderby"
+
+#: listing_categories.php:304
+msgid "Edit"
+msgstr "﻿Editar"
+
+#: listing_categories.php:346
+msgid "No Categories Yet"
+msgstr "﻿Aún no hay categorías"
+
+#: listing_categories.php:354
+msgid "Save Order"
+msgstr "﻿Guardar la solicitud"
+
+#: listing_categories.php:376 listing_categories.php:484
+msgid "Listing Category"
+msgstr "﻿Categoría de listing"
+
+#: listing_categories.php:380
+msgid "Singular Form"
+msgstr "Formulario singular"
+
+#: listing_categories.php:382
+msgid "The singular form of the category name"
+msgstr "La forma singular de nombre de la categoría"
+
+#: listing_categories.php:386
+msgid "Plural Form"
+msgstr "Formulario plural"
+
+#: listing_categories.php:388
+msgid "The plural form of the category name"
+msgstr "La forma plural de nombre de la categoría"
+
+#: listing_categories.php:392
+msgid "Compare Value"
+msgstr "﻿Comparar a valor"
+
+#: listing_categories.php:400
+msgid ""
+"Change the way the value is compared, useful for numbers (mileage, fuel "
+"economy)"
+msgstr ""
+"Cambiar la forma en que el valor se compara, útil para los números "
+"(kilometraje, consumo de combustible)"
+
+#: listing_categories.php:406
+msgid "Make this category display in filterable spots"
+msgstr "Hacer esta categoría visible en filtro"
+
+#: listing_categories.php:410
+msgid "Currency"
+msgstr "Moneda"
+
+#: listing_categories.php:412
+msgid "Check this box if the current category is a currency or price"
+msgstr "Marque esta casilla si la categoría actual es una moneda o precio"
+
+#: listing_categories.php:418
+msgid "Make this category show on the listing information"
+msgstr "Hacer esta categoría visible en la información del listado"
+
+#: listing_categories.php:422
+msgid "Link Value"
+msgstr "﻿Valor Link"
+
+#: listing_categories.php:434
+msgid "Choose a value that you want to link values with"
+msgstr "Elija un valor que se desea vincular valores con"
+
+#: listing_categories.php:438
+msgid "Dependancy"
+msgstr "Dependencia"
+
+#: listing_categories.php:452
+msgid ""
+"Choose a value that this category will be dependant on (Perfect for makes "
+"and model filters)"
+msgstr ""
+"Elija un valor que esta categoría será dependiente de (perfecto para las "
+"marcas y filtros modelo)"
+
+#: meta_boxes.php:6
+msgid "Listing Tabs"
+msgstr "Pestañas de Listado"
+
+#: meta_boxes.php:16
+msgid "Features &amp; Options"
+msgstr "﻿Características y opciones"
+
+#: meta_boxes.php:18
+msgid "Vehicle Location"
+msgstr "Localización del vehículo"
+
+#: meta_boxes.php:36
+msgid "Right click on the google map to store the coordinates of a location"
+msgstr ""
+"Haga clic derecho sobre el mapa de google para almacenar las coordenadas de "
+"un lugar"
+
+#: meta_boxes.php:84 vc.php:823
+msgid "Details"
+msgstr "Detalles"
+
+#: meta_boxes.php:101 meta_boxes.php:115 portfolio.php:174 portfolio.php:187
+#: vc.php:135 vc.php:528 vc.php:657 vc.php:754 vc.php:1527
+msgid "Image"
+msgstr "﻿Imagen"
+
+#: meta_boxes.php:103 meta_boxes.php:115 portfolio.php:176
+msgid "Change image"
+msgstr "﻿Cambiar imagen"
+
+#: meta_boxes.php:104 portfolio.php:177
+msgid "Set default image"
+msgstr "﻿Imagen de sistema por defecto"
+
+#: meta_boxes.php:105 portfolio.php:178
+msgid "Delete image"
+msgstr "﻿Borrar imagen"
+
+#: meta_boxes.php:106 portfolio.php:179
+msgid "Move Image"
+msgstr "﻿Mover imagen"
+
+#: meta_boxes.php:115 portfolio.php:187
+msgid "No Image"
+msgstr "﻿Ninguna imagen"
+
+#: meta_boxes.php:119 portfolio.php:191
+msgid "Add Image"
+msgstr "﻿Agregar imagen"
+
+#: meta_boxes.php:147
+msgid "Current"
+msgstr "Actual"
+
+#: meta_boxes.php:148
+msgid "Label"
+msgstr "﻿Etiqueta"
+
+#: meta_boxes.php:149 meta_boxes.php:157 meta_boxes.php:433 meta_boxes.php:444
+msgid "Value"
+msgstr "﻿Valor"
+
+#: meta_boxes.php:166
+msgid "Listing Badge"
+msgstr ""
+
+#: meta_boxes.php:169
+msgid "Badge Text"
+msgstr "Texto Marca"
+
+#: meta_boxes.php:170 shortcodes.php:2305 vc.php:27 vc.php:285
+msgid "Color"
+msgstr "﻿Color"
+
+#: meta_boxes.php:176 the_widgets.php:408 the_widgets.php:427
+#, php-format
+msgid "%s"
+msgstr "﻿%s"
+
+#: meta_boxes.php:182
+msgid "Add this code to your CSS and replace the bolded text with your color"
+msgstr ""
+"Añadir este código a tu CSS y reemplace el texto en negrita con su color"
+
+#: meta_boxes.php:192
+msgid "Choose a PDF Brochure"
+msgstr "﻿Elija un folleto en PDF"
+
+#: meta_boxes.php:192
+msgid "Current File"
+msgstr "Archivo actual"
+
+#: meta_boxes.php:201
+msgid "Other Details"
+msgstr "﻿Otros detalles"
+
+#: meta_boxes.php:206
+msgid "Show vehicle history report image"
+msgstr "Mostrar imagen de informe de historial de vehículo"
+
+#: meta_boxes.php:229
+msgid "Short Description For Vehicle Slider Widget"
+msgstr "Breve descripción de vehículo Slider Widget"
+
+#: meta_boxes.php:237
+msgid "YouTube/Vimeo link"
+msgstr "﻿Enlace YouTube/Vimeo"
+
+#: meta_boxes.php:252
+msgid "Not a valid YouTube/Vimeo link"
+msgstr "No es un enlace válido de YouTube/Vimeo"
+
+#: meta_boxes.php:289 meta_boxes.php:292
+msgid "Add New Term"
+msgstr "Añadir nuevo término"
+
+#: meta_boxes.php:381 meta_boxes.php:385
+msgid "Add New Category"
+msgstr "﻿Añadir nueva categoría"
+
+#: meta_boxes.php:430 post-type.php:11
+msgid "Add New"
+msgstr "﻿Añadir Nuevo"
+
+#: meta_boxes.php:434
+msgid "Add"
+msgstr "﻿Añadir"
+
+#: meta_boxes.php:445
+msgid "Posts"
+msgstr "﻿Entradas"
+
+#: meta_boxes.php:447
+msgid "Default Selection"
+msgstr "﻿Selección predeterminada"
+
+#: meta_boxes.php:456
+msgid "No terms yet"
+msgstr "Aún no hay términos"
+
+#: page-templates.php:65
+msgid "Inventory: Boxed Fullwidth"
+msgstr ""
+
+#: page-templates.php:66
+msgid "Inventory: Boxed Sidebar Left"
+msgstr "﻿Inventario: En caja barra lateral izquierda"
+
+#: page-templates.php:67
+msgid "Inventory: Boxed Sidebar Right"
+msgstr "﻿Inventario: Caja lateral derecho"
+
+#: page-templates.php:68
+msgid "Inventory: Wide Fullwidth"
+msgstr "﻿Inventario: Ancho ancho completo"
+
+#: page-templates.php:69
+msgid "Inventory: Wide Sidebar Left"
+msgstr "﻿Inventario: Amplia barra lateral izquierda"
+
+#: page-templates.php:70
+msgid "Inventory: Wide Sidebar Right"
+msgstr "﻿Inventario: Amplia barra lateral derecho"
+
+#: portfolio.php:14 portfolio.php:29 vc.php:803 vc.php:829
+msgid "Portfolio"
+msgstr ""
+
+#: portfolio.php:15
+msgid "Project"
+msgstr "Proyecto"
+
+#: portfolio.php:22
+msgid "No portfolio items found"
+msgstr "﻿No se encontraron elementos de Portfolio"
+
+#: portfolio.php:23
+msgid "Add a new portfolio item"
+msgstr "﻿Añadir nuevo elemento del portafolio"
+
+#: portfolio.php:28 the_widgets.php:1266 vc.php:421 vc.php:455 vc.php:812
+msgid "Categories"
+msgstr "Categorías"
+
+#: portfolio.php:28
+msgid "Category"
+msgstr "Categoría"
+
+#: portfolio.php:29
+msgid "Portfolios"
+msgstr ""
+
+#: portfolio.php:29
+msgid "Add new Portfolio"
+msgstr "﻿Nuevo portafolio"
+
+#: portfolio.php:50
+msgid "Add A Detail"
+msgstr "﻿Añadir un detalle"
+
+#: portfolio.php:51
+msgid "Remove Bottom Detail"
+msgstr "﻿Eliminar detalle inferior"
+
+#: portfolio.php:65
+msgid "Select a format form the right sidebar"
+msgstr "﻿Seleccione un formato formulario la barra lateral derecha"
+
+#: portfolio.php:79
+msgid "Short Description"
+msgstr "﻿Descripción breve"
+
+#: portfolio.php:89
+msgid "Layout"
+msgstr "﻿Diseño"
+
+#: portfolio.php:92
+msgid "Wide"
+msgstr "﻿Ancho"
+
+#: portfolio.php:93
+msgid "Split"
+msgstr "﻿Fraccionar"
+
+#: portfolio.php:157
+msgid "Featured post will be used"
+msgstr "﻿Se utilizará el post recomendado"
+
+#: portfolio.php:187
+msgid "Set image"
+msgstr "Establecer Imagen"
+
+#: portfolio.php:198
+msgid "Video URL"
+msgstr "﻿URL del Video"
+
+#: post-type.php:9 post-type.php:20
+msgid "Listings"
+msgstr "Listings"
+
+#: post-type.php:10
+msgid "Listing"
+msgstr "Listing"
+
+#: post-type.php:12
+msgid "Add New Listing"
+msgstr "Añadir nuevo Listing"
+
+#: post-type.php:13
+msgid "Edit Listing"
+msgstr "Editar Listing"
+
+#: post-type.php:14
+msgid "New Listing"
+msgstr "Nuevo Listing"
+
+#: post-type.php:17
+msgid "Search Listings"
+msgstr "Buscar Listings"
+
+#: post-type.php:19
+msgid "No listings found in Trash"
+msgstr "Ningún Listing encontrado en la papelera"
+
+#: resize.php:8 resize.php:141
+msgid "No image URL has been entered."
+msgstr ""
+
+#: resize.php:42 resize.php:176
+msgid "Image is BMP. Please use either JPG or PNG."
+msgstr ""
+
+#: resize.php:204
+msgid "Failed to get $file_path information using \"@getimagesize\"."
+msgstr ""
+
+#: resize.php:247
+msgid "Resize path invalid (GIF)"
+msgstr ""
+
+#: resize.php:251
+msgid "Resize path invalid (PNG)."
+msgstr ""
+
+#: resize.php:259
+msgid "Resize path invalid (JPG)."
+msgstr ""
+
+#: resize.php:274
+msgid "Failed to get $dest_file_name (resized image) info via @getimagesize"
+msgstr ""
+
+#: shortcodes.php:267
+msgid "Comment"
+msgstr "comenario"
+
+#: shortcodes.php:651
+msgid "youtube thumbnail portfolio image"
+msgstr ""
+
+#: shortcodes.php:655
+msgid "image"
+msgstr "Imagen"
+
+#: shortcodes.php:655
+msgid "portfolio image"
+msgstr "﻿Portfolio Imagen"
+
+#: shortcodes.php:901
+msgid "Find My New Vehicle"
+msgstr "Buscar mi vehículo nuevo"
+
+#: shortcodes.php:976
+msgid "Min"
+msgstr "Min"
+
+#: shortcodes.php:981
+msgid "to"
+msgstr "a"
+
+#: shortcodes.php:985
+msgid "Max"
+msgstr "Máx."
+
+#: shortcodes.php:1007
+msgid "Refine with keywords"
+msgstr "﻿Refinar con palabras clave"
+
+#: shortcodes.php:1153
+msgid "Name  (Required)"
+msgstr "﻿Nombre (requerido)"
+
+#: shortcodes.php:1154
+msgid "Email  (Required)"
+msgstr "﻿Correo electrónico (requerido)"
+
+#: shortcodes.php:1155
+msgid "Your Message"
+msgstr "Su mensaje"
+
+#: shortcodes.php:1156
+msgid "Send Message"
+msgstr "﻿Enviar Mensaje"
+
+#: shortcodes.php:1175 shortcodes.php:1176 shortcodes.php:1177
+#: shortcodes.php:1178 shortcodes.php:1179 shortcodes.php:1180
+#: shortcodes.php:1181
+msgid "Closed"
+msgstr "Cerrado"
+
+#: shortcodes.php:1182 shortcodes.php:2019
+msgid "Hours"
+msgstr "Horarios:"
+
+#: shortcodes.php:1194
+msgid "Mon"
+msgstr "Lun"
+
+#: shortcodes.php:1198
+msgid "Tue"
+msgstr "Mar"
+
+#: shortcodes.php:1202
+msgid "Wed"
+msgstr "Mier"
+
+#: shortcodes.php:1206
+msgid "Thu"
+msgstr "Jue"
+
+#: shortcodes.php:1210
+msgid "Fri"
+msgstr "Vie"
+
+#: shortcodes.php:1214
+msgid "Sat"
+msgstr "Sáb"
+
+#: shortcodes.php:1218
+msgid "Sun"
+msgstr "Dom"
+
+#: shortcodes.php:1240 the_widgets.php:337 vc.php:1417
+msgid "Address"
+msgstr "Dirección"
+
+#: shortcodes.php:1251
+msgid "Web"
+msgstr "Web"
+
+#: shortcodes.php:1439
+msgid "You must have more than 1 vehicle selected to compare it."
+msgstr "Debe tener más de 1 vehículo seleccionado para compararlo."
+
+#: shortcodes.php:1458
+msgid "Maximum 4 vehicles"
+msgstr "Máximo 4 vehículos"
+
+#: shortcodes.php:1467
+msgid "You have no vehicles selected"
+msgstr "﻿No tiene ningún vehículo seleccionado"
+
+#: shortcodes.php:1744
+msgid "All Categories"
+msgstr "﻿Todas las categorias"
+
+#: shortcodes.php:1745
+msgid "Selected Categories"
+msgstr "﻿Categorías seleccionadas"
+
+#: shortcodes.php:1749
+msgid "All listings"
+msgstr "﻿Todo el catálogo"
+
+#: shortcodes.php:1750
+msgid "Selected Listings"
+msgstr "﻿Listados seleccionados"
+
+#: shortcodes.php:2018 shortcodes.php:2146
+msgid "Icons"
+msgstr "﻿Iconos"
+
+#: shortcodes.php:2022
+msgid "First Group"
+msgstr "Primer grupo"
+
+#: shortcodes.php:2023
+msgid "Second Group"
+msgstr "Segundo grupo"
+
+#: shortcodes.php:2024
+msgid "Third Group"
+msgstr "Tercer grupo"
+
+#: shortcodes.php:2029
+msgid "HTML in Tooltip"
+msgstr "﻿HTML en la descripción"
+
+#: shortcodes.php:2084 vc.php:72 vc.php:176 vc.php:252 vc.php:709 vc.php:1583
+msgid "Icon"
+msgstr "Icono"
+
+#: shortcodes.php:2094 vc.php:102 vc.php:236 vc.php:277 vc.php:675 vc.php:718
+#: vc.php:1173
+msgid "Content"
+msgstr "Contenido"
+
+#: shortcodes.php:2108
+msgid "Content for column"
+msgstr "﻿Contenido para columna"
+
+#: shortcodes.php:2139 shortcodes.php:2317
+msgid "Generate Shortcode"
+msgstr "Generar Shortcode"
+
+#: shortcodes.php:2142
+msgid "Link to modal"
+msgstr "﻿Enlace a modal"
+
+#: shortcodes.php:2142
+msgid "Add a popover"
+msgstr "﻿Añadir un popover"
+
+#: shortcodes.php:2147 shortcodes.php:2187
+msgid "Search Icons"
+msgstr "﻿Iconos de búsqueda"
+
+#: shortcodes.php:2153 shortcodes.php:2193
+msgid "Font Awesome"
+msgstr "Font Awesome"
+
+#: shortcodes.php:2310
+msgid "Add 3-D effect"
+msgstr "﻿Añadir un efecto 3D"
+
+#: shortcodes.php:2311
+msgid "Add spin effect"
+msgstr "﻿Agregar efecto de giro"
+
+#: shortcodes.php:2313
+msgid "Insert icon as code for shortcode"
+msgstr "﻿Inserte el icono como código para shortcode"
+
+#: single-listings.php:10
+msgid "Post not found"
+msgstr "﻿Artículo no encontrado"
+
+#: single-portfolio.php:79
+msgid "No related projects"
+msgstr "﻿No hay proyectos relacionados"
+
+#: single-portfolio.php:121 single-portfolio.php:188
+msgid "No images in slideshow"
+msgstr "﻿No hay imágenes en slideshow"
+
+#: styling.php:131
+msgid "Compare"
+msgstr "Compara"
+
+#: the_widgets.php:8
+msgid "A widget that displays a calculator able to calculate loan payments"
+msgstr ""
+"Un widget que muestra una calculadora capaz de calcular los pagos del "
+"préstamo"
+
+#: the_widgets.php:10
+msgid "[LISTINGS] Loan Calculator"
+msgstr ""
+
+#: the_widgets.php:33
+msgid "Cost of Vehicle"
+msgstr "Coste del vehículo"
+
+#: the_widgets.php:37
+msgid "Down Payment"
+msgstr ""
+
+#: the_widgets.php:41
+msgid "Annual Interest Rate"
+msgstr ""
+
+#: the_widgets.php:45
+msgid "Term of Loan in Years"
+msgstr ""
+
+#: the_widgets.php:52
+msgid "Frequency of Payments"
+msgstr ""
+
+#: the_widgets.php:55
+msgid "Bi-Weekly"
+msgstr ""
+
+#: the_widgets.php:56
+msgid "Weekly"
+msgstr ""
+
+#: the_widgets.php:57
+msgid "Monthly"
+msgstr ""
+
+#: the_widgets.php:61
+msgid "Calculate My Payment"
+msgstr ""
+
+#: the_widgets.php:67
+msgid "NUMBER OF PAYMENTS"
+msgstr "﻿Número de pagos"
+
+#: the_widgets.php:71
+msgid "PAYMENT AMOUNT"
+msgstr ""
+
+#: the_widgets.php:91 the_widgets.php:198 the_widgets.php:280
+#: the_widgets.php:355 the_widgets.php:608 the_widgets.php:695
+#: the_widgets.php:751 the_widgets.php:822 the_widgets.php:897
+#: the_widgets.php:967 the_widgets.php:1056 the_widgets.php:1181
+#: the_widgets.php:1346
+msgid "Title:"
+msgstr "Título:"
+
+#: the_widgets.php:95
+msgid "Price:"
+msgstr "Precio"
+
+#: the_widgets.php:99
+msgid "Down Payment:"
+msgstr ""
+
+#: the_widgets.php:103
+msgid "Rate:"
+msgstr ""
+
+#: the_widgets.php:107
+msgid "Loan Years:"
+msgstr ""
+
+#: the_widgets.php:134
+msgid "A widget that can filter/search the listings being currently displayed"
+msgstr ""
+
+#: the_widgets.php:136
+msgid "[LISTINGS] Filter Listings"
+msgstr "[LISTINGS] Filtrar Listings"
+
+#: the_widgets.php:142 the_widgets.php:246
+msgid "Search Our Listings"
+msgstr "﻿Buscar Listings"
+
+#: the_widgets.php:160
+msgid "Search by"
+msgstr "﻿Buscar por"
+
+#: the_widgets.php:187
+msgid "Reset Search Filters"
+msgstr "﻿Restablecer filtros de búsqueda"
+
+#: the_widgets.php:196
+msgid "Search Our Inventory"
+msgstr "﻿Buscar en nuestro inventario"
+
+#: the_widgets.php:238 the_widgets.php:1369
+msgid ""
+"A widget that can filter/search listings and shows a custom amount of options"
+msgstr ""
+
+#: the_widgets.php:240 the_widgets.php:1371
+msgid "[LISTINGS] Single Filter"
+msgstr "[LISTINGS] filtro único"
+
+#: the_widgets.php:276
+msgid "Filter"
+msgstr "﻿Filtrar"
+
+#: the_widgets.php:277
+msgid "10"
+msgstr ""
+
+#: the_widgets.php:278
+msgid "years"
+msgstr ""
+
+#: the_widgets.php:283
+msgid "Number of terms to display:"
+msgstr "﻿Número de términos para mostrar:"
+
+#: the_widgets.php:286
+msgid "Filter:"
+msgstr "﻿Filtro:"
+
+#: the_widgets.php:319
+msgid "A widget that displays contact information "
+msgstr ""
+
+#: the_widgets.php:321
+msgid "[LISTINGS] Contact Us"
+msgstr "[LISTINGS] Contacte con nosotros"
+
+#: the_widgets.php:349
+msgid "Contact Us"
+msgstr "﻿Contacte con nosotros"
+
+#: the_widgets.php:358
+msgid "Phone:"
+msgstr "﻿Teléfono:"
+
+#: the_widgets.php:361
+msgid "Address:"
+msgstr "Dirección:"
+
+#: the_widgets.php:364
+msgid "Email:"
+msgstr "﻿Correo electrónico:"
+
+#: the_widgets.php:389
+msgid "A widget that displays a companies business hours"
+msgstr ""
+
+#: the_widgets.php:391
+msgid "[LISTINGS] Business Hours"
+msgstr ""
+
+#: the_widgets.php:419
+msgid "Business Hours"
+msgstr ""
+
+#: the_widgets.php:456
+msgid "A widget that displays a google map of a location"
+msgstr ""
+
+#: the_widgets.php:458
+msgid "[LISTINGS] Google Map"
+msgstr "[LISTINGS] Google Map"
+
+#: the_widgets.php:507
+msgid "Location"
+msgstr ""
+
+#: the_widgets.php:540
+msgid "Map Type"
+msgstr "﻿Tipo de Mapa"
+
+#: the_widgets.php:575
+msgid ""
+"A widget that displays a form for users to register for a mailchimp "
+"newsletter"
+msgstr ""
+
+#: the_widgets.php:577
+msgid "[LISTINGS] Mail Chimp"
+msgstr ""
+
+#: the_widgets.php:595
+msgid "Email Address"
+msgstr "﻿Dirección de correo electrónico"
+
+#: the_widgets.php:611
+msgid "Description:"
+msgstr "Descripción:"
+
+#: the_widgets.php:614
+msgid "List:"
+msgstr "﻿Lista:"
+
+#: the_widgets.php:655
+msgid "A widget that displays a feed from your twitter"
+msgstr ""
+
+#: the_widgets.php:657
+msgid "[LISTINGS] Twitter Feed"
+msgstr "[LISTINGS] Twitter Feed"
+
+#: the_widgets.php:680
+msgid "Loading twitter feed"
+msgstr "﻿Cargando feed de Twitter"
+
+#: the_widgets.php:690 the_widgets.php:734
+msgid "Twitter Feed"
+msgstr "﻿Feed de Twitter"
+
+#: the_widgets.php:698
+msgid "Username:"
+msgstr "﻿Nombre usuario:"
+
+#: the_widgets.php:701
+msgid "Number of tweets:"
+msgstr "﻿Número de Tweets:"
+
+#: the_widgets.php:727
+msgid "A widget that displays photos from a flickr feed"
+msgstr ""
+
+#: the_widgets.php:729
+msgid "[LISTINGS] Flickr Pictures"
+msgstr ""
+
+#: the_widgets.php:747
+msgid "Flickr Feed"
+msgstr ""
+
+#: the_widgets.php:754
+msgid "Flickr ID:"
+msgstr "﻿ID de Flickr:"
+
+#: the_widgets.php:779
+msgid "A widget that can displays your posts with the featured image."
+msgstr ""
+
+#: the_widgets.php:781
+msgid "[LISTINGS] Recent Posts"
+msgstr "[LISTINGS] Post recientes"
+
+#: the_widgets.php:787 the_widgets.php:817
+msgid "Recent Posts"
+msgstr "Post recientes"
+
+#: the_widgets.php:825
+msgid "Number of posts:"
+msgstr "﻿Número de entradas:"
+
+#: the_widgets.php:849
+msgid "A widget that can show a custom amount of options"
+msgstr ""
+
+#: the_widgets.php:851
+msgid "[LISTINGS] Recent Listings"
+msgstr "[LISTINGS] Listings recientes"
+
+#: the_widgets.php:857 the_widgets.php:893
+msgid "Recent Listings"
+msgstr "Listings recientes"
+
+#: the_widgets.php:902
+msgid "Number of Listings:"
+msgstr "Número de Listings:"
+
+#: the_widgets.php:926
+msgid ""
+"A widget that displays a contact form and emails it to the email specified "
+"in the Contact Settings (under the Theme Options)."
+msgstr ""
+
+#: the_widgets.php:928
+msgid "[LISTINGS] Contact Form"
+msgstr "[LISTINGS] Formulario de contacto"
+
+#: the_widgets.php:936 the_widgets.php:960
+msgid "Get In Touch"
+msgstr "Estamos en contacto"
+
+#: the_widgets.php:940 the_widgets.php:964
+msgid "Send"
+msgstr ""
+
+#: the_widgets.php:972
+msgid "Name Placeholder:"
+msgstr "﻿Marcador de posición de nombre:"
+
+#: the_widgets.php:977
+msgid "Email Placeholder:"
+msgstr "﻿Marcador de posición de correo electrónico:"
+
+#: the_widgets.php:982
+msgid "Message Placeholder:"
+msgstr "﻿Marcador de posición de mensaje:"
+
+#: the_widgets.php:987
+msgid "Button Text:"
+msgstr "﻿Texto del botón:"
+
+#: the_widgets.php:1013
+msgid "A widget that can slide through customer testimonials"
+msgstr "﻿Un widget que puede deslizarse a través de testimonios de clientes"
+
+#: the_widgets.php:1015
+msgid "[LISTINGS] Testimonial Slider"
+msgstr "[LISTINGS]  Slider de testimonios"
+
+#: the_widgets.php:1021 the_widgets.php:1050 the_widgets.php:1083 vc.php:309
+msgid "Testimonials"
+msgstr ""
+
+#: the_widgets.php:1062
+msgid "Edit Testimonials"
+msgstr "﻿Editar testimonios"
+
+#: the_widgets.php:1134
+msgid "A widget that can create a list from a bunch of items"
+msgstr ""
+
+#: the_widgets.php:1136
+msgid "[LISTINGS] List Items"
+msgstr "[LISTINGS] Elementos de la lista"
+
+#: the_widgets.php:1142 the_widgets.php:1175 vc.php:37
+msgid "List"
+msgstr "Lista"
+
+#: the_widgets.php:1184
+msgid "Style:"
+msgstr "Estilo:"
+
+#: the_widgets.php:1196
+msgid "Edit List"
+msgstr "Editar lista..."
+
+#: the_widgets.php:1242 the_widgets.php:1246 vc.php:62
+msgid "List Item"
+msgstr "Lista de elementos"
+
+#: the_widgets.php:1258
+msgid "A list or dropdown of categories."
+msgstr "﻿Una lista desplegable de categorías"
+
+#: the_widgets.php:1259
+msgid "[LISTINGS] Categories"
+msgstr "[LISTINGS] Categorías"
+
+#: the_widgets.php:1279
+msgid "Select Category"
+msgstr "﻿Seleccionar Categoria"
+
+#: the_widgets.php:1350
+msgid "Display as dropdown"
+msgstr "﻿Mostrar como desplegable"
+
+#: the_widgets.php:1353
+msgid "Show post counts"
+msgstr "﻿Mostrar recuento de posts"
+
+#: the_widgets.php:1356
+msgid "Show hierarchy"
+msgstr "﻿Mostrar jerarquía"
+
+#: vc.php:9 vc.php:360
+msgid "Quote"
+msgstr "﻿Citar"
+
+#: vc.php:12 vc.php:59 vc.php:64 vc.php:94 vc.php:171 vc.php:231 vc.php:271
+#: vc.php:315 vc.php:346 vc.php:373 vc.php:416 vc.php:441 vc.php:481
+#: vc.php:642 vc.php:694 vc.php:736 vc.php:748 vc.php:806 vc.php:858
+#: vc.php:899 vc.php:958 vc.php:987 vc.php:1040 vc.php:1108 vc.php:1144
+#: vc.php:1159 vc.php:1186 vc.php:1221 vc.php:1230 vc.php:1239 vc.php:1267
+#: vc.php:1285 vc.php:1324 vc.php:1404 vc.php:1455 vc.php:1522 vc.php:1570
+msgid "Automotive Shortcodes"
+msgstr "﻿Automotive Shortcodes"
+
+#: vc.php:18 vc.php:81 vc.php:279 vc.php:320 vc.php:1254
+msgid "Text"
+msgstr "﻿Texto"
+
+#: vc.php:20
+msgid "Quote Text"
+msgstr "Citar Texto"
+
+#: vc.php:29 vc.php:287
+msgid "#c7081b"
+msgstr ""
+
+#: vc.php:30
+msgid "The color to the left of the quote"
+msgstr "﻿El color a la izquierda de la cita"
+
+#: vc.php:49
+msgid "Style of dropdown"
+msgstr "﻿Estilo de menú desplegable"
+
+#: vc.php:53 vc.php:158 vc.php:219 vc.php:259 vc.php:300 vc.php:335 vc.php:401
+#: vc.php:631 vc.php:682 vc.php:725 vc.php:779 vc.php:887 vc.php:947
+#: vc.php:1028 vc.php:1096 vc.php:1129 vc.php:1148 vc.php:1393 vc.php:1444
+#: vc.php:1511 vc.php:1559 vc.php:1598
+msgid "Extra class name"
+msgstr "﻿Nombre de la extra class"
+
+#: vc.php:55 vc.php:160 vc.php:221 vc.php:261 vc.php:302 vc.php:337 vc.php:403
+#: vc.php:633 vc.php:684 vc.php:727 vc.php:781 vc.php:889 vc.php:949
+#: vc.php:1030 vc.php:1098 vc.php:1131 vc.php:1150 vc.php:1395 vc.php:1446
+#: vc.php:1513 vc.php:1561 vc.php:1600
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: vc.php:75
+msgid "Icon used for the list items."
+msgstr ""
+
+#: vc.php:84
+msgid "List item content."
+msgstr "﻿Contenido de la lista."
+
+#: vc.php:91
+msgid "Parallax"
+msgstr ""
+
+#: vc.php:104 vc.php:113
+msgid "Parallax content"
+msgstr "﻿Contenido de Parallax"
+
+#: vc.php:119
+msgid "Velocity"
+msgstr "Velocidad"
+
+#: vc.php:122
+msgid "How fast do you want the parallax to go (and which direction!)"
+msgstr ""
+
+#: vc.php:127
+msgid "Offset"
+msgstr ""
+
+#: vc.php:129
+msgid "0"
+msgstr "﻿0"
+
+#: vc.php:130
+msgid "Amount of offset (px)"
+msgstr ""
+
+#: vc.php:138
+msgid "Image used for parallax scrolling"
+msgstr ""
+
+#: vc.php:143
+msgid "Overlay Color"
+msgstr "﻿Superposición de Color"
+
+#: vc.php:146
+msgid "Select an overlay color"
+msgstr "﻿Seleccione un color de superposición"
+
+#: vc.php:151
+msgid "Text Color"
+msgstr "﻿Color del texto"
+
+#: vc.php:154
+msgid "Select text color to use inside the parallax content"
+msgstr ""
+
+#: vc.php:168
+msgid "Animated Numbers"
+msgstr ""
+
+#: vc.php:179
+msgid "Icon to display above the number."
+msgstr ""
+
+#: vc.php:185
+msgid "Number"
+msgstr "﻿Número"
+
+#: vc.php:188
+msgid "The number to animate to."
+msgstr "﻿El número para animar a."
+
+#: vc.php:193
+msgid "Before Number"
+msgstr "﻿Antes del número"
+
+#: vc.php:196
+msgid "Display text before the number ($, €, #)"
+msgstr ""
+
+#: vc.php:201
+msgid "After Number"
+msgstr "﻿Después del número"
+
+#: vc.php:204
+msgid "Display text after the number (%, !)"
+msgstr ""
+
+#: vc.php:208
+msgid "Align"
+msgstr "﻿Alinear"
+
+#: vc.php:210
+msgid "Align the content"
+msgstr "﻿Alinear el contenido"
+
+#: vc.php:213
+msgid "Center"
+msgstr "Centrar"
+
+#: vc.php:228
+msgid "Featured Icon Box"
+msgstr "﻿Caja de icono recomendados"
+
+#: vc.php:247
+msgid "Title of the featured box"
+msgstr "﻿Título de la caja recomendada"
+
+#: vc.php:255
+msgid "Icon of the featured box (fa fa-users)."
+msgstr ""
+
+#: vc.php:268
+msgid "Progress Bar"
+msgstr ""
+
+#: vc.php:280
+msgid "Text to be displayed inside the progress bar."
+msgstr ""
+
+#: vc.php:288
+msgid "Color of progress bar"
+msgstr "﻿Color de la barra de progreso"
+
+#: vc.php:293
+msgid "Filled"
+msgstr ""
+
+#: vc.php:295
+msgid "90%"
+msgstr ""
+
+#: vc.php:296
+msgid "The percentage of the progress bar filled with color."
+msgstr ""
+
+#: vc.php:323
+msgid "This will control which way the testiomnials slide."
+msgstr ""
+
+#: vc.php:328
+msgid "Speed"
+msgstr "﻿Velocidad"
+
+#: vc.php:331
+msgid "This controls the speed at which the testimonials slide."
+msgstr ""
+
+#: vc.php:342
+msgid "Testimonial Quote"
+msgstr "﻿Cita testimonial"
+
+#: vc.php:355
+msgid "Name of person giving the testimonial"
+msgstr ""
+
+#: vc.php:363
+msgid "Testimonial quote"
+msgstr "﻿Cita testimonial"
+
+#: vc.php:370
+msgid "Recent Posts Scroller"
+msgstr "﻿Últimos Posts Scroller"
+
+#: vc.php:378
+msgid "Posts to show"
+msgstr "Publicaciones a Mostrar"
+
+#: vc.php:380
+msgid "2"
+msgstr "2"
+
+#: vc.php:381
+msgid "Number of posts to display at a time"
+msgstr ""
+
+#: vc.php:386
+msgid "Speed of scroller"
+msgstr "Velocidad de Scroll"
+
+#: vc.php:388
+msgid "500"
+msgstr ""
+
+#: vc.php:394
+msgid "Number of posts"
+msgstr "Número de post"
+
+#: vc.php:396
+msgid "3"
+msgstr "3"
+
+#: vc.php:397
+msgid "Number of posts to scroll through"
+msgstr ""
+
+#: vc.php:410
+msgid "FAQ"
+msgstr "FAQ"
+
+#: vc.php:424
+msgid "Comma seperated list of categories."
+msgstr ""
+
+#: vc.php:429 vc.php:837
+msgid "Sort Text"
+msgstr "Ordenar texto"
+
+#: vc.php:432
+msgid "This text is displayed beside the categories."
+msgstr ""
+
+#: vc.php:437
+msgid "FAQ Item"
+msgstr "FAQ artículo"
+
+#: vc.php:450
+msgid "Title of FAQ item"
+msgstr "Título del artículo FAQ"
+
+#: vc.php:457
+msgid "category1, category2, etc"
+msgstr ""
+
+#: vc.php:458
+msgid "Comma seperated list of categories item is in."
+msgstr ""
+
+#: vc.php:463
+msgid "FAQ Content"
+msgstr "FAQ contenido"
+
+#: vc.php:470
+msgid "State of item"
+msgstr "Estado de elemento"
+
+#: vc.php:473
+msgid "Choose whether the item is open or closed"
+msgstr ""
+
+#: vc.php:479
+msgid "Staff person"
+msgstr ""
+
+#: vc.php:490
+msgid "Name of person"
+msgstr "Nombre de persona"
+
+#: vc.php:496
+msgid "Position"
+msgstr "Posición"
+
+#: vc.php:499
+msgid "Position of person"
+msgstr "Cargo de la persona"
+
+#: vc.php:512
+msgid "Cell Phone"
+msgstr "Teléfono móvil"
+
+#: vc.php:536
+msgid "Larger Image"
+msgstr "Imagen más grande"
+
+#: vc.php:547
+msgid "Description of staff member"
+msgstr "Descripción del personal"
+
+#: vc.php:552
+msgid "Facebook"
+msgstr "Facebook"
+
+#: vc.php:555
+msgid "URL to Facebook profile"
+msgstr "URL de perfil en Facebook"
+
+#: vc.php:560
+msgid "Twitter"
+msgstr "Twitter"
+
+#: vc.php:563
+msgid "URL to Twitter profile"
+msgstr "URL de perfil de Twitter"
+
+#: vc.php:568
+msgid "YouTube"
+msgstr ""
+
+#: vc.php:571
+msgid "URL to YouTube profile"
+msgstr "URL de perfil de YouTube"
+
+#: vc.php:576
+msgid "Vimeo"
+msgstr ""
+
+#: vc.php:579
+msgid "URL to Vimeo profile"
+msgstr "URL al perfil Vimeo"
+
+#: vc.php:584
+msgid "LinkedIn"
+msgstr ""
+
+#: vc.php:587
+msgid "URL to LinkedIn profile"
+msgstr "URL de perfil en LinkedIn"
+
+#: vc.php:592
+msgid "RSS"
+msgstr ""
+
+#: vc.php:595
+msgid "URL to RSS profile"
+msgstr "URL al perfil RSS"
+
+#: vc.php:600
+msgid "Flickr"
+msgstr ""
+
+#: vc.php:603
+msgid "URL to Flickr profile"
+msgstr "URL al perfil Flickr"
+
+#: vc.php:608
+msgid "Skype"
+msgstr ""
+
+#: vc.php:611
+msgid "URL to Skype profile"
+msgstr "URL de perfil de Skype"
+
+#: vc.php:616
+msgid "Google"
+msgstr "Google"
+
+#: vc.php:619
+msgid "URL to Google profile"
+msgstr "URL de perfil de Google"
+
+#: vc.php:624
+msgid "Pinterest"
+msgstr ""
+
+#: vc.php:627
+msgid "URL to Pinterest profile"
+msgstr "URL al perfil Pinterest"
+
+#: vc.php:640
+msgid "Featured Panel"
+msgstr ""
+
+#: vc.php:651
+msgid "Title of panel"
+msgstr "Título del panel"
+
+#: vc.php:666 vc.php:763
+msgid "Hover Image"
+msgstr "Hover Imagen"
+
+#: vc.php:691
+msgid "Detailed Panel"
+msgstr ""
+
+#: vc.php:703
+msgid "Title of service"
+msgstr "Título de servicio"
+
+#: vc.php:712
+msgid "Icon to show beside the title."
+msgstr "Icono para mostrar al lado del título."
+
+#: vc.php:734
+msgid "Featured Brands"
+msgstr ""
+
+#: vc.php:744
+msgid "Brand Item"
+msgstr "Artículo Marca"
+
+#: vc.php:757
+msgid "The image shown on load"
+msgstr "La imagen mostrada en la carga"
+
+#: vc.php:766
+msgid "Image shown when hovering over the brand"
+msgstr ""
+
+#: vc.php:772 vc.php:940 vc.php:1552 vc.php:1591
+msgid "Link"
+msgstr "Enlace"
+
+#: vc.php:775 vc.php:943
+msgid "Link brand to url"
+msgstr "Enlazar marca a url"
+
+#: vc.php:815
+msgid "Display these sortable categories"
+msgstr "Mostrar estas categorías filtradas"
+
+#: vc.php:821 vc.php:863
+msgid "Type"
+msgstr "Tipo"
+
+#: vc.php:823
+msgid "Classic"
+msgstr ""
+
+#: vc.php:832
+msgid "Which portfolio to display"
+msgstr "Qué portfolio mostrar"
+
+#: vc.php:840 vc.php:848
+msgid "Change the text beside the categories"
+msgstr ""
+
+#: vc.php:845
+msgid "Columns"
+msgstr "Columnas"
+
+#: vc.php:855
+msgid "Alert"
+msgstr ""
+
+#: vc.php:866
+msgid "Type of alert"
+msgstr "Tipo de alerta"
+
+#: vc.php:871 vc.php:880
+msgid "Close button"
+msgstr "Botón Cerrar"
+
+#: vc.php:874
+msgid "Display a close button"
+msgstr "Mostrar un botón de cierre"
+
+#: vc.php:896
+msgid "Pricing Table"
+msgstr "Tabla de Precios"
+
+#: vc.php:911
+msgid "The title of the pricing option"
+msgstr "El título de la opción de precio"
+
+#: vc.php:924
+msgid "Often"
+msgstr "A menudo"
+
+#: vc.php:926
+msgid "mo"
+msgstr ""
+
+#: vc.php:927
+msgid "How often the payment is made"
+msgstr ""
+
+#: vc.php:932
+msgid "Button Text"
+msgstr "Botón de Texto"
+
+#: vc.php:934
+msgid "Sign Up Now"
+msgstr ""
+
+#: vc.php:954
+msgid "Pricing Option"
+msgstr "Opción de Precios"
+
+#: vc.php:964
+msgid "Option Text"
+msgstr "Opción de texto"
+
+#: vc.php:967
+msgid "An option this pricing table includes"
+msgstr ""
+
+#: vc.php:984
+msgid "Search Inventory Box"
+msgstr "Cuadro de búsqueda de inventario"
+
+#: vc.php:992
+msgid "Column 1"
+msgstr "Colunma 1"
+
+#: vc.php:995
+msgid "Dropdowns that will be shown in the first column"
+msgstr ""
+
+#: vc.php:1000
+msgid "Column 2"
+msgstr ""
+
+#: vc.php:1003
+msgid "Dropdowns that will be shown in the second column"
+msgstr ""
+
+#: vc.php:1008
+msgid "Min/Max Values"
+msgstr ""
+
+#: vc.php:1011
+msgid ""
+"Only choose values you checked in the previous options and only for "
+"categories that use <strong>numbers</strong> as values"
+msgstr ""
+
+#: vc.php:1016
+msgid "Form action"
+msgstr ""
+
+#: vc.php:1018
+msgid ""
+"Choose the page you want to submit the form to (must be using listing "
+"template)"
+msgstr ""
+
+#: vc.php:1022 vc.php:1114
+msgid "Button text"
+msgstr "Texto botón"
+
+#: vc.php:1024
+msgid "Adjust the button text to submit the form."
+msgstr ""
+
+#: vc.php:1037
+msgid "Vehicle Scroller"
+msgstr "Vehículo Scroller"
+
+#: vc.php:1049
+msgid "Title of vehicle scroller."
+msgstr "Mostrar título del scroll"
+
+#: vc.php:1058
+msgid "Small description of vehicles being displayed."
+msgstr ""
+
+#: vc.php:1064
+msgid "Sort by"
+msgstr ""
+
+#: vc.php:1067
+msgid "Description for foo param."
+msgstr "﻿Descripción para foo param."
+
+#: vc.php:1073
+msgid "Vehicles to show"
+msgstr "Vehículos a mostrar"
+
+#: vc.php:1076
+msgid "Comma seperated list of vehicle ID's to display."
+msgstr ""
+
+#: vc.php:1081
+msgid "Vehicle limit"
+msgstr "Límite vehículo"
+
+#: vc.php:1084
+msgid "The number of vehicles to show. (-1 to display all)"
+msgstr ""
+
+#: vc.php:1089
+msgid "Automatic Scrolling"
+msgstr ""
+
+#: vc.php:1092
+msgid "Enable automatic scrolling on the slider."
+msgstr ""
+
+#: vc.php:1105
+msgid "Button"
+msgstr ""
+
+#: vc.php:1122
+msgid "Button size"
+msgstr "Tamaño botón"
+
+#: vc.php:1138
+msgid "Tabs"
+msgstr ""
+
+#: vc.php:1155
+msgid "Single Tab"
+msgstr "Pestaña Individual"
+
+#: vc.php:1168
+msgid "Tab title"
+msgstr "﻿Titulo de la pestaña"
+
+#: vc.php:1176
+msgid "Tab Content"
+msgstr "﻿Contenido de la pestaña"
+
+#: vc.php:1183
+msgid "YouTube/Vimeo video"
+msgstr "YouTube/Vimeo video"
+
+#: vc.php:1192
+msgid "URL to video"
+msgstr "URL del vídeo"
+
+#: vc.php:1218
+msgid "Clear Fix"
+msgstr ""
+
+#: vc.php:1227
+msgid "Line Break"
+msgstr ""
+
+#: vc.php:1236 vc.php:1245
+msgid "Heading"
+msgstr ""
+
+#: vc.php:1248
+msgid "Size of heading"
+msgstr "Tamaño cabecera"
+
+#: vc.php:1257
+msgid "Heading Text"
+msgstr "Texto cabecera"
+
+#: vc.php:1264
+msgid "Car Comparison"
+msgstr ""
+
+#: vc.php:1273
+msgid "Car ID's"
+msgstr "ID de vehículo"
+
+#: vc.php:1276
+msgid ""
+"Comma seperated ID's of vehicles, if no car ID's are set it will "
+"automatically grab cars checked by user in inventory."
+msgstr ""
+
+#: vc.php:1282
+msgid "Contact Form"
+msgstr "﻿Formulario de Contacto"
+
+#: vc.php:1291
+msgid "Name Placeholder"
+msgstr "﻿Nombre de marcador de posición"
+
+#: vc.php:1293
+msgid "This is the text 'behind' the name textfield."
+msgstr ""
+
+#: vc.php:1298
+msgid "Email Placeholder"
+msgstr "﻿Correo electrónico Marcador"
+
+#: vc.php:1300
+msgid "This is the text 'behind' the email textfield."
+msgstr ""
+
+#: vc.php:1305
+msgid "Message Placeholder"
+msgstr "﻿Mensaje Placeholder"
+
+#: vc.php:1307
+msgid "This is the text 'behind' the message textbox."
+msgstr ""
+
+#: vc.php:1312
+msgid "Submit Button"
+msgstr ""
+
+#: vc.php:1314
+msgid "This is the text used on the submit button."
+msgstr ""
+
+#: vc.php:1321
+msgid "Hours Table"
+msgstr "Tabla de horario:"
+
+#: vc.php:1333
+msgid "Title of hours table"
+msgstr "Título de tabla de horario:"
+
+#: vc.php:1338
+msgid "Monday"
+msgstr "Lunes"
+
+#: vc.php:1341
+msgid "Monday hours"
+msgstr "Horario de lunes"
+
+#: vc.php:1346
+msgid "Tuesday"
+msgstr "Martes"
+
+#: vc.php:1349
+msgid "Tuesday hours"
+msgstr "Horario de martes"
+
+#: vc.php:1354
+msgid "Wednesday"
+msgstr "Miércoles"
+
+#: vc.php:1357
+msgid "Wednesday hours"
+msgstr "Horario de Miércoles"
+
+#: vc.php:1362
+msgid "Thursday"
+msgstr "Jueves"
+
+#: vc.php:1365
+msgid "Thursday hours"
+msgstr "Horario de Jueves"
+
+#: vc.php:1370
+msgid "Friday"
+msgstr "Viernes"
+
+#: vc.php:1373
+msgid "Friday hours"
+msgstr "Horario de Viernes"
+
+#: vc.php:1378
+msgid "Saturday"
+msgstr "Sábado"
+
+#: vc.php:1381
+msgid "Saturday hours"
+msgstr "Horario de Sábado"
+
+#: vc.php:1386
+msgid "Sunday"
+msgstr "Domingo"
+
+#: vc.php:1389
+msgid "Sunday hours"
+msgstr "Horario de Domingo"
+
+#: vc.php:1410
+msgid "Company Name"
+msgstr "Nombre de Empresa"
+
+#: vc.php:1438
+msgid "Website"
+msgstr "Sitio web"
+
+#: vc.php:1452
+msgid "Google Map"
+msgstr "Google Map"
+
+#: vc.php:1463
+msgid "Latitude of google map"
+msgstr "Latitud de mapa"
+
+#: vc.php:1471
+msgid "Longitude of google map"
+msgstr "Longitud de mapa"
+
+#: vc.php:1479
+msgid "Zoom of google map"
+msgstr "Zoom del mapa"
+
+#: vc.php:1486
+msgid "390"
+msgstr ""
+
+#: vc.php:1487
+msgid "Height of google map"
+msgstr "Alto del mapa"
+
+#: vc.php:1491
+msgid "Scrolling to zoom"
+msgstr "Scroll para zoom"
+
+#: vc.php:1494
+msgid ""
+"Turn off the scrolling to zoom function on google map, useful for fullscreen "
+"maps"
+msgstr ""
+"Apague el desplazamiento a la función de zoom en google map, útil para los "
+"mapas de pantalla completa"
+
+#: vc.php:1500
+msgid ""
+"Style of google map, styles availiable at: <a href='http://snazzymaps.com/' "
+"target='_blank'>http://snazzymaps.com/</a>"
+msgstr ""
+"Estilo de google map, estilos disponibles en: <a href='http://snazzymaps."
+"com/' target='_blank'>http://snazzymaps.com/</a>"
+
+#: vc.php:1504
+msgid "Parallax Disabled"
+msgstr "Parallax Deshabilitado"
+
+#: vc.php:1507
+msgid "Check this option to disable the parallax"
+msgstr "Seleccione esta opción para desactivar el parallax"
+
+#: vc.php:1519
+msgid "Flipping Card"
+msgstr ""
+
+#: vc.php:1530
+msgid "This image will be shown on the front of the flipping card"
+msgstr ""
+
+#: vc.php:1535
+msgid "Larger image"
+msgstr "﻿Imagen más grande"
+
+#: vc.php:1538
+msgid "This image will open in a fancybox"
+msgstr "Esta imagen se abrirá en una caja"
+
+#: vc.php:1547
+msgid "Title of flipped card"
+msgstr "﻿Título de tarjeta volteada"
+
+#: vc.php:1555
+msgid "Link of link button on flipped side"
+msgstr ""
+
+#: vc.php:1567
+msgid "Icon & Title"
+msgstr "Icono y Título"
+
+#: vc.php:1586
+msgid "e.g. fa fa-dashboard"
+msgstr ""
+
+#: vc.php:1594
+msgid "Link of the icon"
+msgstr "Link de Icono"
+
+#: vin_import.php:8 vin_import.php:61
+msgid "VIN Import"
+msgstr "Importar archivo VIN"
+
+#: vin_import.php:63
+msgid "Import Vehicle"
+msgstr "Importar vehículo "
+
+#: vin_import.php:163
+msgid "Congratulations, you successfully imported this listing: "
+msgstr ""
+
+#: vin_import.php:164
+msgid "Untitled"
+msgstr "Sin título"
+
+#: vin_import.php:166
+msgid "Error importing your listing"
+msgstr "¡Error al importar listado!"
+
+#: vin_import.php:233
+msgid "VIN #"
+msgstr ""
+
+#: vin_import.php:234
+msgid "Get vehicle details"
+msgstr "Detalle de vehículo"
+
+#: vin_import.php:240
+msgid "Please set both your edmunds API keys in the API Keys panel."
+msgstr ""

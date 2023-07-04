@@ -1,0 +1,2 @@
+[01-Jun-2020 20:52:41 Europe/Istanbul] PHP Fatal error:  Call to undefined function get_template_directory() in /home/boomgarage/public_html/wp-content/themes/twentynineteen/functions.php on line 16
+[01-Jun-2020 20:52:52 Europe/Istanbul] PHP Fatal error:  Call to undefined function get_template_directory() in /home/boomgarage/public_html/wp-content/themes/twentynineteen/functions.php on line 16

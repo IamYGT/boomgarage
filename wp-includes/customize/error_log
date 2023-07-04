@@ -1,0 +1,3 @@
+[31-Jul-2020 05:23:19 Europe/Istanbul] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/boomgarage/public_html/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[31-Jul-2020 07:31:41 Europe/Istanbul] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/boomgarage/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[31-Jul-2020 07:32:06 Europe/Istanbul] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/boomgarage/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17

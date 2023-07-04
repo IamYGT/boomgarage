@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:wp="http://wordpress.org/export/1.2/"
+>
+<channel>
+    <wp:wxr_version>1.2</wp:wxr_version>
+
+    <item>
+                <title>portfolio24-lrg</title>
+        <link>http://dev.themesuite.com/automotive/?attachment_id=963</link>
+        <pubDate>Mon, 10 Nov 2014 20:39:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/portfolio24-lrg.jpg</guid>
+        <description></description>
+        <content:encoded><![CDATA[]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>963</wp:post_id>
+        <wp:post_date>2014-11-10 15:39:00</wp:post_date>
+        <wp:post_date_gmt>2014-11-10 20:39:00</wp:post_date_gmt>
+        <wp:comment_status>closed</wp:comment_status>
+        <wp:ping_status>closed</wp:ping_status>
+        <wp:post_name>portfolio24-lrg</wp:post_name>
+        <wp:status>inherit</wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+        <wp:post_type>attachment</wp:post_type>
+        <wp:post_password></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:attachment_url>http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/portfolio24-lrg.jpg</wp:attachment_url>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attached_file</wp:meta_key>
+            <wp:meta_value><![CDATA[2014/11/portfolio24-lrg.jpg]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+            <wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:468;s:4:"file";s:27:"2014/11/portfolio24-lrg.jpg";s:5:"sizes";a:9:{s:9:"thumbnail";a:4:{s:4:"file";s:27:"portfolio24-lrg-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:27:"portfolio24-lrg-250x130.jpg";s:5:"width";i:250;s:6:"height";i:130;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:27:"portfolio24-lrg-700x364.jpg";s:5:"width";i:700;s:6:"height";i:364;s:9:"mime-type";s:10:"image/jpeg";}s:17:"related_portfolio";a:4:{s:4:"file";s:27:"portfolio24-lrg-270x140.jpg";s:5:"width";i:270;s:6:"height";i:140;s:9:"mime-type";s:10:"image/jpeg";}s:10:"auto_thumb";a:4:{s:4:"file";s:27:"portfolio24-lrg-167x119.jpg";s:5:"width";i:167;s:6:"height";i:119;s:9:"mime-type";s:10:"image/jpeg";}s:11:"auto_slider";a:4:{s:4:"file";s:27:"portfolio24-lrg-762x456.jpg";s:5:"width";i:762;s:6:"height";i:456;s:9:"mime-type";s:10:"image/jpeg";}s:12:"auto_listing";a:4:{s:4:"file";s:27:"portfolio24-lrg-200x150.jpg";s:5:"width";i:200;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:5:"small";a:4:{s:4:"file";s:26:"portfolio24-lrg-120x62.jpg";s:5:"width";i:120;s:6:"height";i:62;s:9:"mime-type";s:10:"image/jpeg";}s:11:"custom-size";a:4:{s:4:"file";s:27:"portfolio24-lrg-700x200.jpg";s:5:"width";i:700;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+    <item>
+                <title>slide-show1</title>
+        <link>http://dev.themesuite.com/automotive/?attachment_id=964</link>
+        <pubDate>Mon, 10 Nov 2014 20:39:01 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/slide-show1.jpg</guid>
+        <description></description>
+        <content:encoded><![CDATA[]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>964</wp:post_id>
+        <wp:post_date>2014-11-10 15:39:01</wp:post_date>
+        <wp:post_date_gmt>2014-11-10 20:39:01</wp:post_date_gmt>
+        <wp:comment_status>closed</wp:comment_status>
+        <wp:ping_status>closed</wp:ping_status>
+        <wp:post_name>slide-show1</wp:post_name>
+        <wp:status>inherit</wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+        <wp:post_type>attachment</wp:post_type>
+        <wp:post_password></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:attachment_url>http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/slide-show1.jpg</wp:attachment_url>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attached_file</wp:meta_key>
+            <wp:meta_value><![CDATA[2014/11/slide-show1.jpg]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+            <wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:625;s:4:"file";s:23:"2014/11/slide-show1.jpg";s:5:"sizes";a:9:{s:9:"thumbnail";a:4:{s:4:"file";s:23:"slide-show1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:22:"slide-show1-250x78.jpg";s:5:"width";i:250;s:6:"height";i:78;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:23:"slide-show1-700x218.jpg";s:5:"width";i:700;s:6:"height";i:218;s:9:"mime-type";s:10:"image/jpeg";}s:17:"related_portfolio";a:4:{s:4:"file";s:23:"slide-show1-270x140.jpg";s:5:"width";i:270;s:6:"height";i:140;s:9:"mime-type";s:10:"image/jpeg";}s:10:"auto_thumb";a:4:{s:4:"file";s:23:"slide-show1-167x119.jpg";s:5:"width";i:167;s:6:"height";i:119;s:9:"mime-type";s:10:"image/jpeg";}s:11:"auto_slider";a:4:{s:4:"file";s:23:"slide-show1-762x456.jpg";s:5:"width";i:762;s:6:"height";i:456;s:9:"mime-type";s:10:"image/jpeg";}s:12:"auto_listing";a:4:{s:4:"file";s:23:"slide-show1-200x150.jpg";s:5:"width";i:200;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:5:"small";a:4:{s:4:"file";s:22:"slide-show1-120x37.jpg";s:5:"width";i:120;s:6:"height";i:37;s:9:"mime-type";s:10:"image/jpeg";}s:11:"custom-size";a:4:{s:4:"file";s:23:"slide-show1-700x200.jpg";s:5:"width";i:700;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+    <item>
+                <title>slide-show2</title>
+        <link>http://dev.themesuite.com/automotive/?attachment_id=965</link>
+        <pubDate>Mon, 10 Nov 2014 20:39:03 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/slide-show2.jpg</guid>
+        <description></description>
+        <content:encoded><![CDATA[]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>965</wp:post_id>
+        <wp:post_date>2014-11-10 15:39:03</wp:post_date>
+        <wp:post_date_gmt>2014-11-10 20:39:03</wp:post_date_gmt>
+        <wp:comment_status>closed</wp:comment_status>
+        <wp:ping_status>closed</wp:ping_status>
+        <wp:post_name>slide-show2</wp:post_name>
+        <wp:status>inherit</wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+        <wp:post_type>attachment</wp:post_type>
+        <wp:post_password></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:attachment_url>http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/slide-show2.jpg</wp:attachment_url>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attached_file</wp:meta_key>
+            <wp:meta_value><![CDATA[2014/11/slide-show2.jpg]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+            <wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:625;s:4:"file";s:23:"2014/11/slide-show2.jpg";s:5:"sizes";a:9:{s:9:"thumbnail";a:4:{s:4:"file";s:23:"slide-show2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:22:"slide-show2-250x78.jpg";s:5:"width";i:250;s:6:"height";i:78;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:23:"slide-show2-700x218.jpg";s:5:"width";i:700;s:6:"height";i:218;s:9:"mime-type";s:10:"image/jpeg";}s:17:"related_portfolio";a:4:{s:4:"file";s:23:"slide-show2-270x140.jpg";s:5:"width";i:270;s:6:"height";i:140;s:9:"mime-type";s:10:"image/jpeg";}s:10:"auto_thumb";a:4:{s:4:"file";s:23:"slide-show2-167x119.jpg";s:5:"width";i:167;s:6:"height";i:119;s:9:"mime-type";s:10:"image/jpeg";}s:11:"auto_slider";a:4:{s:4:"file";s:23:"slide-show2-762x456.jpg";s:5:"width";i:762;s:6:"height";i:456;s:9:"mime-type";s:10:"image/jpeg";}s:12:"auto_listing";a:4:{s:4:"file";s:23:"slide-show2-200x150.jpg";s:5:"width";i:200;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:5:"small";a:4:{s:4:"file";s:22:"slide-show2-120x37.jpg";s:5:"width";i:120;s:6:"height";i:37;s:9:"mime-type";s:10:"image/jpeg";}s:11:"custom-size";a:4:{s:4:"file";s:23:"slide-show2-700x200.jpg";s:5:"width";i:700;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+    <item>
+                <title>slide-show3</title>
+        <link>http://dev.themesuite.com/automotive/?attachment_id=966</link>
+        <pubDate>Mon, 10 Nov 2014 20:39:05 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/slide-show3.jpg</guid>
+        <description></description>
+        <content:encoded><![CDATA[]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>966</wp:post_id>
+        <wp:post_date>2014-11-10 15:39:05</wp:post_date>
+        <wp:post_date_gmt>2014-11-10 20:39:05</wp:post_date_gmt>
+        <wp:comment_status>closed</wp:comment_status>
+        <wp:ping_status>closed</wp:ping_status>
+        <wp:post_name>slide-show3</wp:post_name>
+        <wp:status>inherit</wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+        <wp:post_type>attachment</wp:post_type>
+        <wp:post_password></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:attachment_url>http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/slide-show3.jpg</wp:attachment_url>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attached_file</wp:meta_key>
+            <wp:meta_value><![CDATA[2014/11/slide-show3.jpg]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+            <wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:625;s:4:"file";s:23:"2014/11/slide-show3.jpg";s:5:"sizes";a:9:{s:9:"thumbnail";a:4:{s:4:"file";s:23:"slide-show3-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:22:"slide-show3-250x78.jpg";s:5:"width";i:250;s:6:"height";i:78;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:23:"slide-show3-700x218.jpg";s:5:"width";i:700;s:6:"height";i:218;s:9:"mime-type";s:10:"image/jpeg";}s:17:"related_portfolio";a:4:{s:4:"file";s:23:"slide-show3-270x140.jpg";s:5:"width";i:270;s:6:"height";i:140;s:9:"mime-type";s:10:"image/jpeg";}s:10:"auto_thumb";a:4:{s:4:"file";s:23:"slide-show3-167x119.jpg";s:5:"width";i:167;s:6:"height";i:119;s:9:"mime-type";s:10:"image/jpeg";}s:11:"auto_slider";a:4:{s:4:"file";s:23:"slide-show3-762x456.jpg";s:5:"width";i:762;s:6:"height";i:456;s:9:"mime-type";s:10:"image/jpeg";}s:12:"auto_listing";a:4:{s:4:"file";s:23:"slide-show3-200x150.jpg";s:5:"width";i:200;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:5:"small";a:4:{s:4:"file";s:22:"slide-show3-120x37.jpg";s:5:"width";i:120;s:6:"height";i:37;s:9:"mime-type";s:10:"image/jpeg";}s:11:"custom-size";a:4:{s:4:"file";s:23:"slide-show3-700x200.jpg";s:5:"width";i:700;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+    <item>
+                <title>slide-show4</title>
+        <link>http://dev.themesuite.com/automotive/?attachment_id=967</link>
+        <pubDate>Mon, 10 Nov 2014 20:39:08 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/slide-show4.jpg</guid>
+        <description></description>
+        <content:encoded><![CDATA[]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>967</wp:post_id>
+        <wp:post_date>2014-11-10 15:39:08</wp:post_date>
+        <wp:post_date_gmt>2014-11-10 20:39:08</wp:post_date_gmt>
+        <wp:comment_status>closed</wp:comment_status>
+        <wp:ping_status>closed</wp:ping_status>
+        <wp:post_name>slide-show4</wp:post_name>
+        <wp:status>inherit</wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+        <wp:post_type>attachment</wp:post_type>
+        <wp:post_password></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:attachment_url>http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/slide-show4.jpg</wp:attachment_url>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attached_file</wp:meta_key>
+            <wp:meta_value><![CDATA[2014/11/slide-show4.jpg]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+            <wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:625;s:4:"file";s:23:"2014/11/slide-show4.jpg";s:5:"sizes";a:9:{s:9:"thumbnail";a:4:{s:4:"file";s:23:"slide-show4-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:22:"slide-show4-250x78.jpg";s:5:"width";i:250;s:6:"height";i:78;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:23:"slide-show4-700x218.jpg";s:5:"width";i:700;s:6:"height";i:218;s:9:"mime-type";s:10:"image/jpeg";}s:17:"related_portfolio";a:4:{s:4:"file";s:23:"slide-show4-270x140.jpg";s:5:"width";i:270;s:6:"height";i:140;s:9:"mime-type";s:10:"image/jpeg";}s:10:"auto_thumb";a:4:{s:4:"file";s:23:"slide-show4-167x119.jpg";s:5:"width";i:167;s:6:"height";i:119;s:9:"mime-type";s:10:"image/jpeg";}s:11:"auto_slider";a:4:{s:4:"file";s:23:"slide-show4-762x456.jpg";s:5:"width";i:762;s:6:"height";i:456;s:9:"mime-type";s:10:"image/jpeg";}s:12:"auto_listing";a:4:{s:4:"file";s:23:"slide-show4-200x150.jpg";s:5:"width";i:200;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:5:"small";a:4:{s:4:"file";s:22:"slide-show4-120x37.jpg";s:5:"width";i:120;s:6:"height";i:37;s:9:"mime-type";s:10:"image/jpeg";}s:11:"custom-size";a:4:{s:4:"file";s:23:"slide-show4-700x200.jpg";s:5:"width";i:700;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+    <item>
+                <title>slide-show5</title>
+        <link>http://dev.themesuite.com/automotive/?attachment_id=968</link>
+        <pubDate>Mon, 10 Nov 2014 20:39:09 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/slide-show5.jpg</guid>
+        <description></description>
+        <content:encoded><![CDATA[]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>968</wp:post_id>
+        <wp:post_date>2014-11-10 15:39:09</wp:post_date>
+        <wp:post_date_gmt>2014-11-10 20:39:09</wp:post_date_gmt>
+        <wp:comment_status>closed</wp:comment_status>
+        <wp:ping_status>closed</wp:ping_status>
+        <wp:post_name>slide-show5</wp:post_name>
+        <wp:status>inherit</wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+        <wp:post_type>attachment</wp:post_type>
+        <wp:post_password></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:attachment_url>http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/slide-show5.jpg</wp:attachment_url>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attached_file</wp:meta_key>
+            <wp:meta_value><![CDATA[2014/11/slide-show5.jpg]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+            <wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:625;s:4:"file";s:23:"2014/11/slide-show5.jpg";s:5:"sizes";a:9:{s:9:"thumbnail";a:4:{s:4:"file";s:23:"slide-show5-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:22:"slide-show5-250x78.jpg";s:5:"width";i:250;s:6:"height";i:78;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:23:"slide-show5-700x218.jpg";s:5:"width";i:700;s:6:"height";i:218;s:9:"mime-type";s:10:"image/jpeg";}s:17:"related_portfolio";a:4:{s:4:"file";s:23:"slide-show5-270x140.jpg";s:5:"width";i:270;s:6:"height";i:140;s:9:"mime-type";s:10:"image/jpeg";}s:10:"auto_thumb";a:4:{s:4:"file";s:23:"slide-show5-167x119.jpg";s:5:"width";i:167;s:6:"height";i:119;s:9:"mime-type";s:10:"image/jpeg";}s:11:"auto_slider";a:4:{s:4:"file";s:23:"slide-show5-762x456.jpg";s:5:"width";i:762;s:6:"height";i:456;s:9:"mime-type";s:10:"image/jpeg";}s:12:"auto_listing";a:4:{s:4:"file";s:23:"slide-show5-200x150.jpg";s:5:"width";i:200;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:5:"small";a:4:{s:4:"file";s:22:"slide-show5-120x37.jpg";s:5:"width";i:120;s:6:"height";i:37;s:9:"mime-type";s:10:"image/jpeg";}s:11:"custom-size";a:4:{s:4:"file";s:23:"slide-show5-700x200.jpg";s:5:"width";i:700;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+    <item>
+                <title>team1-lrg</title>
+        <link>http://dev.themesuite.com/automotive/?attachment_id=969</link>
+        <pubDate>Mon, 10 Nov 2014 20:39:11 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/team1-lrg.jpg</guid>
+        <description></description>
+        <content:encoded><![CDATA[Closeup portrait of a handsome mature business man smiling - Copyspace]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>969</wp:post_id>
+        <wp:post_date>2014-11-10 15:39:11</wp:post_date>
+        <wp:post_date_gmt>2014-11-10 20:39:11</wp:post_date_gmt>
+        <wp:comment_status>closed</wp:comment_status>
+        <wp:ping_status>closed</wp:ping_status>
+        <wp:post_name>team1-lrg</wp:post_name>
+        <wp:status>inherit</wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+        <wp:post_type>attachment</wp:post_type>
+        <wp:post_password></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:attachment_url>http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/team1-lrg.jpg</wp:attachment_url>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attached_file</wp:meta_key>
+            <wp:meta_value><![CDATA[2014/11/team1-lrg.jpg]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+            <wp:meta_value><![CDATA[a:5:{s:5:"width";i:548;s:6:"height";i:365;s:4:"file";s:21:"2014/11/team1-lrg.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"team1-lrg-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"team1-lrg-250x166.jpg";s:5:"width";i:250;s:6:"height";i:166;s:9:"mime-type";s:10:"image/jpeg";}s:17:"related_portfolio";a:4:{s:4:"file";s:21:"team1-lrg-270x140.jpg";s:5:"width";i:270;s:6:"height";i:140;s:9:"mime-type";s:10:"image/jpeg";}s:10:"auto_thumb";a:4:{s:4:"file";s:21:"team1-lrg-167x119.jpg";s:5:"width";i:167;s:6:"height";i:119;s:9:"mime-type";s:10:"image/jpeg";}s:12:"auto_listing";a:4:{s:4:"file";s:21:"team1-lrg-200x150.jpg";s:5:"width";i:200;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:5:"small";a:4:{s:4:"file";s:20:"team1-lrg-120x79.jpg";s:5:"width";i:120;s:6:"height";i:79;s:9:"mime-type";s:10:"image/jpeg";}s:11:"custom-size";a:4:{s:4:"file";s:21:"team1-lrg-548x200.jpg";s:5:"width";i:548;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";d:2.5;s:6:"credit";s:0:"";s:6:"camera";s:22:"Canon EOS-1Ds Mark III";s:7:"caption";s:70:"Closeup portrait of a handsome mature business man smiling - Copyspace";s:17:"created_timestamp";i:1263997181;s:9:"copyright";s:0:"";s:12:"focal_length";s:2:"85";s:3:"iso";s:3:"200";s:13:"shutter_speed";s:5:"0.004";s:5:"title";s:4:"7951";s:11:"orientation";i:1;}}]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+    <item>
+                <title>team1</title>
+        <link>http://dev.themesuite.com/automotive/?attachment_id=970</link>
+        <pubDate>Mon, 10 Nov 2014 20:39:12 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/team1.jpg</guid>
+        <description></description>
+        <content:encoded><![CDATA[]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>970</wp:post_id>
+        <wp:post_date>2014-11-10 15:39:12</wp:post_date>
+        <wp:post_date_gmt>2014-11-10 20:39:12</wp:post_date_gmt>
+        <wp:comment_status>closed</wp:comment_status>
+        <wp:ping_status>closed</wp:ping_status>
+        <wp:post_name>team1</wp:post_name>
+        <wp:status>inherit</wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+        <wp:post_type>attachment</wp:post_type>
+        <wp:post_password></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:attachment_url>http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/team1.jpg</wp:attachment_url>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attached_file</wp:meta_key>
+            <wp:meta_value><![CDATA[2014/11/team1.jpg]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+            <wp:meta_value><![CDATA[a:5:{s:5:"width";i:370;s:6:"height";i:246;s:4:"file";s:17:"2014/11/team1.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"team1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"team1-250x166.jpg";s:5:"width";i:250;s:6:"height";i:166;s:9:"mime-type";s:10:"image/jpeg";}s:17:"related_portfolio";a:4:{s:4:"file";s:17:"team1-270x140.jpg";s:5:"width";i:270;s:6:"height";i:140;s:9:"mime-type";s:10:"image/jpeg";}s:10:"auto_thumb";a:4:{s:4:"file";s:17:"team1-167x119.jpg";s:5:"width";i:167;s:6:"height";i:119;s:9:"mime-type";s:10:"image/jpeg";}s:12:"auto_listing";a:4:{s:4:"file";s:17:"team1-200x150.jpg";s:5:"width";i:200;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:5:"small";a:4:{s:4:"file";s:16:"team1-120x79.jpg";s:5:"width";i:120;s:6:"height";i:79;s:9:"mime-type";s:10:"image/jpeg";}s:11:"custom-size";a:4:{s:4:"file";s:17:"team1-370x200.jpg";s:5:"width";i:370;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+    <item>
+                <title>team2-lrg</title>
+        <link>http://dev.themesuite.com/automotive/?attachment_id=971</link>
+        <pubDate>Mon, 10 Nov 2014 20:39:13 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/team2-lrg.jpg</guid>
+        <description></description>
+        <content:encoded><![CDATA[Closeup portrait of cute female executive smiling with colleagues in background]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>971</wp:post_id>
+        <wp:post_date>2014-11-10 15:39:13</wp:post_date>
+        <wp:post_date_gmt>2014-11-10 20:39:13</wp:post_date_gmt>
+        <wp:comment_status>closed</wp:comment_status>
+        <wp:ping_status>closed</wp:ping_status>
+        <wp:post_name>team2-lrg</wp:post_name>
+        <wp:status>inherit</wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+        <wp:post_type>attachment</wp:post_type>
+        <wp:post_password></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:attachment_url>http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/team2-lrg.jpg</wp:attachment_url>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attached_file</wp:meta_key>
+            <wp:meta_value><![CDATA[2014/11/team2-lrg.jpg]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+            <wp:meta_value><![CDATA[a:5:{s:5:"width";i:548;s:6:"height";i:365;s:4:"file";s:21:"2014/11/team2-lrg.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"team2-lrg-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"team2-lrg-250x166.jpg";s:5:"width";i:250;s:6:"height";i:166;s:9:"mime-type";s:10:"image/jpeg";}s:17:"related_portfolio";a:4:{s:4:"file";s:21:"team2-lrg-270x140.jpg";s:5:"width";i:270;s:6:"height";i:140;s:9:"mime-type";s:10:"image/jpeg";}s:10:"auto_thumb";a:4:{s:4:"file";s:21:"team2-lrg-167x119.jpg";s:5:"width";i:167;s:6:"height";i:119;s:9:"mime-type";s:10:"image/jpeg";}s:12:"auto_listing";a:4:{s:4:"file";s:21:"team2-lrg-200x150.jpg";s:5:"width";i:200;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:5:"small";a:4:{s:4:"file";s:20:"team2-lrg-120x79.jpg";s:5:"width";i:120;s:6:"height";i:79;s:9:"mime-type";s:10:"image/jpeg";}s:11:"custom-size";a:4:{s:4:"file";s:21:"team2-lrg-548x200.jpg";s:5:"width";i:548;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";d:2.5;s:6:"credit";s:0:"";s:6:"camera";s:9:"NIKON D3X";s:7:"caption";s:79:"Closeup portrait of cute female executive smiling with colleagues in background";s:17:"created_timestamp";i:1292409296;s:9:"copyright";s:11:"Yuri Arcurs";s:12:"focal_length";s:2:"85";s:3:"iso";s:3:"125";s:13:"shutter_speed";s:7:"0.00625";s:5:"title";s:5:"10352";s:11:"orientation";i:1;}}]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+    <item>
+                <title>team2</title>
+        <link>http://dev.themesuite.com/automotive/?attachment_id=972</link>
+        <pubDate>Mon, 10 Nov 2014 20:39:14 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/team2.jpg</guid>
+        <description></description>
+        <content:encoded><![CDATA[]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>972</wp:post_id>
+        <wp:post_date>2014-11-10 15:39:14</wp:post_date>
+        <wp:post_date_gmt>2014-11-10 20:39:14</wp:post_date_gmt>
+        <wp:comment_status>closed</wp:comment_status>
+        <wp:ping_status>closed</wp:ping_status>
+        <wp:post_name>team2</wp:post_name>
+        <wp:status>inherit</wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+        <wp:post_type>attachment</wp:post_type>
+        <wp:post_password></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:attachment_url>http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/team2.jpg</wp:attachment_url>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attached_file</wp:meta_key>
+            <wp:meta_value><![CDATA[2014/11/team2.jpg]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+            <wp:meta_value><![CDATA[a:5:{s:5:"width";i:370;s:6:"height";i:246;s:4:"file";s:17:"2014/11/team2.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"team2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"team2-250x166.jpg";s:5:"width";i:250;s:6:"height";i:166;s:9:"mime-type";s:10:"image/jpeg";}s:17:"related_portfolio";a:4:{s:4:"file";s:17:"team2-270x140.jpg";s:5:"width";i:270;s:6:"height";i:140;s:9:"mime-type";s:10:"image/jpeg";}s:10:"auto_thumb";a:4:{s:4:"file";s:17:"team2-167x119.jpg";s:5:"width";i:167;s:6:"height";i:119;s:9:"mime-type";s:10:"image/jpeg";}s:12:"auto_listing";a:4:{s:4:"file";s:17:"team2-200x150.jpg";s:5:"width";i:200;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:5:"small";a:4:{s:4:"file";s:16:"team2-120x79.jpg";s:5:"width";i:120;s:6:"height";i:79;s:9:"mime-type";s:10:"image/jpeg";}s:11:"custom-size";a:4:{s:4:"file";s:17:"team2-370x200.jpg";s:5:"width";i:370;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+    <item>
+                <title>team3-lrg</title>
+        <link>http://dev.themesuite.com/automotive/?attachment_id=973</link>
+        <pubDate>Mon, 10 Nov 2014 20:39:15 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/team3-lrg.jpg</guid>
+        <description></description>
+        <content:encoded><![CDATA[Closeup portrait of handsome young business man smiling with colleagues in background]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>973</wp:post_id>
+        <wp:post_date>2014-11-10 15:39:15</wp:post_date>
+        <wp:post_date_gmt>2014-11-10 20:39:15</wp:post_date_gmt>
+        <wp:comment_status>closed</wp:comment_status>
+        <wp:ping_status>closed</wp:ping_status>
+        <wp:post_name>team3-lrg</wp:post_name>
+        <wp:status>inherit</wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+        <wp:post_type>attachment</wp:post_type>
+        <wp:post_password></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:attachment_url>http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/team3-lrg.jpg</wp:attachment_url>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attached_file</wp:meta_key>
+            <wp:meta_value><![CDATA[2014/11/team3-lrg.jpg]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+            <wp:meta_value><![CDATA[a:5:{s:5:"width";i:548;s:6:"height";i:365;s:4:"file";s:21:"2014/11/team3-lrg.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"team3-lrg-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"team3-lrg-250x166.jpg";s:5:"width";i:250;s:6:"height";i:166;s:9:"mime-type";s:10:"image/jpeg";}s:17:"related_portfolio";a:4:{s:4:"file";s:21:"team3-lrg-270x140.jpg";s:5:"width";i:270;s:6:"height";i:140;s:9:"mime-type";s:10:"image/jpeg";}s:10:"auto_thumb";a:4:{s:4:"file";s:21:"team3-lrg-167x119.jpg";s:5:"width";i:167;s:6:"height";i:119;s:9:"mime-type";s:10:"image/jpeg";}s:12:"auto_listing";a:4:{s:4:"file";s:21:"team3-lrg-200x150.jpg";s:5:"width";i:200;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:5:"small";a:4:{s:4:"file";s:20:"team3-lrg-120x79.jpg";s:5:"width";i:120;s:6:"height";i:79;s:9:"mime-type";s:10:"image/jpeg";}s:11:"custom-size";a:4:{s:4:"file";s:21:"team3-lrg-548x200.jpg";s:5:"width";i:548;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";d:2.5;s:6:"credit";s:0:"";s:6:"camera";s:9:"NIKON D3X";s:7:"caption";s:85:"Closeup portrait of handsome young business man smiling with colleagues in background";s:17:"created_timestamp";i:1292409382;s:9:"copyright";s:11:"Yuri Arcurs";s:12:"focal_length";s:2:"85";s:3:"iso";s:3:"125";s:13:"shutter_speed";s:7:"0.00625";s:5:"title";s:5:"10501";s:11:"orientation";i:1;}}]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+    <item>
+                <title>team3</title>
+        <link>http://dev.themesuite.com/automotive/?attachment_id=974</link>
+        <pubDate>Mon, 10 Nov 2014 20:39:16 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/team3.jpg</guid>
+        <description></description>
+        <content:encoded><![CDATA[]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>974</wp:post_id>
+        <wp:post_date>2014-11-10 15:39:16</wp:post_date>
+        <wp:post_date_gmt>2014-11-10 20:39:16</wp:post_date_gmt>
+        <wp:comment_status>closed</wp:comment_status>
+        <wp:ping_status>closed</wp:ping_status>
+        <wp:post_name>team3</wp:post_name>
+        <wp:status>inherit</wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+        <wp:post_type>attachment</wp:post_type>
+        <wp:post_password></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:attachment_url>http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/team3.jpg</wp:attachment_url>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attached_file</wp:meta_key>
+            <wp:meta_value><![CDATA[2014/11/team3.jpg]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+            <wp:meta_value><![CDATA[a:5:{s:5:"width";i:370;s:6:"height";i:246;s:4:"file";s:17:"2014/11/team3.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"team3-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"team3-250x166.jpg";s:5:"width";i:250;s:6:"height";i:166;s:9:"mime-type";s:10:"image/jpeg";}s:17:"related_portfolio";a:4:{s:4:"file";s:17:"team3-270x140.jpg";s:5:"width";i:270;s:6:"height";i:140;s:9:"mime-type";s:10:"image/jpeg";}s:10:"auto_thumb";a:4:{s:4:"file";s:17:"team3-167x119.jpg";s:5:"width";i:167;s:6:"height";i:119;s:9:"mime-type";s:10:"image/jpeg";}s:12:"auto_listing";a:4:{s:4:"file";s:17:"team3-200x150.jpg";s:5:"width";i:200;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:5:"small";a:4:{s:4:"file";s:16:"team3-120x79.jpg";s:5:"width";i:120;s:6:"height";i:79;s:9:"mime-type";s:10:"image/jpeg";}s:11:"custom-size";a:4:{s:4:"file";s:17:"team3-370x200.jpg";s:5:"width";i:370;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+    <item>
+                <title>team4-lrg</title>
+        <link>http://dev.themesuite.com/automotive/?attachment_id=975</link>
+        <pubDate>Mon, 10 Nov 2014 20:39:17 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/team4-lrg.jpg</guid>
+        <description></description>
+        <content:encoded><![CDATA[Portrait of mature business man smiling during meeting with colleagues in background]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>975</wp:post_id>
+        <wp:post_date>2014-11-10 15:39:17</wp:post_date>
+        <wp:post_date_gmt>2014-11-10 20:39:17</wp:post_date_gmt>
+        <wp:comment_status>closed</wp:comment_status>
+        <wp:ping_status>closed</wp:ping_status>
+        <wp:post_name>team4-lrg</wp:post_name>
+        <wp:status>inherit</wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+        <wp:post_type>attachment</wp:post_type>
+        <wp:post_password></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:attachment_url>http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/team4-lrg.jpg</wp:attachment_url>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attached_file</wp:meta_key>
+            <wp:meta_value><![CDATA[2014/11/team4-lrg.jpg]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+            <wp:meta_value><![CDATA[a:5:{s:5:"width";i:548;s:6:"height";i:365;s:4:"file";s:21:"2014/11/team4-lrg.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"team4-lrg-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"team4-lrg-250x166.jpg";s:5:"width";i:250;s:6:"height";i:166;s:9:"mime-type";s:10:"image/jpeg";}s:17:"related_portfolio";a:4:{s:4:"file";s:21:"team4-lrg-270x140.jpg";s:5:"width";i:270;s:6:"height";i:140;s:9:"mime-type";s:10:"image/jpeg";}s:10:"auto_thumb";a:4:{s:4:"file";s:21:"team4-lrg-167x119.jpg";s:5:"width";i:167;s:6:"height";i:119;s:9:"mime-type";s:10:"image/jpeg";}s:12:"auto_listing";a:4:{s:4:"file";s:21:"team4-lrg-200x150.jpg";s:5:"width";i:200;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:5:"small";a:4:{s:4:"file";s:20:"team4-lrg-120x79.jpg";s:5:"width";i:120;s:6:"height";i:79;s:9:"mime-type";s:10:"image/jpeg";}s:11:"custom-size";a:4:{s:4:"file";s:21:"team4-lrg-548x200.jpg";s:5:"width";i:548;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";d:2.20000000000000017763568394002504646778106689453125;s:6:"credit";s:0:"";s:6:"camera";s:9:"NIKON D3X";s:7:"caption";s:84:"Portrait of mature business man smiling during meeting with colleagues in background";s:17:"created_timestamp";i:1292424585;s:9:"copyright";s:11:"Yuri Arcurs";s:12:"focal_length";s:2:"50";s:3:"iso";s:3:"160";s:13:"shutter_speed";s:4:"0.01";s:5:"title";s:5:"10395";s:11:"orientation";i:1;}}]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+    <item>
+                <title>team4</title>
+        <link>http://dev.themesuite.com/automotive/?attachment_id=976</link>
+        <pubDate>Mon, 10 Nov 2014 20:39:18 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/team4.jpg</guid>
+        <description></description>
+        <content:encoded><![CDATA[]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>976</wp:post_id>
+        <wp:post_date>2014-11-10 15:39:18</wp:post_date>
+        <wp:post_date_gmt>2014-11-10 20:39:18</wp:post_date_gmt>
+        <wp:comment_status>closed</wp:comment_status>
+        <wp:ping_status>closed</wp:ping_status>
+        <wp:post_name>team4</wp:post_name>
+        <wp:status>inherit</wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+        <wp:post_type>attachment</wp:post_type>
+        <wp:post_password></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:attachment_url>http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/team4.jpg</wp:attachment_url>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attached_file</wp:meta_key>
+            <wp:meta_value><![CDATA[2014/11/team4.jpg]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+            <wp:meta_value><![CDATA[a:5:{s:5:"width";i:270;s:6:"height";i:180;s:4:"file";s:17:"2014/11/team4.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"team4-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"team4-250x166.jpg";s:5:"width";i:250;s:6:"height";i:166;s:9:"mime-type";s:10:"image/jpeg";}s:17:"related_portfolio";a:4:{s:4:"file";s:17:"team4-270x140.jpg";s:5:"width";i:270;s:6:"height";i:140;s:9:"mime-type";s:10:"image/jpeg";}s:10:"auto_thumb";a:4:{s:4:"file";s:17:"team4-167x119.jpg";s:5:"width";i:167;s:6:"height";i:119;s:9:"mime-type";s:10:"image/jpeg";}s:12:"auto_listing";a:4:{s:4:"file";s:17:"team4-200x150.jpg";s:5:"width";i:200;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:5:"small";a:4:{s:4:"file";s:16:"team4-120x80.jpg";s:5:"width";i:120;s:6:"height";i:80;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+    <item>
+                <title>team5-lrg</title>
+        <link>http://dev.themesuite.com/automotive/?attachment_id=977</link>
+        <pubDate>Mon, 10 Nov 2014 20:39:19 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/team5-lrg.jpg</guid>
+        <description></description>
+        <content:encoded><![CDATA[Portrait of confident female executive smiling with colleagues discussing in background]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>977</wp:post_id>
+        <wp:post_date>2014-11-10 15:39:19</wp:post_date>
+        <wp:post_date_gmt>2014-11-10 20:39:19</wp:post_date_gmt>
+        <wp:comment_status>closed</wp:comment_status>
+        <wp:ping_status>closed</wp:ping_status>
+        <wp:post_name>team5-lrg</wp:post_name>
+        <wp:status>inherit</wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+        <wp:post_type>attachment</wp:post_type>
+        <wp:post_password></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:attachment_url>http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/team5-lrg.jpg</wp:attachment_url>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attached_file</wp:meta_key>
+            <wp:meta_value><![CDATA[2014/11/team5-lrg.jpg]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+            <wp:meta_value><![CDATA[a:5:{s:5:"width";i:548;s:6:"height";i:365;s:4:"file";s:21:"2014/11/team5-lrg.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"team5-lrg-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"team5-lrg-250x166.jpg";s:5:"width";i:250;s:6:"height";i:166;s:9:"mime-type";s:10:"image/jpeg";}s:17:"related_portfolio";a:4:{s:4:"file";s:21:"team5-lrg-270x140.jpg";s:5:"width";i:270;s:6:"height";i:140;s:9:"mime-type";s:10:"image/jpeg";}s:10:"auto_thumb";a:4:{s:4:"file";s:21:"team5-lrg-167x119.jpg";s:5:"width";i:167;s:6:"height";i:119;s:9:"mime-type";s:10:"image/jpeg";}s:12:"auto_listing";a:4:{s:4:"file";s:21:"team5-lrg-200x150.jpg";s:5:"width";i:200;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:5:"small";a:4:{s:4:"file";s:20:"team5-lrg-120x79.jpg";s:5:"width";i:120;s:6:"height";i:79;s:9:"mime-type";s:10:"image/jpeg";}s:11:"custom-size";a:4:{s:4:"file";s:21:"team5-lrg-548x200.jpg";s:5:"width";i:548;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";d:2.5;s:6:"credit";s:11:"Yuri Arcurs";s:6:"camera";s:10:"ve with te";s:7:"caption";s:87:"Portrait of confident female executive smiling with colleagues discussing in background";s:17:"created_timestamp";i:1308216398;s:9:"copyright";s:11:"Yuri Arcurs";s:12:"focal_length";s:2:"50";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:6:"0.0025";s:5:"title";s:4:"8857";s:11:"orientation";i:1;}}]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+    <item>
+                <title>team5</title>
+        <link>http://dev.themesuite.com/automotive/?attachment_id=978</link>
+        <pubDate>Mon, 10 Nov 2014 20:39:20 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/team5.jpg</guid>
+        <description></description>
+        <content:encoded><![CDATA[]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>978</wp:post_id>
+        <wp:post_date>2014-11-10 15:39:20</wp:post_date>
+        <wp:post_date_gmt>2014-11-10 20:39:20</wp:post_date_gmt>
+        <wp:comment_status>closed</wp:comment_status>
+        <wp:ping_status>closed</wp:ping_status>
+        <wp:post_name>team5</wp:post_name>
+        <wp:status>inherit</wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+        <wp:post_type>attachment</wp:post_type>
+        <wp:post_password></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:attachment_url>http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/team5.jpg</wp:attachment_url>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attached_file</wp:meta_key>
+            <wp:meta_value><![CDATA[2014/11/team5.jpg]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+            <wp:meta_value><![CDATA[a:5:{s:5:"width";i:270;s:6:"height";i:180;s:4:"file";s:17:"2014/11/team5.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"team5-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"team5-250x166.jpg";s:5:"width";i:250;s:6:"height";i:166;s:9:"mime-type";s:10:"image/jpeg";}s:17:"related_portfolio";a:4:{s:4:"file";s:17:"team5-270x140.jpg";s:5:"width";i:270;s:6:"height";i:140;s:9:"mime-type";s:10:"image/jpeg";}s:10:"auto_thumb";a:4:{s:4:"file";s:17:"team5-167x119.jpg";s:5:"width";i:167;s:6:"height";i:119;s:9:"mime-type";s:10:"image/jpeg";}s:12:"auto_listing";a:4:{s:4:"file";s:17:"team5-200x150.jpg";s:5:"width";i:200;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:5:"small";a:4:{s:4:"file";s:16:"team5-120x80.jpg";s:5:"width";i:120;s:6:"height";i:80;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+    <item>
+                <title>team6-lrg</title>
+        <link>http://dev.themesuite.com/automotive/?attachment_id=979</link>
+        <pubDate>Mon, 10 Nov 2014 20:39:21 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/team6-lrg.jpg</guid>
+        <description></description>
+        <content:encoded><![CDATA[Smiling business man reclines back in his chair with colleagues discussing in background]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>979</wp:post_id>
+        <wp:post_date>2014-11-10 15:39:21</wp:post_date>
+        <wp:post_date_gmt>2014-11-10 20:39:21</wp:post_date_gmt>
+        <wp:comment_status>closed</wp:comment_status>
+        <wp:ping_status>closed</wp:ping_status>
+        <wp:post_name>team6-lrg</wp:post_name>
+        <wp:status>inherit</wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+        <wp:post_type>attachment</wp:post_type>
+        <wp:post_password></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:attachment_url>http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/team6-lrg.jpg</wp:attachment_url>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attached_file</wp:meta_key>
+            <wp:meta_value><![CDATA[2014/11/team6-lrg.jpg]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+            <wp:meta_value><![CDATA[a:5:{s:5:"width";i:548;s:6:"height";i:365;s:4:"file";s:21:"2014/11/team6-lrg.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"team6-lrg-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"team6-lrg-250x166.jpg";s:5:"width";i:250;s:6:"height";i:166;s:9:"mime-type";s:10:"image/jpeg";}s:17:"related_portfolio";a:4:{s:4:"file";s:21:"team6-lrg-270x140.jpg";s:5:"width";i:270;s:6:"height";i:140;s:9:"mime-type";s:10:"image/jpeg";}s:10:"auto_thumb";a:4:{s:4:"file";s:21:"team6-lrg-167x119.jpg";s:5:"width";i:167;s:6:"height";i:119;s:9:"mime-type";s:10:"image/jpeg";}s:12:"auto_listing";a:4:{s:4:"file";s:21:"team6-lrg-200x150.jpg";s:5:"width";i:200;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:5:"small";a:4:{s:4:"file";s:20:"team6-lrg-120x79.jpg";s:5:"width";i:120;s:6:"height";i:79;s:9:"mime-type";s:10:"image/jpeg";}s:11:"custom-size";a:4:{s:4:"file";s:21:"team6-lrg-548x200.jpg";s:5:"width";i:548;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";d:2.79999999999999982236431605997495353221893310546875;s:6:"credit";s:0:"";s:6:"camera";s:9:"NIKON D3X";s:7:"caption";s:88:"Smiling business man reclines back in his chair with colleagues discussing in background";s:17:"created_timestamp";i:1292322955;s:9:"copyright";s:0:"";s:12:"focal_length";s:2:"50";s:3:"iso";s:3:"160";s:13:"shutter_speed";s:5:"0.005";s:5:"title";s:5:"10101";s:11:"orientation";i:1;}}]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+    <item>
+                <title>team6</title>
+        <link>http://dev.themesuite.com/automotive/?attachment_id=980</link>
+        <pubDate>Mon, 10 Nov 2014 20:39:22 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/team6.jpg</guid>
+        <description></description>
+        <content:encoded><![CDATA[]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>980</wp:post_id>
+        <wp:post_date>2014-11-10 15:39:22</wp:post_date>
+        <wp:post_date_gmt>2014-11-10 20:39:22</wp:post_date_gmt>
+        <wp:comment_status>closed</wp:comment_status>
+        <wp:ping_status>closed</wp:ping_status>
+        <wp:post_name>team6</wp:post_name>
+        <wp:status>inherit</wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+        <wp:post_type>attachment</wp:post_type>
+        <wp:post_password></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:attachment_url>http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/team6.jpg</wp:attachment_url>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attached_file</wp:meta_key>
+            <wp:meta_value><![CDATA[2014/11/team6.jpg]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+            <wp:meta_value><![CDATA[a:5:{s:5:"width";i:270;s:6:"height";i:180;s:4:"file";s:17:"2014/11/team6.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"team6-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"team6-250x166.jpg";s:5:"width";i:250;s:6:"height";i:166;s:9:"mime-type";s:10:"image/jpeg";}s:17:"related_portfolio";a:4:{s:4:"file";s:17:"team6-270x140.jpg";s:5:"width";i:270;s:6:"height";i:140;s:9:"mime-type";s:10:"image/jpeg";}s:10:"auto_thumb";a:4:{s:4:"file";s:17:"team6-167x119.jpg";s:5:"width";i:167;s:6:"height";i:119;s:9:"mime-type";s:10:"image/jpeg";}s:12:"auto_listing";a:4:{s:4:"file";s:17:"team6-200x150.jpg";s:5:"width";i:200;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:5:"small";a:4:{s:4:"file";s:16:"team6-120x80.jpg";s:5:"width";i:120;s:6:"height";i:80;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+    <item>
+                <title>Portrait of a happy business woman working in office</title>
+        <link>http://dev.themesuite.com/automotive/?attachment_id=981</link>
+        <pubDate>Mon, 10 Nov 2014 20:39:23 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/team7-lrg.jpg</guid>
+        <description></description>
+        <content:encoded><![CDATA[Portrait of a happy young  business woman working in office]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>981</wp:post_id>
+        <wp:post_date>2014-11-10 15:39:23</wp:post_date>
+        <wp:post_date_gmt>2014-11-10 20:39:23</wp:post_date_gmt>
+        <wp:comment_status>closed</wp:comment_status>
+        <wp:ping_status>closed</wp:ping_status>
+        <wp:post_name>portrait-of-a-happy-business-woman-working-in-office</wp:post_name>
+        <wp:status>inherit</wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+        <wp:post_type>attachment</wp:post_type>
+        <wp:post_password></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:attachment_url>http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/team7-lrg.jpg</wp:attachment_url>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attached_file</wp:meta_key>
+            <wp:meta_value><![CDATA[2014/11/team7-lrg.jpg]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+            <wp:meta_value><![CDATA[a:5:{s:5:"width";i:452;s:6:"height";i:442;s:4:"file";s:21:"2014/11/team7-lrg.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"team7-lrg-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"team7-lrg-250x244.jpg";s:5:"width";i:250;s:6:"height";i:244;s:9:"mime-type";s:10:"image/jpeg";}s:17:"related_portfolio";a:4:{s:4:"file";s:21:"team7-lrg-270x140.jpg";s:5:"width";i:270;s:6:"height";i:140;s:9:"mime-type";s:10:"image/jpeg";}s:10:"auto_thumb";a:4:{s:4:"file";s:21:"team7-lrg-167x119.jpg";s:5:"width";i:167;s:6:"height";i:119;s:9:"mime-type";s:10:"image/jpeg";}s:12:"auto_listing";a:4:{s:4:"file";s:21:"team7-lrg-200x150.jpg";s:5:"width";i:200;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:5:"small";a:4:{s:4:"file";s:21:"team7-lrg-120x117.jpg";s:5:"width";i:120;s:6:"height";i:117;s:9:"mime-type";s:10:"image/jpeg";}s:11:"custom-size";a:4:{s:4:"file";s:21:"team7-lrg-452x200.jpg";s:5:"width";i:452;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";d:5.5999999999999996447286321199499070644378662109375;s:6:"credit";s:0:"";s:6:"camera";s:20:"Hasselblad H3D II-39";s:7:"caption";s:59:"Portrait of a happy young  business woman working in office";s:17:"created_timestamp";i:1210349863;s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"105";s:3:"iso";s:3:"200";s:13:"shutter_speed";s:16:"0.00799999944866";s:5:"title";s:52:"Portrait of a happy business woman working in office";s:11:"orientation";i:1;}}]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+    <item>
+                <title>team7</title>
+        <link>http://dev.themesuite.com/automotive/?attachment_id=982</link>
+        <pubDate>Mon, 10 Nov 2014 20:39:24 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/team7.jpg</guid>
+        <description></description>
+        <content:encoded><![CDATA[]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>982</wp:post_id>
+        <wp:post_date>2014-11-10 15:39:24</wp:post_date>
+        <wp:post_date_gmt>2014-11-10 20:39:24</wp:post_date_gmt>
+        <wp:comment_status>closed</wp:comment_status>
+        <wp:ping_status>closed</wp:ping_status>
+        <wp:post_name>team7</wp:post_name>
+        <wp:status>inherit</wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+        <wp:post_type>attachment</wp:post_type>
+        <wp:post_password></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:attachment_url>http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/team7.jpg</wp:attachment_url>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attached_file</wp:meta_key>
+            <wp:meta_value><![CDATA[2014/11/team7.jpg]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+            <wp:meta_value><![CDATA[a:5:{s:5:"width";i:270;s:6:"height";i:180;s:4:"file";s:17:"2014/11/team7.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"team7-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"team7-250x166.jpg";s:5:"width";i:250;s:6:"height";i:166;s:9:"mime-type";s:10:"image/jpeg";}s:17:"related_portfolio";a:4:{s:4:"file";s:17:"team7-270x140.jpg";s:5:"width";i:270;s:6:"height";i:140;s:9:"mime-type";s:10:"image/jpeg";}s:10:"auto_thumb";a:4:{s:4:"file";s:17:"team7-167x119.jpg";s:5:"width";i:167;s:6:"height";i:119;s:9:"mime-type";s:10:"image/jpeg";}s:12:"auto_listing";a:4:{s:4:"file";s:17:"team7-200x150.jpg";s:5:"width";i:200;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:5:"small";a:4:{s:4:"file";s:16:"team7-120x80.jpg";s:5:"width";i:120;s:6:"height";i:80;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+    <item>
+                <title>twitter-icon-hover</title>
+        <link>http://dev.themesuite.com/automotive/?attachment_id=983</link>
+        <pubDate>Mon, 10 Nov 2014 20:39:25 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/twitter-icon-hover.png</guid>
+        <description></description>
+        <content:encoded><![CDATA[]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>983</wp:post_id>
+        <wp:post_date>2014-11-10 15:39:25</wp:post_date>
+        <wp:post_date_gmt>2014-11-10 20:39:25</wp:post_date_gmt>
+        <wp:comment_status>closed</wp:comment_status>
+        <wp:ping_status>closed</wp:ping_status>
+        <wp:post_name>twitter-icon-hover</wp:post_name>
+        <wp:status>inherit</wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+        <wp:post_type>attachment</wp:post_type>
+        <wp:post_password></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:attachment_url>http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/twitter-icon-hover.png</wp:attachment_url>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attached_file</wp:meta_key>
+            <wp:meta_value><![CDATA[2014/11/twitter-icon-hover.png]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+            <wp:meta_value><![CDATA[a:5:{s:5:"width";i:80;s:6:"height";i:66;s:4:"file";s:30:"2014/11/twitter-icon-hover.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+    <item>
+                <title>twitter-icon</title>
+        <link>http://dev.themesuite.com/automotive/?attachment_id=984</link>
+        <pubDate>Mon, 10 Nov 2014 20:39:26 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/twitter-icon.png</guid>
+        <description></description>
+        <content:encoded><![CDATA[]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>984</wp:post_id>
+        <wp:post_date>2014-11-10 15:39:26</wp:post_date>
+        <wp:post_date_gmt>2014-11-10 20:39:26</wp:post_date_gmt>
+        <wp:comment_status>closed</wp:comment_status>
+        <wp:ping_status>closed</wp:ping_status>
+        <wp:post_name>twitter-icon</wp:post_name>
+        <wp:status>inherit</wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+        <wp:post_type>attachment</wp:post_type>
+        <wp:post_password></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:attachment_url>http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/twitter-icon.png</wp:attachment_url>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attached_file</wp:meta_key>
+            <wp:meta_value><![CDATA[2014/11/twitter-icon.png]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+            <wp:meta_value><![CDATA[a:5:{s:5:"width";i:80;s:6:"height";i:66;s:4:"file";s:24:"2014/11/twitter-icon.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+    <item>
+                <title>wordpress-hover</title>
+        <link>http://dev.themesuite.com/automotive/?attachment_id=985</link>
+        <pubDate>Mon, 10 Nov 2014 20:39:27 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/wordpress-hover.png</guid>
+        <description></description>
+        <content:encoded><![CDATA[]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>985</wp:post_id>
+        <wp:post_date>2014-11-10 15:39:27</wp:post_date>
+        <wp:post_date_gmt>2014-11-10 20:39:27</wp:post_date_gmt>
+        <wp:comment_status>closed</wp:comment_status>
+        <wp:ping_status>closed</wp:ping_status>
+        <wp:post_name>wordpress-hover</wp:post_name>
+        <wp:status>inherit</wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+        <wp:post_type>attachment</wp:post_type>
+        <wp:post_password></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:attachment_url>http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/wordpress-hover.png</wp:attachment_url>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attached_file</wp:meta_key>
+            <wp:meta_value><![CDATA[2014/11/wordpress-hover.png]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+            <wp:meta_value><![CDATA[a:5:{s:5:"width";i:95;s:6:"height";i:60;s:4:"file";s:27:"2014/11/wordpress-hover.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+    <item>
+                <title>wordpress</title>
+        <link>http://dev.themesuite.com/automotive/?attachment_id=986</link>
+        <pubDate>Mon, 10 Nov 2014 20:39:28 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/wordpress.png</guid>
+        <description></description>
+        <content:encoded><![CDATA[]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>986</wp:post_id>
+        <wp:post_date>2014-11-10 15:39:28</wp:post_date>
+        <wp:post_date_gmt>2014-11-10 20:39:28</wp:post_date_gmt>
+        <wp:comment_status>closed</wp:comment_status>
+        <wp:ping_status>closed</wp:ping_status>
+        <wp:post_name>wordpress</wp:post_name>
+        <wp:status>inherit</wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+        <wp:post_type>attachment</wp:post_type>
+        <wp:post_password></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:attachment_url>http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/wordpress.png</wp:attachment_url>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attached_file</wp:meta_key>
+            <wp:meta_value><![CDATA[2014/11/wordpress.png]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+            <wp:meta_value><![CDATA[a:5:{s:5:"width";i:95;s:6:"height";i:60;s:4:"file";s:21:"2014/11/wordpress.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+    <item>
+                <title>you-tube-hover</title>
+        <link>http://dev.themesuite.com/automotive/?attachment_id=987</link>
+        <pubDate>Mon, 10 Nov 2014 20:39:29 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/you-tube-hover.png</guid>
+        <description></description>
+        <content:encoded><![CDATA[]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>987</wp:post_id>
+        <wp:post_date>2014-11-10 15:39:29</wp:post_date>
+        <wp:post_date_gmt>2014-11-10 20:39:29</wp:post_date_gmt>
+        <wp:comment_status>closed</wp:comment_status>
+        <wp:ping_status>closed</wp:ping_status>
+        <wp:post_name>you-tube-hover</wp:post_name>
+        <wp:status>inherit</wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+        <wp:post_type>attachment</wp:post_type>
+        <wp:post_password></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:attachment_url>http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/you-tube-hover.png</wp:attachment_url>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attached_file</wp:meta_key>
+            <wp:meta_value><![CDATA[2014/11/you-tube-hover.png]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+            <wp:meta_value><![CDATA[a:5:{s:5:"width";i:66;s:6:"height";i:66;s:4:"file";s:26:"2014/11/you-tube-hover.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+    <item>
+                <title>you-tube</title>
+        <link>http://dev.themesuite.com/automotive/?attachment_id=988</link>
+        <pubDate>Mon, 10 Nov 2014 20:39:30 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/you-tube.png</guid>
+        <description></description>
+        <content:encoded><![CDATA[]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>988</wp:post_id>
+        <wp:post_date>2014-11-10 15:39:30</wp:post_date>
+        <wp:post_date_gmt>2014-11-10 20:39:30</wp:post_date_gmt>
+        <wp:comment_status>closed</wp:comment_status>
+        <wp:ping_status>closed</wp:ping_status>
+        <wp:post_name>you-tube</wp:post_name>
+        <wp:status>inherit</wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+        <wp:post_type>attachment</wp:post_type>
+        <wp:post_password></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:attachment_url>http://dev.themesuite.com/automotive/wp-content/uploads/2014/11/you-tube.png</wp:attachment_url>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attached_file</wp:meta_key>
+            <wp:meta_value><![CDATA[2014/11/you-tube.png]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+            <wp:meta_value><![CDATA[a:5:{s:5:"width";i:66;s:6:"height";i:66;s:4:"file";s:20:"2014/11/you-tube.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+    <item>
+                <title>slide-show1.jpg</title>
+        <link>http://dev.themesuite.com/automotive/?attachment_id=995</link>
+        <pubDate>Mon, 10 Nov 2014 16:04:53 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">http://dev.themesuite.com/automotive/wp-content/uploads/revslider/homepage/slide-show1.jpg</guid>
+        <description></description>
+        <content:encoded><![CDATA[]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>995</wp:post_id>
+        <wp:post_date>2014-11-10 16:04:53</wp:post_date>
+        <wp:post_date_gmt>2014-11-10 16:04:53</wp:post_date_gmt>
+        <wp:comment_status>closed</wp:comment_status>
+        <wp:ping_status>closed</wp:ping_status>
+        <wp:post_name>slide-show1-jpg</wp:post_name>
+        <wp:status>inherit</wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+        <wp:post_type>attachment</wp:post_type>
+        <wp:post_password></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:attachment_url>http://dev.themesuite.com/automotive/wp-content/uploads/revslider/homepage/slide-show1.jpg</wp:attachment_url>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attached_file</wp:meta_key>
+            <wp:meta_value><![CDATA[revslider/homepage/slide-show1.jpg]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+            <wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:625;s:4:"file";s:34:"revslider/homepage/slide-show1.jpg";s:5:"sizes";a:9:{s:9:"thumbnail";a:4:{s:4:"file";s:23:"slide-show1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:22:"slide-show1-250x78.jpg";s:5:"width";i:250;s:6:"height";i:78;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:23:"slide-show1-700x218.jpg";s:5:"width";i:700;s:6:"height";i:218;s:9:"mime-type";s:10:"image/jpeg";}s:17:"related_portfolio";a:4:{s:4:"file";s:23:"slide-show1-270x140.jpg";s:5:"width";i:270;s:6:"height";i:140;s:9:"mime-type";s:10:"image/jpeg";}s:10:"auto_thumb";a:4:{s:4:"file";s:23:"slide-show1-167x119.jpg";s:5:"width";i:167;s:6:"height";i:119;s:9:"mime-type";s:10:"image/jpeg";}s:11:"auto_slider";a:4:{s:4:"file";s:23:"slide-show1-762x456.jpg";s:5:"width";i:762;s:6:"height";i:456;s:9:"mime-type";s:10:"image/jpeg";}s:12:"auto_listing";a:4:{s:4:"file";s:23:"slide-show1-200x150.jpg";s:5:"width";i:200;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:5:"small";a:4:{s:4:"file";s:22:"slide-show1-120x37.jpg";s:5:"width";i:120;s:6:"height";i:37;s:9:"mime-type";s:10:"image/jpeg";}s:11:"custom-size";a:4:{s:4:"file";s:23:"slide-show1-700x200.jpg";s:5:"width";i:700;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+    <item>
+                <title>slide-show2.jpg</title>
+        <link>http://dev.themesuite.com/automotive/?attachment_id=996</link>
+        <pubDate>Mon, 10 Nov 2014 16:04:54 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">http://dev.themesuite.com/automotive/wp-content/uploads/revslider/homepage/slide-show2.jpg</guid>
+        <description></description>
+        <content:encoded><![CDATA[]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>996</wp:post_id>
+        <wp:post_date>2014-11-10 16:04:54</wp:post_date>
+        <wp:post_date_gmt>2014-11-10 16:04:54</wp:post_date_gmt>
+        <wp:comment_status>closed</wp:comment_status>
+        <wp:ping_status>closed</wp:ping_status>
+        <wp:post_name>slide-show2-jpg</wp:post_name>
+        <wp:status>inherit</wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+        <wp:post_type>attachment</wp:post_type>
+        <wp:post_password></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:attachment_url>http://dev.themesuite.com/automotive/wp-content/uploads/revslider/homepage/slide-show2.jpg</wp:attachment_url>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attached_file</wp:meta_key>
+            <wp:meta_value><![CDATA[revslider/homepage/slide-show2.jpg]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+            <wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:625;s:4:"file";s:34:"revslider/homepage/slide-show2.jpg";s:5:"sizes";a:9:{s:9:"thumbnail";a:4:{s:4:"file";s:23:"slide-show2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:22:"slide-show2-250x78.jpg";s:5:"width";i:250;s:6:"height";i:78;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:23:"slide-show2-700x218.jpg";s:5:"width";i:700;s:6:"height";i:218;s:9:"mime-type";s:10:"image/jpeg";}s:17:"related_portfolio";a:4:{s:4:"file";s:23:"slide-show2-270x140.jpg";s:5:"width";i:270;s:6:"height";i:140;s:9:"mime-type";s:10:"image/jpeg";}s:10:"auto_thumb";a:4:{s:4:"file";s:23:"slide-show2-167x119.jpg";s:5:"width";i:167;s:6:"height";i:119;s:9:"mime-type";s:10:"image/jpeg";}s:11:"auto_slider";a:4:{s:4:"file";s:23:"slide-show2-762x456.jpg";s:5:"width";i:762;s:6:"height";i:456;s:9:"mime-type";s:10:"image/jpeg";}s:12:"auto_listing";a:4:{s:4:"file";s:23:"slide-show2-200x150.jpg";s:5:"width";i:200;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:5:"small";a:4:{s:4:"file";s:22:"slide-show2-120x37.jpg";s:5:"width";i:120;s:6:"height";i:37;s:9:"mime-type";s:10:"image/jpeg";}s:11:"custom-size";a:4:{s:4:"file";s:23:"slide-show2-700x200.jpg";s:5:"width";i:700;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+    <item>
+                <title>slide-show3.jpg</title>
+        <link>http://dev.themesuite.com/automotive/?attachment_id=998</link>
+        <pubDate>Mon, 10 Nov 2014 16:04:54 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">http://dev.themesuite.com/automotive/wp-content/uploads/revslider/homepage/slide-show3.jpg</guid>
+        <description></description>
+        <content:encoded><![CDATA[]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>998</wp:post_id>
+        <wp:post_date>2014-11-10 16:04:54</wp:post_date>
+        <wp:post_date_gmt>2014-11-10 16:04:54</wp:post_date_gmt>
+        <wp:comment_status>closed</wp:comment_status>
+        <wp:ping_status>closed</wp:ping_status>
+        <wp:post_name>slide-show3-jpg</wp:post_name>
+        <wp:status>inherit</wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+        <wp:post_type>attachment</wp:post_type>
+        <wp:post_password></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:attachment_url>http://dev.themesuite.com/automotive/wp-content/uploads/revslider/homepage/slide-show3.jpg</wp:attachment_url>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attached_file</wp:meta_key>
+            <wp:meta_value><![CDATA[revslider/homepage/slide-show3.jpg]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+            <wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:625;s:4:"file";s:34:"revslider/homepage/slide-show3.jpg";s:5:"sizes";a:9:{s:9:"thumbnail";a:4:{s:4:"file";s:23:"slide-show3-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:22:"slide-show3-250x78.jpg";s:5:"width";i:250;s:6:"height";i:78;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:23:"slide-show3-700x218.jpg";s:5:"width";i:700;s:6:"height";i:218;s:9:"mime-type";s:10:"image/jpeg";}s:17:"related_portfolio";a:4:{s:4:"file";s:23:"slide-show3-270x140.jpg";s:5:"width";i:270;s:6:"height";i:140;s:9:"mime-type";s:10:"image/jpeg";}s:10:"auto_thumb";a:4:{s:4:"file";s:23:"slide-show3-167x119.jpg";s:5:"width";i:167;s:6:"height";i:119;s:9:"mime-type";s:10:"image/jpeg";}s:11:"auto_slider";a:4:{s:4:"file";s:23:"slide-show3-762x456.jpg";s:5:"width";i:762;s:6:"height";i:456;s:9:"mime-type";s:10:"image/jpeg";}s:12:"auto_listing";a:4:{s:4:"file";s:23:"slide-show3-200x150.jpg";s:5:"width";i:200;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:5:"small";a:4:{s:4:"file";s:22:"slide-show3-120x37.jpg";s:5:"width";i:120;s:6:"height";i:37;s:9:"mime-type";s:10:"image/jpeg";}s:11:"custom-size";a:4:{s:4:"file";s:23:"slide-show3-700x200.jpg";s:5:"width";i:700;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+    <item>
+                <title>slide-show4.jpg</title>
+        <link>http://dev.themesuite.com/automotive/?attachment_id=999</link>
+        <pubDate>Mon, 10 Nov 2014 16:04:55 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">http://dev.themesuite.com/automotive/wp-content/uploads/revslider/homepage/slide-show4.jpg</guid>
+        <description></description>
+        <content:encoded><![CDATA[]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>999</wp:post_id>
+        <wp:post_date>2014-11-10 16:04:55</wp:post_date>
+        <wp:post_date_gmt>2014-11-10 16:04:55</wp:post_date_gmt>
+        <wp:comment_status>closed</wp:comment_status>
+        <wp:ping_status>closed</wp:ping_status>
+        <wp:post_name>slide-show4-jpg</wp:post_name>
+        <wp:status>inherit</wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+        <wp:post_type>attachment</wp:post_type>
+        <wp:post_password></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:attachment_url>http://dev.themesuite.com/automotive/wp-content/uploads/revslider/homepage/slide-show4.jpg</wp:attachment_url>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attached_file</wp:meta_key>
+            <wp:meta_value><![CDATA[revslider/homepage/slide-show4.jpg]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+            <wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:625;s:4:"file";s:34:"revslider/homepage/slide-show4.jpg";s:5:"sizes";a:9:{s:9:"thumbnail";a:4:{s:4:"file";s:23:"slide-show4-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:22:"slide-show4-250x78.jpg";s:5:"width";i:250;s:6:"height";i:78;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:23:"slide-show4-700x218.jpg";s:5:"width";i:700;s:6:"height";i:218;s:9:"mime-type";s:10:"image/jpeg";}s:17:"related_portfolio";a:4:{s:4:"file";s:23:"slide-show4-270x140.jpg";s:5:"width";i:270;s:6:"height";i:140;s:9:"mime-type";s:10:"image/jpeg";}s:10:"auto_thumb";a:4:{s:4:"file";s:23:"slide-show4-167x119.jpg";s:5:"width";i:167;s:6:"height";i:119;s:9:"mime-type";s:10:"image/jpeg";}s:11:"auto_slider";a:4:{s:4:"file";s:23:"slide-show4-762x456.jpg";s:5:"width";i:762;s:6:"height";i:456;s:9:"mime-type";s:10:"image/jpeg";}s:12:"auto_listing";a:4:{s:4:"file";s:23:"slide-show4-200x150.jpg";s:5:"width";i:200;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:5:"small";a:4:{s:4:"file";s:22:"slide-show4-120x37.jpg";s:5:"width";i:120;s:6:"height";i:37;s:9:"mime-type";s:10:"image/jpeg";}s:11:"custom-size";a:4:{s:4:"file";s:23:"slide-show4-700x200.jpg";s:5:"width";i:700;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+    <item>
+                <title>slide-show5.jpg</title>
+        <link>http://dev.themesuite.com/automotive/?attachment_id=1000</link>
+        <pubDate>Mon, 10 Nov 2014 16:04:55 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">http://dev.themesuite.com/automotive/wp-content/uploads/revslider/homepage/slide-show5.jpg</guid>
+        <description></description>
+        <content:encoded><![CDATA[]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>1000</wp:post_id>
+        <wp:post_date>2014-11-10 16:04:55</wp:post_date>
+        <wp:post_date_gmt>2014-11-10 16:04:55</wp:post_date_gmt>
+        <wp:comment_status>closed</wp:comment_status>
+        <wp:ping_status>closed</wp:ping_status>
+        <wp:post_name>slide-show5-jpg</wp:post_name>
+        <wp:status>inherit</wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+        <wp:post_type>attachment</wp:post_type>
+        <wp:post_password></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:attachment_url>http://dev.themesuite.com/automotive/wp-content/uploads/revslider/homepage/slide-show5.jpg</wp:attachment_url>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attached_file</wp:meta_key>
+            <wp:meta_value><![CDATA[revslider/homepage/slide-show5.jpg]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+            <wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:625;s:4:"file";s:34:"revslider/homepage/slide-show5.jpg";s:5:"sizes";a:9:{s:9:"thumbnail";a:4:{s:4:"file";s:23:"slide-show5-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:22:"slide-show5-250x78.jpg";s:5:"width";i:250;s:6:"height";i:78;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:23:"slide-show5-700x218.jpg";s:5:"width";i:700;s:6:"height";i:218;s:9:"mime-type";s:10:"image/jpeg";}s:17:"related_portfolio";a:4:{s:4:"file";s:23:"slide-show5-270x140.jpg";s:5:"width";i:270;s:6:"height";i:140;s:9:"mime-type";s:10:"image/jpeg";}s:10:"auto_thumb";a:4:{s:4:"file";s:23:"slide-show5-167x119.jpg";s:5:"width";i:167;s:6:"height";i:119;s:9:"mime-type";s:10:"image/jpeg";}s:11:"auto_slider";a:4:{s:4:"file";s:23:"slide-show5-762x456.jpg";s:5:"width";i:762;s:6:"height";i:456;s:9:"mime-type";s:10:"image/jpeg";}s:12:"auto_listing";a:4:{s:4:"file";s:23:"slide-show5-200x150.jpg";s:5:"width";i:200;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:5:"small";a:4:{s:4:"file";s:22:"slide-show5-120x37.jpg";s:5:"width";i:120;s:6:"height";i:37;s:9:"mime-type";s:10:"image/jpeg";}s:11:"custom-size";a:4:{s:4:"file";s:23:"slide-show5-700x200.jpg";s:5:"width";i:700;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+    <item>
+                <title>Portrait of a happy business woman working in office</title>
+        <link>http://dev.themesuite.com/automotive/?attachment_id=1026</link>
+        <pubDate>Mon, 10 Nov 2014 21:37:46 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">http://dev.themesuite.com/automotive/wp-content/uploads/2014/09/team7-lrg1.jpg</guid>
+        <description></description>
+        <content:encoded><![CDATA[Portrait of a happy young  business woman working in office]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>1026</wp:post_id>
+        <wp:post_date>2014-11-10 16:37:46</wp:post_date>
+        <wp:post_date_gmt>2014-11-10 21:37:46</wp:post_date_gmt>
+        <wp:comment_status>closed</wp:comment_status>
+        <wp:ping_status>closed</wp:ping_status>
+        <wp:post_name>portrait-of-a-happy-business-woman-working-in-office-2</wp:post_name>
+        <wp:status>inherit</wp:status>
+        <wp:post_parent>107</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+        <wp:post_type>attachment</wp:post_type>
+        <wp:post_password></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:attachment_url>http://dev.themesuite.com/automotive/wp-content/uploads/2014/09/team7-lrg1.jpg</wp:attachment_url>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attached_file</wp:meta_key>
+            <wp:meta_value><![CDATA[2014/09/team7-lrg1.jpg]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+            <wp:meta_value><![CDATA[a:5:{s:5:"width";i:452;s:6:"height";i:442;s:4:"file";s:22:"2014/09/team7-lrg1.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:22:"team7-lrg1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:22:"team7-lrg1-250x244.jpg";s:5:"width";i:250;s:6:"height";i:244;s:9:"mime-type";s:10:"image/jpeg";}s:17:"related_portfolio";a:4:{s:4:"file";s:22:"team7-lrg1-270x140.jpg";s:5:"width";i:270;s:6:"height";i:140;s:9:"mime-type";s:10:"image/jpeg";}s:10:"auto_thumb";a:4:{s:4:"file";s:22:"team7-lrg1-167x119.jpg";s:5:"width";i:167;s:6:"height";i:119;s:9:"mime-type";s:10:"image/jpeg";}s:12:"auto_listing";a:4:{s:4:"file";s:22:"team7-lrg1-200x150.jpg";s:5:"width";i:200;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:5:"small";a:4:{s:4:"file";s:22:"team7-lrg1-120x117.jpg";s:5:"width";i:120;s:6:"height";i:117;s:9:"mime-type";s:10:"image/jpeg";}s:11:"custom-size";a:4:{s:4:"file";s:22:"team7-lrg1-452x200.jpg";s:5:"width";i:452;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";d:5.5999999999999996447286321199499070644378662109375;s:6:"credit";s:0:"";s:6:"camera";s:20:"Hasselblad H3D II-39";s:7:"caption";s:59:"Portrait of a happy young  business woman working in office";s:17:"created_timestamp";i:1210349863;s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"105";s:3:"iso";s:3:"200";s:13:"shutter_speed";s:16:"0.00799999944866";s:5:"title";s:52:"Portrait of a happy business woman working in office";s:11:"orientation";i:1;}}]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+</channel>
+</rss>
